@@ -1,0 +1,74 @@
+{
+  "validated_at_utc": "2026-10-20T13:52:20+00:00",
+  "overall_passed": true,
+  "summary": {
+    "species_rows": 1025,
+    "regional_form_rows": 58,
+    "regions": 9,
+    "duplicate_species_ids": 0,
+    "raw_species_files": 1025,
+    "raw_pokemon_files": 1083
+  },
+  "checks": [
+    {
+      "check": "required_files",
+      "passed": true,
+      "details": "All required files exist."
+    },
+    {
+      "check": "species_columns",
+      "passed": true,
+      "details": "All required species columns exist."
+    },
+    {
+      "check": "form_columns",
+      "passed": true,
+      "details": "All required regional form columns exist."
+    },
+    {
+      "check": "species_row_count",
+      "passed": true,
+      "details": "CSV rows=1025, quality report rows=1025"
+    },
+    {
+      "check": "duplicate_species_ids",
+      "passed": true,
+      "details": "Duplicate species IDs: 0"
+    },
+    {
+      "check": "region_coverage",
+      "passed": true,
+      "details": "Covered regions: 关都, 城都, 丰缘, 神奥, 合众, 卡洛斯, 阿罗拉, 伽勒尔, 帕底亚"
+    },
+    {
+      "check": "missing_core_values",
+      "passed": true,
+      "details": "Missing values in core columns: 0"
+    },
+    {
+      "check": "valid_types",
+      "passed": true,
+      "details": "Unexpected types: []"
+    },
+    {
+      "check": "stat_ranges",
+      "passed": true,
+      "details": "All six base stats and total stats are positive numeric values."
+    },
+    {
+      "check": "regional_forms",
+      "passed": true,
+      "details": "Duplicate form IDs: 0; all form species links valid: true"
+    },
+    {
+      "check": "collection_failures",
+      "passed": true,
+      "details": "Failed species: 0"
+    },
+    {
+      "check": "raw_cache",
+      "passed": true,
+      "details": "Raw species files: 1025; raw Pokemon files: 1083"
+    }
+  ]
+}

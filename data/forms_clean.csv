@@ -1,0 +1,59 @@
+﻿species_id,dex_number,species_name_en,species_name_zh,form_id,form_name_en,form_name_zh,form_region_en,form_region_cn,form_region_order,is_regional_form,type1_en,type1_zh,type2_en,type2_zh,hp,attack,defense,special_attack,special_defense,speed,total_stats,height_m,weight_kg,base_experience,abilities,hidden_ability,pokemon_id
+58,58,growlithe,卡蒂狗,10229,growlithe-hisui,卡蒂狗（洗翠形态）,hisui,洗翠,0,True,fire,火,rock,岩石,60,75,45,65,50,55,350,0.8,22.7,70,intimidate; flash fire,rock head,10229
+59,59,arcanine,风速狗,10230,arcanine-hisui,风速狗（洗翠形态）,hisui,洗翠,0,True,fire,火,rock,岩石,95,115,80,95,80,90,555,2.0,168.0,194,intimidate; flash fire,rock head,10230
+100,100,voltorb,霹雳电球,10231,voltorb-hisui,霹雳电球（洗翠形态）,hisui,洗翠,0,True,electric,电,grass,草,40,30,50,55,55,100,330,0.5,13.0,66,soundproof; static,aftermath,10231
+101,101,electrode,顽皮雷弹,10232,electrode-hisui,顽皮雷弹（洗翠形态）,hisui,洗翠,0,True,electric,电,grass,草,60,50,70,80,80,150,490,1.2,71.0,172,soundproof; static,aftermath,10232
+157,157,typhlosion,火暴兽,10233,typhlosion-hisui,火暴兽（洗翠形态）,hisui,洗翠,0,True,fire,火,ghost,幽灵,73,84,78,119,85,95,534,1.6,69.8,240,blaze,frisk,10233
+211,211,qwilfish,千针鱼,10234,qwilfish-hisui,千针鱼（洗翠形态）,hisui,洗翠,0,True,dark,恶,poison,毒,65,95,85,55,55,85,440,0.5,3.9,88,poison point; swift swim,intimidate,10234
+215,215,sneasel,狃拉,10235,sneasel-hisui,狃拉（洗翠形态）,hisui,洗翠,0,True,fighting,格斗,poison,毒,55,95,55,35,75,115,430,0.9,27.0,86,inner focus; keen eye,pickpocket,10235
+503,503,samurott,大剑鬼,10236,samurott-hisui,大剑鬼（洗翠形态）,hisui,洗翠,0,True,water,水,dark,恶,90,108,80,100,65,85,528,1.5,58.2,238,torrent,sharpness,10236
+549,549,lilligant,裙儿小姐,10237,lilligant-hisui,裙儿小姐（洗翠形态）,hisui,洗翠,0,True,grass,草,fighting,格斗,70,105,75,50,75,105,480,1.2,19.2,168,chlorophyll; hustle,leaf guard,10237
+570,570,zorua,索罗亚,10238,zorua-hisui,索罗亚（洗翠形态）,hisui,洗翠,0,True,normal,一般,ghost,幽灵,35,60,40,85,40,70,330,0.7,12.5,66,illusion,,10238
+571,571,zoroark,索罗亚克,10239,zoroark-hisui,索罗亚克（洗翠形态）,hisui,洗翠,0,True,normal,一般,ghost,幽灵,55,100,60,125,60,110,510,1.6,73.0,179,illusion,,10239
+628,628,braviary,勇士雄鹰,10240,braviary-hisui,勇士雄鹰（洗翠形态）,hisui,洗翠,0,True,psychic,超能力,flying,飞行,110,83,70,112,70,65,510,1.7,43.4,179,keen eye; sheer force,tinted lens,10240
+705,705,sliggoo,黏美儿,10241,sliggoo-hisui,黏美儿（洗翠形态）,hisui,洗翠,0,True,steel,钢,dragon,龙,58,75,83,83,113,40,452,0.7,68.5,158,sap sipper; shell armor,gooey,10241
+706,706,goodra,黏美龙,10242,goodra-hisui,黏美龙（洗翠形态）,hisui,洗翠,0,True,steel,钢,dragon,龙,80,100,100,110,150,60,600,1.7,334.1,270,sap sipper; shell armor,gooey,10242
+713,713,avalugg,冰岩怪,10243,avalugg-hisui,冰岩怪（洗翠形态）,hisui,洗翠,0,True,ice,冰,rock,岩石,95,127,184,34,36,38,514,1.4,262.4,180,strong jaw; ice body,sturdy,10243
+724,724,decidueye,狙射树枭,10244,decidueye-hisui,狙射树枭（洗翠形态）,hisui,洗翠,0,True,grass,草,fighting,格斗,88,112,80,95,95,60,530,1.6,37.0,239,overgrow,scrappy,10244
+19,19,rattata,小拉达,10091,rattata-alola,小拉达（阿罗拉形态）,alola,阿罗拉,7,True,dark,恶,normal,一般,30,56,35,25,35,72,253,0.3,3.8,51,gluttony; hustle,thick fat,10091
+20,20,raticate,拉达,10092,raticate-alola,拉达（阿罗拉形态）,alola,阿罗拉,7,True,dark,恶,normal,一般,75,71,70,40,80,77,413,0.7,25.5,145,gluttony; hustle,thick fat,10092
+26,26,raichu,雷丘,10100,raichu-alola,雷丘（阿罗拉形态）,alola,阿罗拉,7,True,electric,电,psychic,超能力,60,85,50,95,85,110,485,0.7,21.0,243,surge surfer,,10100
+27,27,sandshrew,穿山鼠,10101,sandshrew-alola,穿山鼠（阿罗拉形态）,alola,阿罗拉,7,True,ice,冰,steel,钢,50,75,90,10,35,40,300,0.7,40.0,60,snow cloak,slush rush,10101
+28,28,sandslash,穿山王,10102,sandslash-alola,穿山王（阿罗拉形态）,alola,阿罗拉,7,True,ice,冰,steel,钢,75,100,120,25,65,65,450,1.2,55.0,158,snow cloak,slush rush,10102
+37,37,vulpix,六尾,10103,vulpix-alola,六尾（阿罗拉形态）,alola,阿罗拉,7,True,ice,冰,,,38,41,40,50,65,65,299,0.6,9.9,60,snow cloak,snow warning,10103
+38,38,ninetales,九尾,10104,ninetales-alola,九尾（阿罗拉形态）,alola,阿罗拉,7,True,ice,冰,fairy,妖精,73,67,75,81,100,109,505,1.1,19.9,177,snow cloak,snow warning,10104
+50,50,diglett,地鼠,10105,diglett-alola,地鼠（阿罗拉形态）,alola,阿罗拉,7,True,ground,地面,steel,钢,10,55,30,35,45,90,265,0.2,1.0,53,sand veil; tangling hair,sand force,10105
+51,51,dugtrio,三地鼠,10106,dugtrio-alola,三地鼠（阿罗拉形态）,alola,阿罗拉,7,True,ground,地面,steel,钢,35,100,60,50,70,110,425,0.7,66.6,149,sand veil; tangling hair,sand force,10106
+52,52,meowth,喵喵,10107,meowth-alola,喵喵（阿罗拉形态）,alola,阿罗拉,7,True,dark,恶,,,40,35,35,50,40,90,290,0.4,4.2,58,pickup; technician,rattled,10107
+53,53,persian,猫老大,10108,persian-alola,猫老大（阿罗拉形态）,alola,阿罗拉,7,True,dark,恶,,,65,60,60,75,65,115,440,1.1,33.0,154,fur coat; technician,rattled,10108
+74,74,geodude,小拳石,10109,geodude-alola,小拳石（阿罗拉形态）,alola,阿罗拉,7,True,rock,岩石,electric,电,40,80,100,30,30,20,300,0.4,20.3,60,magnet pull; sturdy,galvanize,10109
+75,75,graveler,隆隆石,10110,graveler-alola,隆隆石（阿罗拉形态）,alola,阿罗拉,7,True,rock,岩石,electric,电,55,95,115,45,45,35,390,1.0,110.0,137,magnet pull; sturdy,galvanize,10110
+76,76,golem,隆隆岩,10111,golem-alola,隆隆岩（阿罗拉形态）,alola,阿罗拉,7,True,rock,岩石,electric,电,80,120,130,55,65,45,495,1.7,316.0,223,magnet pull; sturdy,galvanize,10111
+88,88,grimer,臭泥,10112,grimer-alola,臭泥（阿罗拉形态）,alola,阿罗拉,7,True,poison,毒,dark,恶,80,80,50,40,50,25,325,0.7,42.0,65,poison touch; gluttony,power of alchemy,10112
+89,89,muk,臭臭泥,10113,muk-alola,臭臭泥（阿罗拉形态）,alola,阿罗拉,7,True,poison,毒,dark,恶,105,105,75,65,100,50,500,1.0,52.0,175,poison touch; gluttony,power of alchemy,10113
+103,103,exeggutor,椰蛋树,10114,exeggutor-alola,椰蛋树（阿罗拉形态）,alola,阿罗拉,7,True,grass,草,dragon,龙,95,105,85,125,75,45,530,10.9,415.6,186,frisk,harvest,10114
+105,105,marowak,嘎啦嘎啦,10115,marowak-alola,嘎啦嘎啦（阿罗拉形态）,alola,阿罗拉,7,True,fire,火,ghost,幽灵,60,80,110,50,80,45,425,1.0,34.0,149,cursed body; lightning rod,rock head,10115
+52,52,meowth,喵喵,10161,meowth-galar,喵喵（伽勒尔形态）,galar,伽勒尔,8,True,steel,钢,,,50,65,55,40,40,40,290,0.4,7.5,58,pickup; tough claws,unnerve,10161
+77,77,ponyta,小火马,10162,ponyta-galar,小火马（伽勒尔形态）,galar,伽勒尔,8,True,psychic,超能力,,,50,85,55,65,65,90,410,0.8,24.0,82,run away; pastel veil,anticipation,10162
+78,78,rapidash,烈焰马,10163,rapidash-galar,烈焰马（伽勒尔形态）,galar,伽勒尔,8,True,psychic,超能力,fairy,妖精,65,100,70,80,80,105,500,1.7,80.0,175,run away; pastel veil,anticipation,10163
+79,79,slowpoke,呆呆兽,10164,slowpoke-galar,呆呆兽（伽勒尔形态）,galar,伽勒尔,8,True,psychic,超能力,,,90,65,65,40,40,15,315,1.2,36.0,63,gluttony; own tempo,regenerator,10164
+80,80,slowbro,呆壳兽,10165,slowbro-galar,呆壳兽（伽勒尔形态）,galar,伽勒尔,8,True,poison,毒,psychic,超能力,95,100,95,100,70,30,490,1.6,70.5,172,quick draw; own tempo,regenerator,10165
+83,83,farfetchd,大葱鸭,10166,farfetchd-galar,大葱鸭（伽勒尔形态）,galar,伽勒尔,8,True,fighting,格斗,,,52,95,55,58,62,55,377,0.8,42.0,132,steadfast,scrappy,10166
+110,110,weezing,双弹瓦斯,10167,weezing-galar,双弹瓦斯（伽勒尔形态）,galar,伽勒尔,8,True,poison,毒,fairy,妖精,65,90,120,85,70,60,490,3.0,16.0,172,levitate; neutralizing gas,misty surge,10167
+122,122,mr-mime,魔墙人偶,10168,mr-mime-galar,魔墙人偶（伽勒尔形态）,galar,伽勒尔,8,True,ice,冰,psychic,超能力,50,65,65,90,90,100,460,1.4,56.8,161,vital spirit; screen cleaner,ice body,10168
+144,144,articuno,急冻鸟,10169,articuno-galar,急冻鸟（伽勒尔形态）,galar,伽勒尔,8,True,psychic,超能力,flying,飞行,90,85,85,125,100,95,580,1.7,50.9,290,competitive,,10169
+145,145,zapdos,闪电鸟,10170,zapdos-galar,闪电鸟（伽勒尔形态）,galar,伽勒尔,8,True,fighting,格斗,flying,飞行,90,125,90,85,90,100,580,1.6,58.2,290,defiant,,10170
+146,146,moltres,火焰鸟,10171,moltres-galar,火焰鸟（伽勒尔形态）,galar,伽勒尔,8,True,dark,恶,flying,飞行,90,85,90,100,125,90,580,2.0,66.0,290,berserk,,10171
+199,199,slowking,呆呆王,10172,slowking-galar,呆呆王（伽勒尔形态）,galar,伽勒尔,8,True,poison,毒,psychic,超能力,95,65,80,110,110,30,490,1.8,79.5,172,curious medicine; own tempo,regenerator,10172
+222,222,corsola,太阳珊瑚,10173,corsola-galar,太阳珊瑚（伽勒尔形态）,galar,伽勒尔,8,True,ghost,幽灵,,,60,55,100,65,100,30,410,0.6,0.5,144,weak armor,cursed body,10173
+263,263,zigzagoon,蛇纹熊,10174,zigzagoon-galar,蛇纹熊（伽勒尔形态）,galar,伽勒尔,8,True,dark,恶,normal,一般,38,30,41,30,41,60,240,0.4,17.5,56,pickup; gluttony,quick feet,10174
+264,264,linoone,直冲熊,10175,linoone-galar,直冲熊（伽勒尔形态）,galar,伽勒尔,8,True,dark,恶,normal,一般,78,70,61,50,61,100,420,0.5,32.5,147,pickup; gluttony,quick feet,10175
+554,554,darumaka,火红不倒翁,10176,darumaka-galar,火红不倒翁（伽勒尔形态）,galar,伽勒尔,8,True,ice,冰,,,70,90,45,15,45,50,315,0.7,40.0,63,hustle,inner focus,10176
+555,555,darmanitan,达摩狒狒,10177,darmanitan-galar-standard,达摩狒狒（伽勒尔形态）,galar,伽勒尔,8,True,ice,冰,,,105,140,55,30,55,95,480,1.7,120.0,168,gorilla tactics,zen mode,10177
+555,555,darmanitan,达摩狒狒,10178,darmanitan-galar-zen,达摩狒狒（伽勒尔形态）,galar,伽勒尔,8,True,ice,冰,fire,火,105,160,55,30,55,135,540,1.7,120.0,189,gorilla tactics,zen mode,10178
+562,562,yamask,哭哭面具,10179,yamask-galar,哭哭面具（伽勒尔形态）,galar,伽勒尔,8,True,ground,地面,ghost,幽灵,38,55,85,30,65,30,303,0.5,1.5,61,wandering spirit,,10179
+618,618,stunfisk,泥巴鱼,10180,stunfisk-galar,泥巴鱼（伽勒尔形态）,galar,伽勒尔,8,True,ground,地面,steel,钢,109,81,99,66,84,32,471,0.7,20.5,165,mimicry,,10180
+128,128,tauros,肯泰罗,10250,tauros-paldea-combat-breed,肯泰罗（帕底亚形态）,paldea,帕底亚,9,True,fighting,格斗,,,75,110,105,30,70,100,490,1.4,115.0,172,intimidate; anger point,cud chew,10250
+128,128,tauros,肯泰罗,10251,tauros-paldea-blaze-breed,肯泰罗（帕底亚形态）,paldea,帕底亚,9,True,fighting,格斗,fire,火,75,110,105,30,70,100,490,1.4,85.0,172,intimidate; anger point,cud chew,10251
+128,128,tauros,肯泰罗,10252,tauros-paldea-aqua-breed,肯泰罗（帕底亚形态）,paldea,帕底亚,9,True,fighting,格斗,water,水,75,110,105,30,70,100,490,1.4,110.0,172,intimidate; anger point,cud chew,10252
+194,194,wooper,乌波,10253,wooper-paldea,乌波（帕底亚形态）,paldea,帕底亚,9,True,poison,毒,ground,地面,55,45,45,25,25,15,210,0.4,11.0,42,poison point; water absorb,unaware,10253

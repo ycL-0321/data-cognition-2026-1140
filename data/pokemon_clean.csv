@@ -1,0 +1,1026 @@
+﻿species_id,dex_number,name_en,name_zh,generation,generation_cn,generation_order,region_en,region_cn,type1_en,type1_zh,type2_en,type2_zh,hp,attack,defense,special_attack,special_defense,speed,total_stats,is_legendary,is_mythical,height_m,weight_kg,base_experience,abilities,hidden_ability,color,habitat,growth_rate,capture_rate,base_happiness,pokemon_id
+1,1,bulbasaur,妙蛙种子,generation-i,第一世代,1,kanto,关都,grass,草,poison,毒,45,49,49,65,65,45,318,False,False,0.7,6.9,64,overgrow,chlorophyll,green,grassland,medium-slow,45,70,1
+2,2,ivysaur,妙蛙草,generation-i,第一世代,1,kanto,关都,grass,草,poison,毒,60,62,63,80,80,60,405,False,False,1.0,13.0,142,overgrow,chlorophyll,green,grassland,medium-slow,45,70,2
+3,3,venusaur,妙蛙花,generation-i,第一世代,1,kanto,关都,grass,草,poison,毒,80,82,83,100,100,80,525,False,False,2.0,100.0,236,overgrow,chlorophyll,green,grassland,medium-slow,45,70,3
+4,4,charmander,小火龙,generation-i,第一世代,1,kanto,关都,fire,火,,,39,52,43,60,50,65,309,False,False,0.6,8.5,62,blaze,solar power,red,mountain,medium-slow,45,70,4
+5,5,charmeleon,火恐龙,generation-i,第一世代,1,kanto,关都,fire,火,,,58,64,58,80,65,80,405,False,False,1.1,19.0,142,blaze,solar power,red,mountain,medium-slow,45,70,5
+6,6,charizard,喷火龙,generation-i,第一世代,1,kanto,关都,fire,火,flying,飞行,78,84,78,109,85,100,534,False,False,1.7,90.5,240,blaze,solar power,red,mountain,medium-slow,45,70,6
+7,7,squirtle,杰尼龟,generation-i,第一世代,1,kanto,关都,water,水,,,44,48,65,50,64,43,314,False,False,0.5,9.0,63,torrent,rain dish,blue,waters-edge,medium-slow,45,70,7
+8,8,wartortle,卡咪龟,generation-i,第一世代,1,kanto,关都,water,水,,,59,63,80,65,80,58,405,False,False,1.0,22.5,142,torrent,rain dish,blue,waters-edge,medium-slow,45,70,8
+9,9,blastoise,水箭龟,generation-i,第一世代,1,kanto,关都,water,水,,,79,83,100,85,105,78,530,False,False,1.6,85.5,239,torrent,rain dish,blue,waters-edge,medium-slow,45,70,9
+10,10,caterpie,绿毛虫,generation-i,第一世代,1,kanto,关都,bug,虫,,,45,30,35,20,20,45,195,False,False,0.3,2.9,39,shield dust,run away,green,forest,medium,255,70,10
+11,11,metapod,铁甲蛹,generation-i,第一世代,1,kanto,关都,bug,虫,,,50,20,55,25,25,30,205,False,False,0.7,9.9,72,shed skin,,green,forest,medium,120,70,11
+12,12,butterfree,巴大蝶,generation-i,第一世代,1,kanto,关都,bug,虫,flying,飞行,60,45,50,90,80,70,395,False,False,1.1,32.0,178,compound eyes,tinted lens,white,forest,medium,45,70,12
+13,13,weedle,独角虫,generation-i,第一世代,1,kanto,关都,bug,虫,poison,毒,40,35,30,20,20,50,195,False,False,0.3,3.2,39,shield dust,run away,brown,forest,medium,255,70,13
+14,14,kakuna,铁壳蛹,generation-i,第一世代,1,kanto,关都,bug,虫,poison,毒,45,25,50,25,25,35,205,False,False,0.6,10.0,72,shed skin,,yellow,forest,medium,120,70,14
+15,15,beedrill,大针蜂,generation-i,第一世代,1,kanto,关都,bug,虫,poison,毒,65,90,40,45,80,75,395,False,False,1.0,29.5,178,swarm,sniper,yellow,forest,medium,45,70,15
+16,16,pidgey,波波,generation-i,第一世代,1,kanto,关都,normal,一般,flying,飞行,40,45,40,35,35,56,251,False,False,0.3,1.8,50,keen eye; tangled feet,big pecks,brown,forest,medium-slow,255,70,16
+17,17,pidgeotto,比比鸟,generation-i,第一世代,1,kanto,关都,normal,一般,flying,飞行,63,60,55,50,50,71,349,False,False,1.1,30.0,122,keen eye; tangled feet,big pecks,brown,forest,medium-slow,120,70,17
+18,18,pidgeot,大比鸟,generation-i,第一世代,1,kanto,关都,normal,一般,flying,飞行,83,80,75,70,70,101,479,False,False,1.5,39.5,216,keen eye; tangled feet,big pecks,brown,forest,medium-slow,45,70,18
+19,19,rattata,小拉达,generation-i,第一世代,1,kanto,关都,normal,一般,,,30,56,35,25,35,72,253,False,False,0.3,3.5,51,run away; guts,hustle,purple,grassland,medium,255,70,19
+20,20,raticate,拉达,generation-i,第一世代,1,kanto,关都,normal,一般,,,55,81,60,50,70,97,413,False,False,0.7,18.5,145,run away; guts,hustle,brown,grassland,medium,127,70,20
+21,21,spearow,烈雀,generation-i,第一世代,1,kanto,关都,normal,一般,flying,飞行,40,60,30,31,31,70,262,False,False,0.3,2.0,52,keen eye,sniper,brown,rough-terrain,medium,255,70,21
+22,22,fearow,大嘴雀,generation-i,第一世代,1,kanto,关都,normal,一般,flying,飞行,65,90,65,61,61,100,442,False,False,1.2,38.0,155,keen eye,sniper,brown,rough-terrain,medium,90,70,22
+23,23,ekans,阿柏蛇,generation-i,第一世代,1,kanto,关都,poison,毒,,,35,60,44,40,54,55,288,False,False,2.0,6.9,58,intimidate; shed skin,unnerve,purple,grassland,medium,255,70,23
+24,24,arbok,阿柏怪,generation-i,第一世代,1,kanto,关都,poison,毒,,,60,95,69,65,79,80,448,False,False,3.5,65.0,157,intimidate; shed skin,unnerve,purple,grassland,medium,90,70,24
+25,25,pikachu,皮卡丘,generation-i,第一世代,1,kanto,关都,electric,电,,,35,55,40,50,50,90,320,False,False,0.4,6.0,112,static,lightning rod,yellow,forest,medium,190,70,25
+26,26,raichu,雷丘,generation-i,第一世代,1,kanto,关都,electric,电,,,60,90,55,90,80,110,485,False,False,0.8,30.0,218,static,lightning rod,yellow,forest,medium,75,70,26
+27,27,sandshrew,穿山鼠,generation-i,第一世代,1,kanto,关都,ground,地面,,,50,75,85,20,30,40,300,False,False,0.6,12.0,60,sand veil,sand rush,yellow,rough-terrain,medium,255,70,27
+28,28,sandslash,穿山王,generation-i,第一世代,1,kanto,关都,ground,地面,,,75,100,110,45,55,65,450,False,False,1.0,29.5,158,sand veil,sand rush,yellow,rough-terrain,medium,90,70,28
+29,29,nidoran-f,尼多兰,generation-i,第一世代,1,kanto,关都,poison,毒,,,55,47,52,40,40,41,275,False,False,0.4,7.0,55,poison point; rivalry,hustle,blue,grassland,medium-slow,235,70,29
+30,30,nidorina,尼多娜,generation-i,第一世代,1,kanto,关都,poison,毒,,,70,62,67,55,55,56,365,False,False,0.8,20.0,128,poison point; rivalry,hustle,blue,grassland,medium-slow,120,70,30
+31,31,nidoqueen,尼多后,generation-i,第一世代,1,kanto,关都,poison,毒,ground,地面,90,92,87,75,85,76,505,False,False,1.3,60.0,227,poison point; rivalry,sheer force,blue,grassland,medium-slow,45,70,31
+32,32,nidoran-m,尼多朗,generation-i,第一世代,1,kanto,关都,poison,毒,,,46,57,40,40,40,50,273,False,False,0.5,9.0,55,poison point; rivalry,hustle,purple,grassland,medium-slow,235,70,32
+33,33,nidorino,尼多力诺,generation-i,第一世代,1,kanto,关都,poison,毒,,,61,72,57,55,55,65,365,False,False,0.9,19.5,128,poison point; rivalry,hustle,purple,grassland,medium-slow,120,70,33
+34,34,nidoking,尼多王,generation-i,第一世代,1,kanto,关都,poison,毒,ground,地面,81,102,77,85,75,85,505,False,False,1.4,62.0,227,poison point; rivalry,sheer force,purple,grassland,medium-slow,45,70,34
+35,35,clefairy,皮皮,generation-i,第一世代,1,kanto,关都,fairy,妖精,,,70,45,48,60,65,35,323,False,False,0.6,7.5,113,cute charm; magic guard,friend guard,pink,mountain,fast,150,140,35
+36,36,clefable,皮可西,generation-i,第一世代,1,kanto,关都,fairy,妖精,,,95,70,73,95,90,60,483,False,False,1.3,40.0,217,cute charm; magic guard,unaware,pink,mountain,fast,25,140,36
+37,37,vulpix,六尾,generation-i,第一世代,1,kanto,关都,fire,火,,,38,41,40,50,65,65,299,False,False,0.6,9.9,60,flash fire,drought,brown,grassland,medium,190,70,37
+38,38,ninetales,九尾,generation-i,第一世代,1,kanto,关都,fire,火,,,73,76,75,81,100,100,505,False,False,1.1,19.9,177,flash fire,drought,yellow,grassland,medium,75,70,38
+39,39,jigglypuff,胖丁,generation-i,第一世代,1,kanto,关都,normal,一般,fairy,妖精,115,45,20,45,25,20,270,False,False,0.5,5.5,95,cute charm; competitive,friend guard,pink,grassland,fast,170,70,39
+40,40,wigglytuff,胖可丁,generation-i,第一世代,1,kanto,关都,normal,一般,fairy,妖精,140,70,45,85,50,45,435,False,False,1.0,12.0,196,cute charm; competitive,frisk,pink,grassland,fast,50,70,40
+41,41,zubat,超音蝠,generation-i,第一世代,1,kanto,关都,poison,毒,flying,飞行,40,45,35,30,40,55,245,False,False,0.8,7.5,49,inner focus,infiltrator,purple,cave,medium,255,70,41
+42,42,golbat,大嘴蝠,generation-i,第一世代,1,kanto,关都,poison,毒,flying,飞行,75,80,70,65,75,90,455,False,False,1.6,55.0,159,inner focus,infiltrator,purple,cave,medium,90,70,42
+43,43,oddish,走路草,generation-i,第一世代,1,kanto,关都,grass,草,poison,毒,45,50,55,75,65,30,320,False,False,0.5,5.4,64,chlorophyll,run away,blue,grassland,medium-slow,255,70,43
+44,44,gloom,臭臭花,generation-i,第一世代,1,kanto,关都,grass,草,poison,毒,60,65,70,85,75,40,395,False,False,0.8,8.6,138,chlorophyll,stench,blue,grassland,medium-slow,120,70,44
+45,45,vileplume,霸王花,generation-i,第一世代,1,kanto,关都,grass,草,poison,毒,75,80,85,110,90,50,490,False,False,1.2,18.6,221,chlorophyll,effect spore,red,grassland,medium-slow,45,70,45
+46,46,paras,派拉斯,generation-i,第一世代,1,kanto,关都,bug,虫,grass,草,35,70,55,45,55,25,285,False,False,0.3,5.4,57,effect spore; dry skin,damp,red,forest,medium,190,70,46
+47,47,parasect,派拉斯特,generation-i,第一世代,1,kanto,关都,bug,虫,grass,草,60,95,80,60,80,30,405,False,False,1.0,29.5,142,effect spore; dry skin,damp,red,forest,medium,75,70,47
+48,48,venonat,毛球,generation-i,第一世代,1,kanto,关都,bug,虫,poison,毒,60,55,50,40,55,45,305,False,False,1.0,30.0,61,compound eyes; tinted lens,run away,purple,forest,medium,190,70,48
+49,49,venomoth,摩鲁蛾,generation-i,第一世代,1,kanto,关都,bug,虫,poison,毒,70,65,60,90,75,90,450,False,False,1.5,12.5,158,shield dust; tinted lens,wonder skin,purple,forest,medium,75,70,49
+50,50,diglett,地鼠,generation-i,第一世代,1,kanto,关都,ground,地面,,,10,55,25,35,45,95,265,False,False,0.2,0.8,53,sand veil; arena trap,sand force,brown,cave,medium,255,70,50
+51,51,dugtrio,三地鼠,generation-i,第一世代,1,kanto,关都,ground,地面,,,35,100,50,50,70,120,425,False,False,0.7,33.3,149,sand veil; arena trap,sand force,brown,cave,medium,50,70,51
+52,52,meowth,喵喵,generation-i,第一世代,1,kanto,关都,normal,一般,,,40,45,35,40,40,90,290,False,False,0.4,4.2,58,pickup; technician,unnerve,yellow,urban,medium,255,70,52
+53,53,persian,猫老大,generation-i,第一世代,1,kanto,关都,normal,一般,,,65,70,60,65,65,115,440,False,False,1.0,32.0,154,limber; technician,unnerve,yellow,urban,medium,90,70,53
+54,54,psyduck,可达鸭,generation-i,第一世代,1,kanto,关都,water,水,,,50,52,48,65,50,55,320,False,False,0.8,19.6,64,damp; cloud nine,swift swim,yellow,waters-edge,medium,190,70,54
+55,55,golduck,哥达鸭,generation-i,第一世代,1,kanto,关都,water,水,,,80,82,78,95,80,85,500,False,False,1.7,76.6,175,damp; cloud nine,swift swim,blue,waters-edge,medium,75,70,55
+56,56,mankey,猴怪,generation-i,第一世代,1,kanto,关都,fighting,格斗,,,40,80,35,35,45,70,305,False,False,0.5,28.0,61,vital spirit; anger point,defiant,brown,mountain,medium,190,70,56
+57,57,primeape,火暴猴,generation-i,第一世代,1,kanto,关都,fighting,格斗,,,65,105,60,60,70,95,455,False,False,1.0,32.0,159,vital spirit; anger point,defiant,brown,mountain,medium,75,70,57
+58,58,growlithe,卡蒂狗,generation-i,第一世代,1,kanto,关都,fire,火,,,55,70,45,70,50,60,350,False,False,0.7,19.0,70,intimidate; flash fire,justified,brown,grassland,slow,190,70,58
+59,59,arcanine,风速狗,generation-i,第一世代,1,kanto,关都,fire,火,,,90,110,80,100,80,95,555,False,False,1.9,155.0,194,intimidate; flash fire,justified,brown,grassland,slow,75,70,59
+60,60,poliwag,蚊香蝌蚪,generation-i,第一世代,1,kanto,关都,water,水,,,40,50,40,40,40,90,300,False,False,0.6,12.4,60,water absorb; damp,swift swim,blue,waters-edge,medium-slow,255,70,60
+61,61,poliwhirl,蚊香君,generation-i,第一世代,1,kanto,关都,water,水,,,65,65,65,50,50,90,385,False,False,1.0,20.0,135,water absorb; damp,swift swim,blue,waters-edge,medium-slow,120,70,61
+62,62,poliwrath,蚊香泳士,generation-i,第一世代,1,kanto,关都,water,水,fighting,格斗,90,95,95,70,90,70,510,False,False,1.3,54.0,230,water absorb; damp,swift swim,blue,waters-edge,medium-slow,45,70,62
+63,63,abra,凯西,generation-i,第一世代,1,kanto,关都,psychic,超能力,,,25,20,15,105,55,90,310,False,False,0.9,19.5,62,synchronize; inner focus,magic guard,brown,urban,medium-slow,200,70,63
+64,64,kadabra,勇基拉,generation-i,第一世代,1,kanto,关都,psychic,超能力,,,40,35,30,120,70,105,400,False,False,1.3,56.5,140,synchronize; inner focus,magic guard,brown,urban,medium-slow,100,70,64
+65,65,alakazam,胡地,generation-i,第一世代,1,kanto,关都,psychic,超能力,,,55,50,45,135,95,120,500,False,False,1.5,48.0,225,synchronize; inner focus,magic guard,brown,urban,medium-slow,50,70,65
+66,66,machop,腕力,generation-i,第一世代,1,kanto,关都,fighting,格斗,,,70,80,50,35,35,35,305,False,False,0.8,19.5,61,guts; no guard,steadfast,gray,mountain,medium-slow,180,70,66
+67,67,machoke,豪力,generation-i,第一世代,1,kanto,关都,fighting,格斗,,,80,100,70,50,60,45,405,False,False,1.5,70.5,142,guts; no guard,steadfast,gray,mountain,medium-slow,90,70,67
+68,68,machamp,怪力,generation-i,第一世代,1,kanto,关都,fighting,格斗,,,90,130,80,65,85,55,505,False,False,1.6,130.0,227,guts; no guard,steadfast,gray,mountain,medium-slow,45,70,68
+69,69,bellsprout,喇叭芽,generation-i,第一世代,1,kanto,关都,grass,草,poison,毒,50,75,35,70,30,40,300,False,False,0.7,4.0,60,chlorophyll,gluttony,green,forest,medium-slow,255,70,69
+70,70,weepinbell,口呆花,generation-i,第一世代,1,kanto,关都,grass,草,poison,毒,65,90,50,85,45,55,390,False,False,1.0,6.4,137,chlorophyll,gluttony,green,forest,medium-slow,120,70,70
+71,71,victreebel,大食花,generation-i,第一世代,1,kanto,关都,grass,草,poison,毒,80,105,65,100,70,70,490,False,False,1.7,15.5,221,chlorophyll,gluttony,green,forest,medium-slow,45,70,71
+72,72,tentacool,玛瑙水母,generation-i,第一世代,1,kanto,关都,water,水,poison,毒,40,40,35,50,100,70,335,False,False,0.9,45.5,67,clear body; liquid ooze,rain dish,blue,sea,slow,190,70,72
+73,73,tentacruel,毒刺水母,generation-i,第一世代,1,kanto,关都,water,水,poison,毒,80,70,65,80,120,100,515,False,False,1.6,55.0,180,clear body; liquid ooze,rain dish,blue,sea,slow,60,70,73
+74,74,geodude,小拳石,generation-i,第一世代,1,kanto,关都,rock,岩石,ground,地面,40,80,100,30,30,20,300,False,False,0.4,20.0,60,rock head; sturdy,sand veil,brown,mountain,medium-slow,255,70,74
+75,75,graveler,隆隆石,generation-i,第一世代,1,kanto,关都,rock,岩石,ground,地面,55,95,115,45,45,35,390,False,False,1.0,105.0,137,rock head; sturdy,sand veil,brown,mountain,medium-slow,120,70,75
+76,76,golem,隆隆岩,generation-i,第一世代,1,kanto,关都,rock,岩石,ground,地面,80,120,130,55,65,45,495,False,False,1.4,300.0,223,rock head; sturdy,sand veil,brown,mountain,medium-slow,45,70,76
+77,77,ponyta,小火马,generation-i,第一世代,1,kanto,关都,fire,火,,,50,85,55,65,65,90,410,False,False,1.0,30.0,82,run away; flash fire,flame body,yellow,grassland,medium,190,70,77
+78,78,rapidash,烈焰马,generation-i,第一世代,1,kanto,关都,fire,火,,,65,100,70,80,80,105,500,False,False,1.7,95.0,175,run away; flash fire,flame body,yellow,grassland,medium,60,70,78
+79,79,slowpoke,呆呆兽,generation-i,第一世代,1,kanto,关都,water,水,psychic,超能力,90,65,65,40,40,15,315,False,False,1.2,36.0,63,oblivious; own tempo,regenerator,pink,waters-edge,medium,190,70,79
+80,80,slowbro,呆壳兽,generation-i,第一世代,1,kanto,关都,water,水,psychic,超能力,95,75,110,100,80,30,490,False,False,1.6,78.5,172,oblivious; own tempo,regenerator,pink,waters-edge,medium,75,70,80
+81,81,magnemite,小磁怪,generation-i,第一世代,1,kanto,关都,electric,电,steel,钢,25,35,70,95,55,45,325,False,False,0.3,6.0,65,magnet pull; sturdy,analytic,gray,rough-terrain,medium,190,70,81
+82,82,magneton,三合一磁怪,generation-i,第一世代,1,kanto,关都,electric,电,steel,钢,50,60,95,120,70,70,465,False,False,1.0,60.0,163,magnet pull; sturdy,analytic,gray,rough-terrain,medium,60,70,82
+83,83,farfetchd,大葱鸭,generation-i,第一世代,1,kanto,关都,normal,一般,flying,飞行,52,90,55,58,62,60,377,False,False,0.8,15.0,132,keen eye; inner focus,defiant,brown,grassland,medium,45,70,83
+84,84,doduo,嘟嘟,generation-i,第一世代,1,kanto,关都,normal,一般,flying,飞行,35,85,45,35,35,75,310,False,False,1.4,39.2,62,run away; early bird,tangled feet,brown,grassland,medium,190,70,84
+85,85,dodrio,嘟嘟利,generation-i,第一世代,1,kanto,关都,normal,一般,flying,飞行,60,110,70,60,60,110,470,False,False,1.8,85.2,165,run away; early bird,tangled feet,brown,grassland,medium,45,70,85
+86,86,seel,小海狮,generation-i,第一世代,1,kanto,关都,water,水,,,65,45,55,45,70,45,325,False,False,1.1,90.0,65,thick fat; hydration,ice body,white,sea,medium,190,70,86
+87,87,dewgong,白海狮,generation-i,第一世代,1,kanto,关都,water,水,ice,冰,90,70,80,70,95,70,475,False,False,1.7,120.0,166,thick fat; hydration,ice body,white,sea,medium,75,70,87
+88,88,grimer,臭泥,generation-i,第一世代,1,kanto,关都,poison,毒,,,80,80,50,40,50,25,325,False,False,0.9,30.0,65,stench; sticky hold,poison touch,purple,urban,medium,190,70,88
+89,89,muk,臭臭泥,generation-i,第一世代,1,kanto,关都,poison,毒,,,105,105,75,65,100,50,500,False,False,1.2,30.0,175,stench; sticky hold,poison touch,purple,urban,medium,75,70,89
+90,90,shellder,大舌贝,generation-i,第一世代,1,kanto,关都,water,水,,,30,65,100,45,25,40,305,False,False,0.3,4.0,61,shell armor; skill link,overcoat,purple,sea,slow,190,70,90
+91,91,cloyster,刺甲贝,generation-i,第一世代,1,kanto,关都,water,水,ice,冰,50,95,180,85,45,70,525,False,False,1.5,132.5,184,shell armor; skill link,overcoat,purple,sea,slow,60,70,91
+92,92,gastly,鬼斯,generation-i,第一世代,1,kanto,关都,ghost,幽灵,poison,毒,30,35,30,100,35,80,310,False,False,1.3,0.1,62,levitate,,purple,cave,medium-slow,190,70,92
+93,93,haunter,鬼斯通,generation-i,第一世代,1,kanto,关都,ghost,幽灵,poison,毒,45,50,45,115,55,95,405,False,False,1.6,0.1,142,levitate,,purple,cave,medium-slow,90,70,93
+94,94,gengar,耿鬼,generation-i,第一世代,1,kanto,关都,ghost,幽灵,poison,毒,60,65,60,130,75,110,500,False,False,1.5,40.5,225,cursed body,,purple,cave,medium-slow,45,70,94
+95,95,onix,大岩蛇,generation-i,第一世代,1,kanto,关都,rock,岩石,ground,地面,35,45,160,30,45,70,385,False,False,8.8,210.0,77,rock head; sturdy,weak armor,gray,cave,medium,45,70,95
+96,96,drowzee,催眠貘,generation-i,第一世代,1,kanto,关都,psychic,超能力,,,60,48,45,43,90,42,328,False,False,1.0,32.4,66,insomnia; forewarn,inner focus,yellow,grassland,medium,190,70,96
+97,97,hypno,引梦貘人,generation-i,第一世代,1,kanto,关都,psychic,超能力,,,85,73,70,73,115,67,483,False,False,1.6,75.6,169,insomnia; forewarn,inner focus,yellow,grassland,medium,75,70,97
+98,98,krabby,大钳蟹,generation-i,第一世代,1,kanto,关都,water,水,,,30,105,90,25,25,50,325,False,False,0.4,6.5,65,hyper cutter; shell armor,sheer force,red,waters-edge,medium,225,70,98
+99,99,kingler,巨钳蟹,generation-i,第一世代,1,kanto,关都,water,水,,,55,130,115,50,50,75,475,False,False,1.3,60.0,166,hyper cutter; shell armor,sheer force,red,waters-edge,medium,60,70,99
+100,100,voltorb,霹雳电球,generation-i,第一世代,1,kanto,关都,electric,电,,,40,30,50,55,55,100,330,False,False,0.5,10.4,66,soundproof; static,aftermath,red,urban,medium,190,70,100
+101,101,electrode,顽皮雷弹,generation-i,第一世代,1,kanto,关都,electric,电,,,60,50,70,80,80,150,490,False,False,1.2,66.6,172,soundproof; static,aftermath,red,urban,medium,60,70,101
+102,102,exeggcute,蛋蛋,generation-i,第一世代,1,kanto,关都,grass,草,psychic,超能力,60,40,80,60,45,40,325,False,False,0.4,2.5,65,chlorophyll,harvest,pink,forest,slow,90,70,102
+103,103,exeggutor,椰蛋树,generation-i,第一世代,1,kanto,关都,grass,草,psychic,超能力,95,95,85,125,75,55,530,False,False,2.0,120.0,186,chlorophyll,harvest,yellow,forest,slow,45,70,103
+104,104,cubone,卡拉卡拉,generation-i,第一世代,1,kanto,关都,ground,地面,,,50,50,95,40,50,35,320,False,False,0.4,6.5,64,rock head; lightning rod,battle armor,brown,mountain,medium,190,70,104
+105,105,marowak,嘎啦嘎啦,generation-i,第一世代,1,kanto,关都,ground,地面,,,60,80,110,50,80,45,425,False,False,1.0,45.0,149,rock head; lightning rod,battle armor,brown,mountain,medium,75,70,105
+106,106,hitmonlee,飞腿郎,generation-i,第一世代,1,kanto,关都,fighting,格斗,,,50,120,53,35,110,87,455,False,False,1.5,49.8,159,limber; reckless,unburden,brown,urban,medium,45,70,106
+107,107,hitmonchan,快拳郎,generation-i,第一世代,1,kanto,关都,fighting,格斗,,,50,105,79,35,110,76,455,False,False,1.4,50.2,159,keen eye; iron fist,inner focus,brown,urban,medium,45,70,107
+108,108,lickitung,大舌头,generation-i,第一世代,1,kanto,关都,normal,一般,,,90,55,75,60,75,30,385,False,False,1.2,65.5,77,own tempo; oblivious,cloud nine,pink,grassland,medium,45,70,108
+109,109,koffing,瓦斯弹,generation-i,第一世代,1,kanto,关都,poison,毒,,,40,65,95,60,45,35,340,False,False,0.6,1.0,68,levitate; neutralizing gas,stench,purple,urban,medium,190,70,109
+110,110,weezing,双弹瓦斯,generation-i,第一世代,1,kanto,关都,poison,毒,,,65,90,120,85,70,60,490,False,False,1.2,9.5,172,levitate; neutralizing gas,stench,purple,urban,medium,60,70,110
+111,111,rhyhorn,独角犀牛,generation-i,第一世代,1,kanto,关都,ground,地面,rock,岩石,80,85,95,30,30,25,345,False,False,1.0,115.0,69,lightning rod; rock head,reckless,gray,rough-terrain,slow,120,70,111
+112,112,rhydon,钻角犀兽,generation-i,第一世代,1,kanto,关都,ground,地面,rock,岩石,105,130,120,45,45,40,485,False,False,1.9,120.0,170,lightning rod; rock head,reckless,gray,rough-terrain,slow,60,70,112
+113,113,chansey,吉利蛋,generation-i,第一世代,1,kanto,关都,normal,一般,,,250,5,5,35,105,50,450,False,False,1.1,34.6,395,natural cure; serene grace,healer,pink,urban,fast,30,140,113
+114,114,tangela,蔓藤怪,generation-i,第一世代,1,kanto,关都,grass,草,,,65,55,115,100,40,60,435,False,False,1.0,35.0,87,chlorophyll; leaf guard,regenerator,blue,grassland,medium,45,70,114
+115,115,kangaskhan,袋兽,generation-i,第一世代,1,kanto,关都,normal,一般,,,105,95,80,40,80,90,490,False,False,2.2,80.0,172,early bird; scrappy,inner focus,brown,grassland,medium,45,70,115
+116,116,horsea,墨海马,generation-i,第一世代,1,kanto,关都,water,水,,,30,40,70,70,25,60,295,False,False,0.4,8.0,59,swift swim; sniper,damp,blue,sea,medium,225,70,116
+117,117,seadra,海刺龙,generation-i,第一世代,1,kanto,关都,water,水,,,55,65,95,95,45,85,440,False,False,1.2,25.0,154,poison point; sniper,damp,blue,sea,medium,75,70,117
+118,118,goldeen,角金鱼,generation-i,第一世代,1,kanto,关都,water,水,,,45,67,60,35,50,63,320,False,False,0.6,15.0,64,swift swim; water veil,lightning rod,red,waters-edge,medium,225,70,118
+119,119,seaking,金鱼王,generation-i,第一世代,1,kanto,关都,water,水,,,80,92,65,65,80,68,450,False,False,1.3,39.0,158,swift swim; water veil,lightning rod,red,waters-edge,medium,60,70,119
+120,120,staryu,海星星,generation-i,第一世代,1,kanto,关都,water,水,,,30,45,55,70,55,85,340,False,False,0.8,34.5,68,illuminate; natural cure,analytic,brown,sea,slow,225,70,120
+121,121,starmie,宝石海星,generation-i,第一世代,1,kanto,关都,water,水,psychic,超能力,60,75,85,100,85,115,520,False,False,1.1,80.0,182,illuminate; natural cure,analytic,purple,sea,slow,60,70,121
+122,122,mr-mime,魔墙人偶,generation-i,第一世代,1,kanto,关都,psychic,超能力,fairy,妖精,40,45,65,100,120,90,460,False,False,1.3,54.5,161,soundproof; filter,technician,pink,urban,medium,45,70,122
+123,123,scyther,飞天螳螂,generation-i,第一世代,1,kanto,关都,bug,虫,flying,飞行,70,110,80,55,80,105,500,False,False,1.5,56.0,100,swarm; technician,steadfast,green,grassland,medium,45,70,123
+124,124,jynx,迷唇姐,generation-i,第一世代,1,kanto,关都,ice,冰,psychic,超能力,65,50,35,115,95,95,455,False,False,1.4,40.6,159,oblivious; forewarn,dry skin,red,urban,medium,45,70,124
+125,125,electabuzz,电击兽,generation-i,第一世代,1,kanto,关都,electric,电,,,65,83,57,95,85,105,490,False,False,1.1,30.0,172,static,vital spirit,yellow,grassland,medium,45,70,125
+126,126,magmar,鸭嘴火兽,generation-i,第一世代,1,kanto,关都,fire,火,,,65,95,57,100,85,93,495,False,False,1.3,44.5,173,flame body,vital spirit,red,mountain,medium,45,70,126
+127,127,pinsir,凯罗斯,generation-i,第一世代,1,kanto,关都,bug,虫,,,65,125,100,55,70,85,500,False,False,1.5,55.0,175,hyper cutter; mold breaker,moxie,brown,forest,slow,45,70,127
+128,128,tauros,肯泰罗,generation-i,第一世代,1,kanto,关都,normal,一般,,,75,100,95,40,70,110,490,False,False,1.4,88.4,172,intimidate; anger point,sheer force,brown,grassland,slow,45,70,128
+129,129,magikarp,鲤鱼王,generation-i,第一世代,1,kanto,关都,water,水,,,20,10,55,15,20,80,200,False,False,0.9,10.0,40,swift swim,rattled,red,waters-edge,slow,255,70,129
+130,130,gyarados,暴鲤龙,generation-i,第一世代,1,kanto,关都,water,水,flying,飞行,95,125,79,60,100,81,540,False,False,6.5,235.0,189,intimidate,moxie,blue,waters-edge,slow,45,70,130
+131,131,lapras,拉普拉斯,generation-i,第一世代,1,kanto,关都,water,水,ice,冰,130,85,80,85,95,60,535,False,False,2.5,220.0,187,water absorb; shell armor,hydration,blue,sea,slow,45,70,131
+132,132,ditto,百变怪,generation-i,第一世代,1,kanto,关都,normal,一般,,,48,48,48,48,48,48,288,False,False,0.3,4.0,101,limber,imposter,purple,urban,medium,35,70,132
+133,133,eevee,伊布,generation-i,第一世代,1,kanto,关都,normal,一般,,,55,55,50,45,65,55,325,False,False,0.3,6.5,65,run away; adaptability,anticipation,brown,urban,medium,45,70,133
+134,134,vaporeon,水伊布,generation-i,第一世代,1,kanto,关都,water,水,,,130,65,60,110,95,65,525,False,False,1.0,29.0,184,water absorb,hydration,blue,urban,medium,45,70,134
+135,135,jolteon,雷伊布,generation-i,第一世代,1,kanto,关都,electric,电,,,65,65,60,110,95,130,525,False,False,0.8,24.5,184,volt absorb,quick feet,yellow,urban,medium,45,70,135
+136,136,flareon,火伊布,generation-i,第一世代,1,kanto,关都,fire,火,,,65,130,60,95,110,65,525,False,False,0.9,25.0,184,flash fire,guts,red,urban,medium,45,70,136
+137,137,porygon,多边兽,generation-i,第一世代,1,kanto,关都,normal,一般,,,65,60,70,85,75,40,395,False,False,0.8,36.5,79,trace; download,analytic,pink,urban,medium,45,70,137
+138,138,omanyte,菊石兽,generation-i,第一世代,1,kanto,关都,rock,岩石,water,水,35,40,100,90,55,35,355,False,False,0.4,7.5,71,swift swim; shell armor,weak armor,blue,sea,medium,45,70,138
+139,139,omastar,多刺菊石兽,generation-i,第一世代,1,kanto,关都,rock,岩石,water,水,70,60,125,115,70,55,495,False,False,1.0,35.0,173,swift swim; shell armor,weak armor,blue,sea,medium,45,70,139
+140,140,kabuto,化石盔,generation-i,第一世代,1,kanto,关都,rock,岩石,water,水,30,80,90,55,45,55,355,False,False,0.5,11.5,71,swift swim; battle armor,weak armor,brown,sea,medium,45,70,140
+141,141,kabutops,镰刀盔,generation-i,第一世代,1,kanto,关都,rock,岩石,water,水,60,115,105,65,70,80,495,False,False,1.3,40.5,173,swift swim; battle armor,weak armor,brown,sea,medium,45,70,141
+142,142,aerodactyl,化石翼龙,generation-i,第一世代,1,kanto,关都,rock,岩石,flying,飞行,80,105,65,60,75,130,515,False,False,1.8,59.0,180,rock head; pressure,unnerve,purple,mountain,slow,45,70,142
+143,143,snorlax,卡比兽,generation-i,第一世代,1,kanto,关都,normal,一般,,,160,110,65,65,110,30,540,False,False,2.1,460.0,189,immunity; thick fat,gluttony,black,mountain,slow,25,70,143
+144,144,articuno,急冻鸟,generation-i,第一世代,1,kanto,关都,ice,冰,flying,飞行,90,85,100,95,125,85,580,True,False,1.7,55.4,261,pressure,snow cloak,blue,rare,slow,3,35,144
+145,145,zapdos,闪电鸟,generation-i,第一世代,1,kanto,关都,electric,电,flying,飞行,90,90,85,125,90,100,580,True,False,1.6,52.6,261,pressure,static,yellow,rare,slow,3,35,145
+146,146,moltres,火焰鸟,generation-i,第一世代,1,kanto,关都,fire,火,flying,飞行,90,100,90,125,85,90,580,True,False,2.0,60.0,261,pressure,flame body,yellow,rare,slow,3,35,146
+147,147,dratini,迷你龙,generation-i,第一世代,1,kanto,关都,dragon,龙,,,41,64,45,50,50,50,300,False,False,1.8,3.3,60,shed skin,marvel scale,blue,waters-edge,slow,45,35,147
+148,148,dragonair,哈克龙,generation-i,第一世代,1,kanto,关都,dragon,龙,,,61,84,65,70,70,70,420,False,False,4.0,16.5,147,shed skin,marvel scale,blue,waters-edge,slow,45,35,148
+149,149,dragonite,快龙,generation-i,第一世代,1,kanto,关都,dragon,龙,flying,飞行,91,134,95,100,100,80,600,False,False,2.2,210.0,270,inner focus,multiscale,brown,waters-edge,slow,45,35,149
+150,150,mewtwo,超梦,generation-i,第一世代,1,kanto,关都,psychic,超能力,,,106,110,90,154,90,130,680,True,False,2.0,122.0,306,pressure,unnerve,purple,rare,slow,3,0,150
+151,151,mew,梦幻,generation-i,第一世代,1,kanto,关都,psychic,超能力,,,100,100,100,100,100,100,600,False,True,0.4,4.0,270,synchronize,,pink,rare,medium-slow,45,100,151
+152,152,chikorita,菊草叶,generation-ii,第二世代,2,johto,城都,grass,草,,,45,49,65,49,65,45,318,False,False,0.9,6.4,64,overgrow,leaf guard,green,grassland,medium-slow,45,70,152
+153,153,bayleef,月桂叶,generation-ii,第二世代,2,johto,城都,grass,草,,,60,62,80,63,80,60,405,False,False,1.2,15.8,142,overgrow,leaf guard,green,grassland,medium-slow,45,70,153
+154,154,meganium,大竺葵,generation-ii,第二世代,2,johto,城都,grass,草,,,80,82,100,83,100,80,525,False,False,1.8,100.5,236,overgrow,leaf guard,green,grassland,medium-slow,45,70,154
+155,155,cyndaquil,火球鼠,generation-ii,第二世代,2,johto,城都,fire,火,,,39,52,43,60,50,65,309,False,False,0.5,7.9,62,blaze,flash fire,yellow,grassland,medium-slow,45,70,155
+156,156,quilava,火岩鼠,generation-ii,第二世代,2,johto,城都,fire,火,,,58,64,58,80,65,80,405,False,False,0.9,19.0,142,blaze,flash fire,yellow,grassland,medium-slow,45,70,156
+157,157,typhlosion,火暴兽,generation-ii,第二世代,2,johto,城都,fire,火,,,78,84,78,109,85,100,534,False,False,1.7,79.5,240,blaze,flash fire,yellow,grassland,medium-slow,45,70,157
+158,158,totodile,小锯鳄,generation-ii,第二世代,2,johto,城都,water,水,,,50,65,64,44,48,43,314,False,False,0.6,9.5,63,torrent,sheer force,blue,waters-edge,medium-slow,45,70,158
+159,159,croconaw,蓝鳄,generation-ii,第二世代,2,johto,城都,water,水,,,65,80,80,59,63,58,405,False,False,1.1,25.0,142,torrent,sheer force,blue,waters-edge,medium-slow,45,70,159
+160,160,feraligatr,大力鳄,generation-ii,第二世代,2,johto,城都,water,水,,,85,105,100,79,83,78,530,False,False,2.3,88.8,239,torrent,sheer force,blue,waters-edge,medium-slow,45,70,160
+161,161,sentret,尾立,generation-ii,第二世代,2,johto,城都,normal,一般,,,35,46,34,35,45,20,215,False,False,0.8,6.0,43,run away; keen eye,frisk,brown,grassland,medium,255,70,161
+162,162,furret,大尾立,generation-ii,第二世代,2,johto,城都,normal,一般,,,85,76,64,45,55,90,415,False,False,1.8,32.5,145,run away; keen eye,frisk,brown,grassland,medium,90,70,162
+163,163,hoothoot,咕咕,generation-ii,第二世代,2,johto,城都,normal,一般,flying,飞行,60,30,30,36,56,50,262,False,False,0.7,21.2,52,insomnia; keen eye,tinted lens,brown,forest,medium,255,70,163
+164,164,noctowl,猫头夜鹰,generation-ii,第二世代,2,johto,城都,normal,一般,flying,飞行,100,50,50,86,96,70,452,False,False,1.6,40.8,158,insomnia; keen eye,tinted lens,brown,forest,medium,90,70,164
+165,165,ledyba,芭瓢虫,generation-ii,第二世代,2,johto,城都,bug,虫,flying,飞行,40,20,30,40,80,55,265,False,False,1.0,10.8,53,swarm; early bird,rattled,red,forest,fast,255,70,165
+166,166,ledian,安瓢虫,generation-ii,第二世代,2,johto,城都,bug,虫,flying,飞行,55,35,50,55,110,85,390,False,False,1.4,35.6,137,swarm; early bird,iron fist,red,forest,fast,90,70,166
+167,167,spinarak,圆丝蛛,generation-ii,第二世代,2,johto,城都,bug,虫,poison,毒,40,60,40,40,40,30,250,False,False,0.5,8.5,50,swarm; insomnia,sniper,green,forest,fast,255,70,167
+168,168,ariados,阿利多斯,generation-ii,第二世代,2,johto,城都,bug,虫,poison,毒,70,90,70,60,70,40,400,False,False,1.1,33.5,140,swarm; insomnia,sniper,red,forest,fast,90,70,168
+169,169,crobat,叉字蝠,generation-ii,第二世代,2,johto,城都,poison,毒,flying,飞行,85,90,80,70,80,130,535,False,False,1.8,75.0,241,inner focus,infiltrator,purple,cave,medium,90,70,169
+170,170,chinchou,灯笼鱼,generation-ii,第二世代,2,johto,城都,water,水,electric,电,75,38,38,56,56,67,330,False,False,0.5,12.0,66,volt absorb; illuminate,water absorb,blue,sea,slow,190,70,170
+171,171,lanturn,电灯怪,generation-ii,第二世代,2,johto,城都,water,水,electric,电,125,58,58,76,76,67,460,False,False,1.2,22.5,161,volt absorb; illuminate,water absorb,blue,sea,slow,75,70,171
+172,172,pichu,皮丘,generation-ii,第二世代,2,johto,城都,electric,电,,,20,40,15,35,35,60,205,False,False,0.3,2.0,41,static,lightning rod,yellow,forest,medium,190,70,172
+173,173,cleffa,皮宝宝,generation-ii,第二世代,2,johto,城都,fairy,妖精,,,50,25,28,45,55,15,218,False,False,0.3,3.0,44,cute charm; magic guard,friend guard,pink,mountain,fast,150,140,173
+174,174,igglybuff,宝宝丁,generation-ii,第二世代,2,johto,城都,normal,一般,fairy,妖精,90,30,15,40,20,15,210,False,False,0.3,1.0,42,cute charm; competitive,friend guard,pink,grassland,fast,170,70,174
+175,175,togepi,波克比,generation-ii,第二世代,2,johto,城都,fairy,妖精,,,35,20,65,40,65,20,245,False,False,0.3,1.5,49,hustle; serene grace,super luck,white,forest,fast,190,70,175
+176,176,togetic,波克基古,generation-ii,第二世代,2,johto,城都,fairy,妖精,flying,飞行,55,40,85,80,105,40,405,False,False,0.6,3.2,142,hustle; serene grace,super luck,white,forest,fast,75,70,176
+177,177,natu,天然雀,generation-ii,第二世代,2,johto,城都,psychic,超能力,flying,飞行,40,50,45,70,45,70,320,False,False,0.2,2.0,64,synchronize; early bird,magic bounce,green,forest,medium,190,70,177
+178,178,xatu,天然鸟,generation-ii,第二世代,2,johto,城都,psychic,超能力,flying,飞行,65,75,70,95,70,95,470,False,False,1.5,15.0,165,synchronize; early bird,magic bounce,green,forest,medium,75,70,178
+179,179,mareep,咩利羊,generation-ii,第二世代,2,johto,城都,electric,电,,,55,40,40,65,45,35,280,False,False,0.6,7.8,56,static,plus,white,grassland,medium-slow,235,70,179
+180,180,flaaffy,茸茸羊,generation-ii,第二世代,2,johto,城都,electric,电,,,70,55,55,80,60,45,365,False,False,0.8,13.3,128,static,plus,pink,grassland,medium-slow,120,70,180
+181,181,ampharos,电龙,generation-ii,第二世代,2,johto,城都,electric,电,,,90,75,85,115,90,55,510,False,False,1.4,61.5,230,static,plus,yellow,grassland,medium-slow,45,70,181
+182,182,bellossom,美丽花,generation-ii,第二世代,2,johto,城都,grass,草,,,75,80,95,90,100,50,490,False,False,0.4,5.8,221,chlorophyll,healer,green,grassland,medium-slow,45,70,182
+183,183,marill,玛力露,generation-ii,第二世代,2,johto,城都,water,水,fairy,妖精,70,20,50,20,50,40,250,False,False,0.4,8.5,88,thick fat; huge power,sap sipper,blue,waters-edge,fast,190,70,183
+184,184,azumarill,玛力露丽,generation-ii,第二世代,2,johto,城都,water,水,fairy,妖精,100,50,80,60,80,50,420,False,False,0.8,28.5,189,thick fat; huge power,sap sipper,blue,waters-edge,fast,75,70,184
+185,185,sudowoodo,树才怪,generation-ii,第二世代,2,johto,城都,rock,岩石,,,70,100,115,30,65,30,410,False,False,1.2,38.0,144,sturdy; rock head,rattled,brown,forest,medium,65,70,185
+186,186,politoed,蚊香蛙皇,generation-ii,第二世代,2,johto,城都,water,水,,,90,75,75,90,100,70,500,False,False,1.1,33.9,225,water absorb; damp,drizzle,green,waters-edge,medium-slow,45,70,186
+187,187,hoppip,毽子草,generation-ii,第二世代,2,johto,城都,grass,草,flying,飞行,35,35,40,35,55,50,250,False,False,0.4,0.5,50,chlorophyll; leaf guard,infiltrator,pink,grassland,medium-slow,255,70,187
+188,188,skiploom,毽子花,generation-ii,第二世代,2,johto,城都,grass,草,flying,飞行,55,45,50,45,65,80,340,False,False,0.6,1.0,119,chlorophyll; leaf guard,infiltrator,green,grassland,medium-slow,120,70,188
+189,189,jumpluff,毽子棉,generation-ii,第二世代,2,johto,城都,grass,草,flying,飞行,75,55,70,55,95,110,460,False,False,0.8,3.0,207,chlorophyll; leaf guard,infiltrator,blue,grassland,medium-slow,45,70,189
+190,190,aipom,长尾怪手,generation-ii,第二世代,2,johto,城都,normal,一般,,,55,70,55,40,55,85,360,False,False,0.8,11.5,72,run away; pickup,skill link,purple,forest,fast,45,70,190
+191,191,sunkern,向日种子,generation-ii,第二世代,2,johto,城都,grass,草,,,30,30,30,30,30,30,180,False,False,0.3,1.8,36,chlorophyll; solar power,early bird,yellow,grassland,medium-slow,235,70,191
+192,192,sunflora,向日花怪,generation-ii,第二世代,2,johto,城都,grass,草,,,75,75,55,105,85,30,425,False,False,0.8,8.5,149,chlorophyll; solar power,early bird,yellow,grassland,medium-slow,120,70,192
+193,193,yanma,蜻蜻蜓,generation-ii,第二世代,2,johto,城都,bug,虫,flying,飞行,65,65,45,75,45,95,390,False,False,1.2,38.0,78,speed boost; compound eyes,frisk,red,forest,medium,75,70,193
+194,194,wooper,乌波,generation-ii,第二世代,2,johto,城都,water,水,ground,地面,55,45,45,25,25,15,210,False,False,0.4,8.5,42,damp; water absorb,unaware,blue,waters-edge,medium,255,70,194
+195,195,quagsire,沼王,generation-ii,第二世代,2,johto,城都,water,水,ground,地面,95,85,85,65,65,35,430,False,False,1.4,75.0,151,damp; water absorb,unaware,blue,waters-edge,medium,90,70,195
+196,196,espeon,太阳伊布,generation-ii,第二世代,2,johto,城都,psychic,超能力,,,65,65,60,130,95,110,525,False,False,0.9,26.5,184,synchronize,magic bounce,purple,urban,medium,45,70,196
+197,197,umbreon,月亮伊布,generation-ii,第二世代,2,johto,城都,dark,恶,,,95,65,110,60,130,65,525,False,False,1.0,27.0,184,synchronize,inner focus,black,urban,medium,45,35,197
+198,198,murkrow,黑暗鸦,generation-ii,第二世代,2,johto,城都,dark,恶,flying,飞行,60,85,42,85,42,91,405,False,False,0.5,2.1,81,insomnia; super luck,prankster,black,forest,medium-slow,30,35,198
+199,199,slowking,呆呆王,generation-ii,第二世代,2,johto,城都,water,水,psychic,超能力,95,75,80,100,110,30,490,False,False,2.0,79.5,172,oblivious; own tempo,regenerator,pink,waters-edge,medium,70,70,199
+200,200,misdreavus,梦妖,generation-ii,第二世代,2,johto,城都,ghost,幽灵,,,60,60,60,85,85,85,435,False,False,0.7,1.0,87,levitate,,gray,cave,fast,45,35,200
+201,201,unown,未知图腾,generation-ii,第二世代,2,johto,城都,psychic,超能力,,,48,72,48,72,48,48,336,False,False,0.5,5.0,118,levitate,,black,rare,medium,225,70,201
+202,202,wobbuffet,果然翁,generation-ii,第二世代,2,johto,城都,psychic,超能力,,,190,33,58,33,58,33,405,False,False,1.3,28.5,142,shadow tag,telepathy,blue,cave,medium,45,70,202
+203,203,girafarig,麒麟奇,generation-ii,第二世代,2,johto,城都,normal,一般,psychic,超能力,70,80,65,90,65,85,455,False,False,1.5,41.5,159,inner focus; early bird,sap sipper,yellow,grassland,medium,60,70,203
+204,204,pineco,榛果球,generation-ii,第二世代,2,johto,城都,bug,虫,,,50,65,90,35,35,15,290,False,False,0.6,7.2,58,sturdy,overcoat,gray,forest,medium,190,70,204
+205,205,forretress,佛烈托斯,generation-ii,第二世代,2,johto,城都,bug,虫,steel,钢,75,90,140,60,60,40,465,False,False,1.2,125.8,163,sturdy,overcoat,purple,forest,medium,75,70,205
+206,206,dunsparce,土龙弟弟,generation-ii,第二世代,2,johto,城都,normal,一般,,,100,70,70,65,65,45,415,False,False,1.5,14.0,145,serene grace; run away,rattled,yellow,cave,medium,190,70,206
+207,207,gligar,天蝎,generation-ii,第二世代,2,johto,城都,ground,地面,flying,飞行,65,75,105,35,65,85,430,False,False,1.1,64.8,86,hyper cutter; sand veil,immunity,purple,mountain,medium-slow,60,70,207
+208,208,steelix,大钢蛇,generation-ii,第二世代,2,johto,城都,steel,钢,ground,地面,75,85,200,55,65,30,510,False,False,9.2,400.0,179,rock head; sturdy,sheer force,gray,cave,medium,25,70,208
+209,209,snubbull,布鲁,generation-ii,第二世代,2,johto,城都,fairy,妖精,,,60,80,50,40,40,30,300,False,False,0.6,7.8,60,intimidate; run away,rattled,pink,urban,fast,190,70,209
+210,210,granbull,布鲁皇,generation-ii,第二世代,2,johto,城都,fairy,妖精,,,90,120,75,60,60,45,450,False,False,1.4,48.7,158,intimidate; quick feet,rattled,purple,urban,fast,75,70,210
+211,211,qwilfish,千针鱼,generation-ii,第二世代,2,johto,城都,water,水,poison,毒,65,95,85,55,55,85,440,False,False,0.5,3.9,88,poison point; swift swim,intimidate,gray,sea,medium,45,70,211
+212,212,scizor,巨钳螳螂,generation-ii,第二世代,2,johto,城都,bug,虫,steel,钢,70,130,100,55,80,65,500,False,False,1.8,118.0,175,swarm; technician,light metal,red,grassland,medium,25,70,212
+213,213,shuckle,壶壶,generation-ii,第二世代,2,johto,城都,bug,虫,rock,岩石,20,10,230,10,230,5,505,False,False,0.6,20.5,177,sturdy; gluttony,contrary,yellow,mountain,medium-slow,190,70,213
+214,214,heracross,赫拉克罗斯,generation-ii,第二世代,2,johto,城都,bug,虫,fighting,格斗,80,125,75,40,95,85,500,False,False,1.5,54.0,175,swarm; guts,moxie,blue,forest,slow,45,70,214
+215,215,sneasel,狃拉,generation-ii,第二世代,2,johto,城都,dark,恶,ice,冰,55,95,55,35,75,115,430,False,False,0.9,28.0,86,inner focus; keen eye,pickpocket,black,forest,medium-slow,60,35,215
+216,216,teddiursa,熊宝宝,generation-ii,第二世代,2,johto,城都,normal,一般,,,60,80,50,50,50,40,330,False,False,0.6,8.8,66,pickup; quick feet,honey gather,brown,mountain,medium,120,70,216
+217,217,ursaring,圈圈熊,generation-ii,第二世代,2,johto,城都,normal,一般,,,90,130,75,75,75,55,500,False,False,1.8,125.8,175,guts; quick feet,unnerve,brown,mountain,medium,60,70,217
+218,218,slugma,熔岩虫,generation-ii,第二世代,2,johto,城都,fire,火,,,40,40,40,70,40,20,250,False,False,0.7,35.0,50,magma armor; flame body,weak armor,red,mountain,medium,190,70,218
+219,219,magcargo,熔岩蜗牛,generation-ii,第二世代,2,johto,城都,fire,火,rock,岩石,60,50,120,90,80,30,430,False,False,0.8,55.0,151,magma armor; flame body,weak armor,red,mountain,medium,75,70,219
+220,220,swinub,小山猪,generation-ii,第二世代,2,johto,城都,ice,冰,ground,地面,50,50,40,30,30,50,250,False,False,0.4,6.5,50,oblivious; snow cloak,thick fat,brown,cave,slow,225,70,220
+221,221,piloswine,长毛猪,generation-ii,第二世代,2,johto,城都,ice,冰,ground,地面,100,100,80,60,60,50,450,False,False,1.1,55.8,158,oblivious; snow cloak,thick fat,brown,cave,slow,75,70,221
+222,222,corsola,太阳珊瑚,generation-ii,第二世代,2,johto,城都,water,水,rock,岩石,65,55,95,65,95,35,410,False,False,0.6,5.0,144,hustle; natural cure,regenerator,pink,sea,fast,60,70,222
+223,223,remoraid,铁炮鱼,generation-ii,第二世代,2,johto,城都,water,水,,,35,65,35,65,35,65,300,False,False,0.6,12.0,60,hustle; sniper,moody,gray,sea,medium,190,70,223
+224,224,octillery,章鱼桶,generation-ii,第二世代,2,johto,城都,water,水,,,75,105,75,105,75,45,480,False,False,0.9,28.5,168,suction cups; sniper,moody,red,sea,medium,75,70,224
+225,225,delibird,信使鸟,generation-ii,第二世代,2,johto,城都,ice,冰,flying,飞行,45,55,45,65,45,75,330,False,False,0.9,16.0,116,vital spirit; hustle,insomnia,red,mountain,fast,45,70,225
+226,226,mantine,巨翅飞鱼,generation-ii,第二世代,2,johto,城都,water,水,flying,飞行,85,40,70,80,140,70,485,False,False,2.1,220.0,170,swift swim; water absorb,water veil,purple,sea,slow,25,70,226
+227,227,skarmory,盔甲鸟,generation-ii,第二世代,2,johto,城都,steel,钢,flying,飞行,65,80,140,40,70,70,465,False,False,1.7,50.5,163,keen eye; sturdy,weak armor,gray,rough-terrain,slow,25,70,227
+228,228,houndour,戴鲁比,generation-ii,第二世代,2,johto,城都,dark,恶,fire,火,45,60,30,80,50,65,330,False,False,0.6,10.8,66,early bird; flash fire,unnerve,black,rough-terrain,slow,120,35,228
+229,229,houndoom,黑鲁加,generation-ii,第二世代,2,johto,城都,dark,恶,fire,火,75,90,50,110,80,95,500,False,False,1.4,35.0,175,early bird; flash fire,unnerve,black,rough-terrain,slow,45,35,229
+230,230,kingdra,刺龙王,generation-ii,第二世代,2,johto,城都,water,水,dragon,龙,75,95,95,95,95,85,540,False,False,1.8,152.0,243,swift swim; sniper,damp,blue,sea,medium,45,70,230
+231,231,phanpy,小小象,generation-ii,第二世代,2,johto,城都,ground,地面,,,90,60,60,40,40,40,330,False,False,0.5,33.5,66,pickup,sand veil,blue,rough-terrain,medium,120,70,231
+232,232,donphan,顿甲,generation-ii,第二世代,2,johto,城都,ground,地面,,,90,120,120,60,60,50,500,False,False,1.1,120.0,175,sturdy,sand veil,gray,rough-terrain,medium,60,70,232
+233,233,porygon2,多边兽２型,generation-ii,第二世代,2,johto,城都,normal,一般,,,85,80,90,105,95,60,515,False,False,0.6,32.5,180,trace; download,analytic,red,urban,medium,45,70,233
+234,234,stantler,惊角鹿,generation-ii,第二世代,2,johto,城都,normal,一般,,,73,95,62,85,65,85,465,False,False,1.4,71.2,163,intimidate; frisk,sap sipper,brown,forest,slow,45,70,234
+235,235,smeargle,图图犬,generation-ii,第二世代,2,johto,城都,normal,一般,,,55,20,35,20,45,75,250,False,False,1.2,58.0,88,own tempo; technician,moody,white,urban,fast,45,70,235
+236,236,tyrogue,无畏小子,generation-ii,第二世代,2,johto,城都,fighting,格斗,,,35,35,35,35,35,35,210,False,False,0.7,21.0,42,guts; steadfast,vital spirit,purple,urban,medium,75,70,236
+237,237,hitmontop,战舞郎,generation-ii,第二世代,2,johto,城都,fighting,格斗,,,50,95,95,35,110,70,455,False,False,1.4,48.0,159,intimidate; technician,steadfast,brown,urban,medium,45,70,237
+238,238,smoochum,迷唇娃,generation-ii,第二世代,2,johto,城都,ice,冰,psychic,超能力,45,30,15,85,65,65,305,False,False,0.4,6.0,61,oblivious; forewarn,hydration,pink,urban,medium,45,70,238
+239,239,elekid,电击怪,generation-ii,第二世代,2,johto,城都,electric,电,,,45,63,37,65,55,95,360,False,False,0.6,23.5,72,static,vital spirit,yellow,grassland,medium,45,70,239
+240,240,magby,鸭嘴宝宝,generation-ii,第二世代,2,johto,城都,fire,火,,,45,75,37,70,55,83,365,False,False,0.7,21.4,73,flame body,vital spirit,red,mountain,medium,45,70,240
+241,241,miltank,大奶罐,generation-ii,第二世代,2,johto,城都,normal,一般,,,95,80,105,40,70,100,490,False,False,1.2,75.5,172,thick fat; scrappy,sap sipper,pink,grassland,slow,45,70,241
+242,242,blissey,幸福蛋,generation-ii,第二世代,2,johto,城都,normal,一般,,,255,10,10,75,135,55,540,False,False,1.5,46.8,608,natural cure; serene grace,healer,pink,urban,fast,30,140,242
+243,243,raikou,雷公,generation-ii,第二世代,2,johto,城都,electric,电,,,90,85,75,115,100,115,580,True,False,1.9,178.0,261,pressure,inner focus,yellow,grassland,slow,3,35,243
+244,244,entei,炎帝,generation-ii,第二世代,2,johto,城都,fire,火,,,115,115,85,90,75,100,580,True,False,2.1,198.0,261,pressure,inner focus,brown,grassland,slow,3,35,244
+245,245,suicune,水君,generation-ii,第二世代,2,johto,城都,water,水,,,100,75,115,90,115,85,580,True,False,2.0,187.0,261,pressure,inner focus,blue,grassland,slow,3,35,245
+246,246,larvitar,幼基拉斯,generation-ii,第二世代,2,johto,城都,rock,岩石,ground,地面,50,64,50,45,50,41,300,False,False,0.6,72.0,60,guts,sand veil,green,mountain,slow,45,35,246
+247,247,pupitar,沙基拉斯,generation-ii,第二世代,2,johto,城都,rock,岩石,ground,地面,70,84,70,65,70,51,410,False,False,1.2,152.0,144,shed skin,,gray,mountain,slow,45,35,247
+248,248,tyranitar,班基拉斯,generation-ii,第二世代,2,johto,城都,rock,岩石,dark,恶,100,134,110,95,100,61,600,False,False,2.0,202.0,270,sand stream,unnerve,green,mountain,slow,45,35,248
+249,249,lugia,洛奇亚,generation-ii,第二世代,2,johto,城都,psychic,超能力,flying,飞行,106,90,130,90,154,110,680,True,False,5.2,216.0,306,pressure,multiscale,white,rare,slow,3,0,249
+250,250,ho-oh,凤王,generation-ii,第二世代,2,johto,城都,fire,火,flying,飞行,106,130,90,110,154,90,680,True,False,3.8,199.0,306,pressure,regenerator,red,rare,slow,3,0,250
+251,251,celebi,时拉比,generation-ii,第二世代,2,johto,城都,psychic,超能力,grass,草,100,100,100,100,100,100,600,False,True,0.6,5.0,270,natural cure,,green,forest,medium-slow,45,100,251
+252,252,treecko,木守宫,generation-iii,第三世代,3,hoenn,丰缘,grass,草,,,40,45,35,65,55,70,310,False,False,0.5,5.0,62,overgrow,unburden,green,forest,medium-slow,45,70,252
+253,253,grovyle,森林蜥蜴,generation-iii,第三世代,3,hoenn,丰缘,grass,草,,,50,65,45,85,65,95,405,False,False,0.9,21.6,142,overgrow,unburden,green,forest,medium-slow,45,70,253
+254,254,sceptile,蜥蜴王,generation-iii,第三世代,3,hoenn,丰缘,grass,草,,,70,85,65,105,85,120,530,False,False,1.7,52.2,239,overgrow,unburden,green,forest,medium-slow,45,70,254
+255,255,torchic,火稚鸡,generation-iii,第三世代,3,hoenn,丰缘,fire,火,,,45,60,40,70,50,45,310,False,False,0.4,2.5,62,blaze,speed boost,red,grassland,medium-slow,45,70,255
+256,256,combusken,力壮鸡,generation-iii,第三世代,3,hoenn,丰缘,fire,火,fighting,格斗,60,85,60,85,60,55,405,False,False,0.9,19.5,142,blaze,speed boost,red,grassland,medium-slow,45,70,256
+257,257,blaziken,火焰鸡,generation-iii,第三世代,3,hoenn,丰缘,fire,火,fighting,格斗,80,120,70,110,70,80,530,False,False,1.9,52.0,239,blaze,speed boost,red,grassland,medium-slow,45,70,257
+258,258,mudkip,水跃鱼,generation-iii,第三世代,3,hoenn,丰缘,water,水,,,50,70,50,50,50,40,310,False,False,0.4,7.6,62,torrent,damp,blue,waters-edge,medium-slow,45,70,258
+259,259,marshtomp,沼跃鱼,generation-iii,第三世代,3,hoenn,丰缘,water,水,ground,地面,70,85,70,60,70,50,405,False,False,0.7,28.0,142,torrent,damp,blue,waters-edge,medium-slow,45,70,259
+260,260,swampert,巨沼怪,generation-iii,第三世代,3,hoenn,丰缘,water,水,ground,地面,100,110,90,85,90,60,535,False,False,1.5,81.9,241,torrent,damp,blue,waters-edge,medium-slow,45,70,260
+261,261,poochyena,土狼犬,generation-iii,第三世代,3,hoenn,丰缘,dark,恶,,,35,55,35,30,30,35,220,False,False,0.5,13.6,56,run away; quick feet,rattled,gray,grassland,medium,255,70,261
+262,262,mightyena,大狼犬,generation-iii,第三世代,3,hoenn,丰缘,dark,恶,,,70,90,70,60,60,70,420,False,False,1.0,37.0,147,intimidate; quick feet,moxie,gray,grassland,medium,127,70,262
+263,263,zigzagoon,蛇纹熊,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,,,38,30,41,30,41,60,240,False,False,0.4,17.5,56,pickup; gluttony,quick feet,brown,grassland,medium,255,70,263
+264,264,linoone,直冲熊,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,,,78,70,61,50,61,100,420,False,False,0.5,32.5,147,pickup; gluttony,quick feet,white,grassland,medium,90,70,264
+265,265,wurmple,刺尾虫,generation-iii,第三世代,3,hoenn,丰缘,bug,虫,,,45,45,35,20,30,20,195,False,False,0.3,3.6,56,shield dust,run away,red,forest,medium,255,70,265
+266,266,silcoon,甲壳茧,generation-iii,第三世代,3,hoenn,丰缘,bug,虫,,,50,35,55,25,25,15,205,False,False,0.6,10.0,72,shed skin,,white,forest,medium,120,70,266
+267,267,beautifly,狩猎凤蝶,generation-iii,第三世代,3,hoenn,丰缘,bug,虫,flying,飞行,60,70,50,100,50,65,395,False,False,1.0,28.4,178,swarm,rivalry,yellow,forest,medium,45,70,267
+268,268,cascoon,盾甲茧,generation-iii,第三世代,3,hoenn,丰缘,bug,虫,,,50,35,55,25,25,15,205,False,False,0.7,11.5,72,shed skin,,purple,forest,medium,120,70,268
+269,269,dustox,毒粉蛾,generation-iii,第三世代,3,hoenn,丰缘,bug,虫,poison,毒,60,50,70,50,90,65,385,False,False,1.2,31.6,173,shield dust,compound eyes,green,forest,medium,45,70,269
+270,270,lotad,莲叶童子,generation-iii,第三世代,3,hoenn,丰缘,water,水,grass,草,40,30,30,40,50,30,220,False,False,0.5,2.6,44,swift swim; rain dish,own tempo,green,waters-edge,medium-slow,255,70,270
+271,271,lombre,莲帽小童,generation-iii,第三世代,3,hoenn,丰缘,water,水,grass,草,60,50,50,60,70,50,340,False,False,1.2,32.5,119,swift swim; rain dish,own tempo,green,waters-edge,medium-slow,120,70,271
+272,272,ludicolo,乐天河童,generation-iii,第三世代,3,hoenn,丰缘,water,水,grass,草,80,70,70,90,100,70,480,False,False,1.5,55.0,216,swift swim; rain dish,own tempo,green,waters-edge,medium-slow,45,70,272
+273,273,seedot,橡实果,generation-iii,第三世代,3,hoenn,丰缘,grass,草,,,40,40,50,30,30,30,220,False,False,0.5,4.0,44,chlorophyll; early bird,pickpocket,brown,forest,medium-slow,255,70,273
+274,274,nuzleaf,长鼻叶,generation-iii,第三世代,3,hoenn,丰缘,grass,草,dark,恶,70,70,40,60,40,60,340,False,False,1.0,28.0,119,chlorophyll; early bird,pickpocket,brown,forest,medium-slow,120,70,274
+275,275,shiftry,狡猾天狗,generation-iii,第三世代,3,hoenn,丰缘,grass,草,dark,恶,90,100,60,90,60,80,480,False,False,1.3,59.6,216,chlorophyll; wind rider,pickpocket,brown,forest,medium-slow,45,70,275
+276,276,taillow,傲骨燕,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,flying,飞行,40,55,30,30,30,85,270,False,False,0.3,2.3,54,guts,scrappy,blue,grassland,medium-slow,200,70,276
+277,277,swellow,大王燕,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,flying,飞行,60,85,60,75,50,125,455,False,False,0.7,19.8,159,guts,scrappy,blue,grassland,medium-slow,45,70,277
+278,278,wingull,长翅鸥,generation-iii,第三世代,3,hoenn,丰缘,water,水,flying,飞行,40,30,30,55,30,85,270,False,False,0.6,9.5,54,keen eye; hydration,rain dish,white,sea,medium,190,70,278
+279,279,pelipper,大嘴鸥,generation-iii,第三世代,3,hoenn,丰缘,water,水,flying,飞行,60,50,100,95,70,65,440,False,False,1.2,28.0,154,keen eye; drizzle,rain dish,yellow,sea,medium,45,70,279
+280,280,ralts,拉鲁拉丝,generation-iii,第三世代,3,hoenn,丰缘,psychic,超能力,fairy,妖精,28,25,25,45,35,40,198,False,False,0.4,6.6,40,synchronize; trace,telepathy,white,urban,slow,235,35,280
+281,281,kirlia,奇鲁莉安,generation-iii,第三世代,3,hoenn,丰缘,psychic,超能力,fairy,妖精,38,35,35,65,55,50,278,False,False,0.8,20.2,97,synchronize; trace,telepathy,white,urban,slow,120,35,281
+282,282,gardevoir,沙奈朵,generation-iii,第三世代,3,hoenn,丰缘,psychic,超能力,fairy,妖精,68,65,65,125,115,80,518,False,False,1.6,48.4,233,synchronize; trace,telepathy,white,urban,slow,45,35,282
+283,283,surskit,溜溜糖球,generation-iii,第三世代,3,hoenn,丰缘,bug,虫,water,水,40,30,32,50,52,65,269,False,False,0.5,1.7,54,swift swim,rain dish,blue,waters-edge,medium,200,70,283
+284,284,masquerain,雨翅蛾,generation-iii,第三世代,3,hoenn,丰缘,bug,虫,flying,飞行,70,60,62,100,82,80,454,False,False,0.8,3.6,159,intimidate,unnerve,blue,waters-edge,medium,75,70,284
+285,285,shroomish,蘑蘑菇,generation-iii,第三世代,3,hoenn,丰缘,grass,草,,,60,40,60,40,60,35,295,False,False,0.4,4.5,59,effect spore; poison heal,quick feet,brown,forest,fast-then-very-slow,255,70,285
+286,286,breloom,斗笠菇,generation-iii,第三世代,3,hoenn,丰缘,grass,草,fighting,格斗,60,130,80,60,60,70,460,False,False,1.2,39.2,161,effect spore; poison heal,technician,green,forest,fast-then-very-slow,90,70,286
+287,287,slakoth,懒人獭,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,,,60,60,60,35,35,30,280,False,False,0.8,24.0,56,truant,,brown,forest,slow,255,70,287
+288,288,vigoroth,过动猿,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,,,80,80,80,55,55,90,440,False,False,1.4,46.5,154,vital spirit,,white,forest,slow,120,70,288
+289,289,slaking,请假王,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,,,150,160,100,95,65,100,670,False,False,2.0,130.5,252,truant,,brown,forest,slow,45,70,289
+290,290,nincada,土居忍士,generation-iii,第三世代,3,hoenn,丰缘,bug,虫,ground,地面,31,45,90,30,30,40,266,False,False,0.5,5.5,53,compound eyes,run away,gray,forest,slow-then-very-fast,255,70,290
+291,291,ninjask,铁面忍者,generation-iii,第三世代,3,hoenn,丰缘,bug,虫,flying,飞行,61,90,45,50,50,160,456,False,False,0.8,12.0,160,speed boost,infiltrator,yellow,forest,slow-then-very-fast,120,70,291
+292,292,shedinja,脱壳忍者,generation-iii,第三世代,3,hoenn,丰缘,bug,虫,ghost,幽灵,1,90,45,30,30,40,236,False,False,0.8,1.2,83,wonder guard,,brown,forest,slow-then-very-fast,45,70,292
+293,293,whismur,咕妞妞,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,,,64,51,23,51,23,28,240,False,False,0.6,16.3,48,soundproof,rattled,pink,cave,medium-slow,190,70,293
+294,294,loudred,吼爆弹,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,,,84,71,43,71,43,48,360,False,False,1.0,40.5,126,soundproof,scrappy,blue,cave,medium-slow,120,70,294
+295,295,exploud,爆音怪,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,,,104,91,63,91,73,68,490,False,False,1.5,84.0,221,soundproof,scrappy,blue,cave,medium-slow,45,70,295
+296,296,makuhita,幕下力士,generation-iii,第三世代,3,hoenn,丰缘,fighting,格斗,,,72,60,30,20,30,25,237,False,False,1.0,86.4,47,thick fat; guts,sheer force,yellow,mountain,fast-then-very-slow,180,70,296
+297,297,hariyama,铁掌力士,generation-iii,第三世代,3,hoenn,丰缘,fighting,格斗,,,144,120,60,40,60,50,474,False,False,2.3,253.8,166,thick fat; guts,sheer force,brown,mountain,fast-then-very-slow,200,70,297
+298,298,azurill,露力丽,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,fairy,妖精,50,20,40,20,40,20,190,False,False,0.2,2.0,38,thick fat; huge power,sap sipper,blue,waters-edge,fast,150,70,298
+299,299,nosepass,朝北鼻,generation-iii,第三世代,3,hoenn,丰缘,rock,岩石,,,30,45,135,45,90,30,375,False,False,1.0,97.0,75,sturdy; magnet pull,sand force,gray,cave,medium,255,70,299
+300,300,skitty,向尾喵,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,,,50,45,45,35,35,50,260,False,False,0.6,11.0,52,cute charm; normalize,wonder skin,pink,forest,fast,255,70,300
+301,301,delcatty,优雅猫,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,,,70,65,65,55,55,90,400,False,False,1.1,32.6,140,cute charm; normalize,wonder skin,purple,forest,fast,60,70,301
+302,302,sableye,勾魂眼,generation-iii,第三世代,3,hoenn,丰缘,dark,恶,ghost,幽灵,50,75,75,65,65,50,380,False,False,0.5,11.0,133,keen eye; stall,prankster,purple,cave,medium-slow,45,35,302
+303,303,mawile,大嘴娃,generation-iii,第三世代,3,hoenn,丰缘,steel,钢,fairy,妖精,50,85,85,55,55,50,380,False,False,0.6,11.5,133,hyper cutter; intimidate,sheer force,black,cave,fast,45,70,303
+304,304,aron,可可多拉,generation-iii,第三世代,3,hoenn,丰缘,steel,钢,rock,岩石,50,70,100,40,40,30,330,False,False,0.4,60.0,66,sturdy; rock head,heavy metal,gray,mountain,slow,180,35,304
+305,305,lairon,可多拉,generation-iii,第三世代,3,hoenn,丰缘,steel,钢,rock,岩石,60,90,140,50,50,40,430,False,False,0.9,120.0,151,sturdy; rock head,heavy metal,gray,mountain,slow,90,35,305
+306,306,aggron,波士可多拉,generation-iii,第三世代,3,hoenn,丰缘,steel,钢,rock,岩石,70,110,180,60,60,50,530,False,False,2.1,360.0,239,sturdy; rock head,heavy metal,gray,mountain,slow,45,35,306
+307,307,meditite,玛沙那,generation-iii,第三世代,3,hoenn,丰缘,fighting,格斗,psychic,超能力,30,40,55,40,55,60,280,False,False,0.6,11.2,56,pure power,telepathy,blue,mountain,medium,180,70,307
+308,308,medicham,恰雷姆,generation-iii,第三世代,3,hoenn,丰缘,fighting,格斗,psychic,超能力,60,60,75,60,75,80,410,False,False,1.3,31.5,144,pure power,telepathy,red,mountain,medium,90,70,308
+309,309,electrike,落雷兽,generation-iii,第三世代,3,hoenn,丰缘,electric,电,,,40,45,40,65,40,65,295,False,False,0.6,15.2,59,static; lightning rod,minus,green,grassland,slow,120,70,309
+310,310,manectric,雷电兽,generation-iii,第三世代,3,hoenn,丰缘,electric,电,,,70,75,60,105,60,105,475,False,False,1.5,40.2,166,static; lightning rod,minus,yellow,grassland,slow,45,70,310
+311,311,plusle,正电拍拍,generation-iii,第三世代,3,hoenn,丰缘,electric,电,,,60,50,40,85,75,95,405,False,False,0.4,4.2,142,plus,lightning rod,yellow,grassland,medium,200,70,311
+312,312,minun,負电拍拍,generation-iii,第三世代,3,hoenn,丰缘,electric,电,,,60,40,50,75,85,95,405,False,False,0.4,4.2,142,minus,volt absorb,yellow,grassland,medium,200,70,312
+313,313,volbeat,电萤虫,generation-iii,第三世代,3,hoenn,丰缘,bug,虫,,,65,73,75,47,85,85,430,False,False,0.7,17.7,151,illuminate; swarm,prankster,gray,forest,slow-then-very-fast,150,70,313
+314,314,illumise,甜甜萤,generation-iii,第三世代,3,hoenn,丰缘,bug,虫,,,65,47,75,73,85,85,430,False,False,0.6,17.7,151,oblivious; tinted lens,prankster,purple,forest,fast-then-very-slow,150,70,314
+315,315,roselia,毒蔷薇,generation-iii,第三世代,3,hoenn,丰缘,grass,草,poison,毒,50,60,45,100,80,65,400,False,False,0.3,2.0,140,natural cure; poison point,leaf guard,green,grassland,medium-slow,150,70,315
+316,316,gulpin,溶食兽,generation-iii,第三世代,3,hoenn,丰缘,poison,毒,,,70,43,53,43,53,40,302,False,False,0.4,10.3,60,liquid ooze; sticky hold,gluttony,green,grassland,fast-then-very-slow,225,70,316
+317,317,swalot,吞食兽,generation-iii,第三世代,3,hoenn,丰缘,poison,毒,,,100,73,83,73,83,55,467,False,False,1.7,80.0,163,liquid ooze; sticky hold,gluttony,purple,grassland,fast-then-very-slow,75,70,317
+318,318,carvanha,利牙鱼,generation-iii,第三世代,3,hoenn,丰缘,water,水,dark,恶,45,90,20,65,20,65,305,False,False,0.8,20.8,61,rough skin,speed boost,red,sea,slow,225,35,318
+319,319,sharpedo,巨牙鲨,generation-iii,第三世代,3,hoenn,丰缘,water,水,dark,恶,70,120,40,95,40,95,460,False,False,1.8,88.8,161,rough skin,speed boost,blue,sea,slow,60,35,319
+320,320,wailmer,吼吼鲸,generation-iii,第三世代,3,hoenn,丰缘,water,水,,,130,70,35,70,35,60,400,False,False,2.0,130.0,80,water veil; oblivious,pressure,blue,sea,fast-then-very-slow,125,70,320
+321,321,wailord,吼鲸王,generation-iii,第三世代,3,hoenn,丰缘,water,水,,,170,90,45,90,45,60,500,False,False,14.5,398.0,175,water veil; oblivious,pressure,blue,sea,fast-then-very-slow,60,70,321
+322,322,numel,呆火驼,generation-iii,第三世代,3,hoenn,丰缘,fire,火,ground,地面,60,60,40,65,45,35,305,False,False,0.7,24.0,61,oblivious; simple,own tempo,yellow,mountain,medium,255,70,322
+323,323,camerupt,喷火驼,generation-iii,第三世代,3,hoenn,丰缘,fire,火,ground,地面,70,100,70,105,75,40,460,False,False,1.9,220.0,161,magma armor; solid rock,anger point,red,mountain,medium,150,70,323
+324,324,torkoal,煤炭龟,generation-iii,第三世代,3,hoenn,丰缘,fire,火,,,70,85,140,85,70,20,470,False,False,0.5,80.4,165,white smoke; drought,shell armor,brown,mountain,medium,90,70,324
+325,325,spoink,跳跳猪,generation-iii,第三世代,3,hoenn,丰缘,psychic,超能力,,,60,25,35,70,80,60,330,False,False,0.7,30.6,66,thick fat; own tempo,gluttony,black,mountain,fast,255,70,325
+326,326,grumpig,噗噗猪,generation-iii,第三世代,3,hoenn,丰缘,psychic,超能力,,,80,45,65,90,110,80,470,False,False,0.9,71.5,165,thick fat; own tempo,gluttony,purple,mountain,fast,60,70,326
+327,327,spinda,晃晃斑,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,,,60,60,60,60,60,60,360,False,False,1.1,5.0,126,own tempo; tangled feet,contrary,brown,mountain,fast,255,70,327
+328,328,trapinch,大颚蚁,generation-iii,第三世代,3,hoenn,丰缘,ground,地面,,,45,100,45,45,45,10,290,False,False,0.7,15.0,58,hyper cutter; arena trap,sheer force,brown,rough-terrain,medium-slow,255,70,328
+329,329,vibrava,超音波幼虫,generation-iii,第三世代,3,hoenn,丰缘,ground,地面,dragon,龙,50,70,50,50,50,70,340,False,False,1.1,15.3,119,levitate,,green,rough-terrain,medium-slow,120,70,329
+330,330,flygon,沙漠蜻蜓,generation-iii,第三世代,3,hoenn,丰缘,ground,地面,dragon,龙,80,100,80,80,80,100,520,False,False,2.0,82.0,234,levitate,,green,rough-terrain,medium-slow,45,70,330
+331,331,cacnea,刺球仙人掌,generation-iii,第三世代,3,hoenn,丰缘,grass,草,,,50,85,40,85,40,35,335,False,False,0.4,51.3,67,sand veil,water absorb,green,rough-terrain,medium-slow,190,35,331
+332,332,cacturne,梦歌仙人掌,generation-iii,第三世代,3,hoenn,丰缘,grass,草,dark,恶,70,115,60,115,60,55,475,False,False,1.3,77.4,166,sand veil,water absorb,green,rough-terrain,medium-slow,60,35,332
+333,333,swablu,青绵鸟,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,flying,飞行,45,40,60,40,75,50,310,False,False,0.4,1.2,62,natural cure,cloud nine,blue,forest,slow-then-very-fast,255,70,333
+334,334,altaria,七夕青鸟,generation-iii,第三世代,3,hoenn,丰缘,dragon,龙,flying,飞行,75,70,90,70,105,80,490,False,False,1.1,20.6,172,natural cure,cloud nine,blue,forest,slow-then-very-fast,45,70,334
+335,335,zangoose,猫鼬斩,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,,,73,115,60,60,60,90,458,False,False,1.3,40.3,160,immunity,toxic boost,white,grassland,slow-then-very-fast,90,70,335
+336,336,seviper,饭匙蛇,generation-iii,第三世代,3,hoenn,丰缘,poison,毒,,,73,100,60,100,60,65,458,False,False,2.7,52.5,160,shed skin,infiltrator,black,grassland,fast-then-very-slow,90,70,336
+337,337,lunatone,月石,generation-iii,第三世代,3,hoenn,丰缘,rock,岩石,psychic,超能力,90,55,65,95,85,70,460,False,False,1.0,168.0,161,levitate,,yellow,cave,fast,45,70,337
+338,338,solrock,太阳岩,generation-iii,第三世代,3,hoenn,丰缘,rock,岩石,psychic,超能力,90,95,85,55,65,70,460,False,False,1.2,154.0,161,levitate,,red,cave,fast,45,70,338
+339,339,barboach,泥泥鳅,generation-iii,第三世代,3,hoenn,丰缘,water,水,ground,地面,50,48,43,46,41,60,288,False,False,0.4,1.9,58,oblivious; anticipation,hydration,gray,waters-edge,medium,190,70,339
+340,340,whiscash,鲶鱼王,generation-iii,第三世代,3,hoenn,丰缘,water,水,ground,地面,110,78,73,76,71,60,468,False,False,0.9,23.6,164,oblivious; anticipation,hydration,blue,waters-edge,medium,75,70,340
+341,341,corphish,龙虾小兵,generation-iii,第三世代,3,hoenn,丰缘,water,水,,,43,80,65,50,35,35,308,False,False,0.6,11.5,62,hyper cutter; shell armor,adaptability,red,waters-edge,fast-then-very-slow,205,70,341
+342,342,crawdaunt,铁螯龙虾,generation-iii,第三世代,3,hoenn,丰缘,water,水,dark,恶,63,120,85,90,55,55,468,False,False,1.1,32.8,164,hyper cutter; shell armor,adaptability,red,waters-edge,fast-then-very-slow,155,70,342
+343,343,baltoy,天秤偶,generation-iii,第三世代,3,hoenn,丰缘,ground,地面,psychic,超能力,40,40,55,40,70,55,300,False,False,0.5,21.5,60,levitate,,brown,rough-terrain,medium,255,70,343
+344,344,claydol,念力土偶,generation-iii,第三世代,3,hoenn,丰缘,ground,地面,psychic,超能力,60,70,105,70,120,75,500,False,False,1.5,108.0,175,levitate,,black,rough-terrain,medium,90,70,344
+345,345,lileep,触手百合,generation-iii,第三世代,3,hoenn,丰缘,rock,岩石,grass,草,66,41,77,61,87,23,355,False,False,1.0,23.8,71,suction cups,storm drain,purple,sea,slow-then-very-fast,45,70,345
+346,346,cradily,摇篮百合,generation-iii,第三世代,3,hoenn,丰缘,rock,岩石,grass,草,86,81,97,81,107,43,495,False,False,1.5,60.4,173,suction cups,storm drain,green,sea,slow-then-very-fast,45,70,346
+347,347,anorith,太古羽虫,generation-iii,第三世代,3,hoenn,丰缘,rock,岩石,bug,虫,45,95,50,40,50,75,355,False,False,0.7,12.5,71,battle armor,swift swim,gray,waters-edge,slow-then-very-fast,45,70,347
+348,348,armaldo,太古盔甲,generation-iii,第三世代,3,hoenn,丰缘,rock,岩石,bug,虫,75,125,100,70,80,45,495,False,False,1.5,68.2,173,battle armor,swift swim,gray,waters-edge,slow-then-very-fast,45,70,348
+349,349,feebas,丑丑鱼,generation-iii,第三世代,3,hoenn,丰缘,water,水,,,20,15,20,10,55,80,200,False,False,0.6,7.4,40,swift swim; oblivious,adaptability,brown,waters-edge,slow-then-very-fast,255,70,349
+350,350,milotic,美纳斯,generation-iii,第三世代,3,hoenn,丰缘,water,水,,,95,60,79,100,125,81,540,False,False,6.2,162.0,189,marvel scale; competitive,cute charm,pink,waters-edge,slow-then-very-fast,60,70,350
+351,351,castform,飘浮泡泡,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,,,70,70,70,70,70,70,420,False,False,0.3,0.8,147,forecast,,gray,grassland,medium,45,70,351
+352,352,kecleon,变隐龙,generation-iii,第三世代,3,hoenn,丰缘,normal,一般,,,60,90,70,60,120,40,440,False,False,1.0,22.0,154,color change,protean,green,forest,medium-slow,200,70,352
+353,353,shuppet,怨影娃娃,generation-iii,第三世代,3,hoenn,丰缘,ghost,幽灵,,,44,75,35,63,33,45,295,False,False,0.6,2.3,59,insomnia; frisk,cursed body,black,urban,fast,225,35,353
+354,354,banette,诅咒娃娃,generation-iii,第三世代,3,hoenn,丰缘,ghost,幽灵,,,64,115,65,83,63,65,455,False,False,1.1,12.5,159,insomnia; frisk,cursed body,black,urban,fast,45,35,354
+355,355,duskull,夜巡灵,generation-iii,第三世代,3,hoenn,丰缘,ghost,幽灵,,,20,40,90,30,90,25,295,False,False,0.8,15.0,59,levitate,frisk,black,forest,fast,190,35,355
+356,356,dusclops,彷徨夜灵,generation-iii,第三世代,3,hoenn,丰缘,ghost,幽灵,,,40,70,130,60,130,25,455,False,False,1.6,30.6,159,pressure,frisk,black,forest,fast,90,35,356
+357,357,tropius,热带龙,generation-iii,第三世代,3,hoenn,丰缘,grass,草,flying,飞行,99,68,83,72,87,51,460,False,False,2.0,100.0,161,chlorophyll; solar power,harvest,green,forest,slow,200,70,357
+358,358,chimecho,风铃铃,generation-iii,第三世代,3,hoenn,丰缘,psychic,超能力,,,75,50,80,95,90,65,455,False,False,0.6,1.0,159,levitate,,blue,grassland,fast,45,70,358
+359,359,absol,阿勃梭鲁,generation-iii,第三世代,3,hoenn,丰缘,dark,恶,,,65,130,60,75,60,75,465,False,False,1.2,47.0,163,pressure; super luck,justified,white,mountain,medium-slow,30,35,359
+360,360,wynaut,小果然,generation-iii,第三世代,3,hoenn,丰缘,psychic,超能力,,,95,23,48,23,48,23,260,False,False,0.6,14.0,52,shadow tag,telepathy,blue,cave,medium,125,70,360
+361,361,snorunt,雪童子,generation-iii,第三世代,3,hoenn,丰缘,ice,冰,,,50,50,50,50,50,50,300,False,False,0.7,16.8,60,inner focus; ice body,moody,gray,cave,medium,190,70,361
+362,362,glalie,冰鬼护,generation-iii,第三世代,3,hoenn,丰缘,ice,冰,,,80,80,80,80,80,80,480,False,False,1.5,256.5,168,inner focus; ice body,moody,gray,cave,medium,75,70,362
+363,363,spheal,海豹球,generation-iii,第三世代,3,hoenn,丰缘,ice,冰,water,水,70,40,50,55,50,25,290,False,False,0.8,39.5,58,thick fat; ice body,oblivious,blue,sea,medium-slow,255,70,363
+364,364,sealeo,海魔狮,generation-iii,第三世代,3,hoenn,丰缘,ice,冰,water,水,90,60,70,75,70,45,410,False,False,1.1,87.6,144,thick fat; ice body,oblivious,blue,sea,medium-slow,120,70,364
+365,365,walrein,帝牙海狮,generation-iii,第三世代,3,hoenn,丰缘,ice,冰,water,水,110,80,90,95,90,65,530,False,False,1.4,150.6,239,thick fat; ice body,oblivious,blue,sea,medium-slow,45,70,365
+366,366,clamperl,珍珠贝,generation-iii,第三世代,3,hoenn,丰缘,water,水,,,35,64,85,74,55,32,345,False,False,0.4,52.5,69,shell armor,rattled,blue,sea,slow-then-very-fast,255,70,366
+367,367,huntail,猎斑鱼,generation-iii,第三世代,3,hoenn,丰缘,water,水,,,55,104,105,94,75,52,485,False,False,1.7,27.0,170,swift swim,water veil,blue,sea,slow-then-very-fast,60,70,367
+368,368,gorebyss,樱花鱼,generation-iii,第三世代,3,hoenn,丰缘,water,水,,,55,84,105,114,75,52,485,False,False,1.8,22.6,170,swift swim,hydration,pink,sea,slow-then-very-fast,60,70,368
+369,369,relicanth,古空棘鱼,generation-iii,第三世代,3,hoenn,丰缘,water,水,rock,岩石,100,90,130,45,65,55,485,False,False,1.0,23.4,170,swift swim; rock head,sturdy,gray,sea,slow,25,70,369
+370,370,luvdisc,爱心鱼,generation-iii,第三世代,3,hoenn,丰缘,water,水,,,43,30,55,40,65,97,330,False,False,0.6,8.7,116,swift swim,hydration,pink,sea,fast,225,70,370
+371,371,bagon,宝贝龙,generation-iii,第三世代,3,hoenn,丰缘,dragon,龙,,,45,75,60,40,30,50,300,False,False,0.6,42.1,60,rock head,sheer force,blue,rough-terrain,slow,45,35,371
+372,372,shelgon,甲壳龙,generation-iii,第三世代,3,hoenn,丰缘,dragon,龙,,,65,95,100,60,50,50,420,False,False,1.1,110.5,147,rock head,overcoat,white,rough-terrain,slow,45,35,372
+373,373,salamence,暴飞龙,generation-iii,第三世代,3,hoenn,丰缘,dragon,龙,flying,飞行,95,135,80,110,80,100,600,False,False,1.5,102.6,270,intimidate,moxie,blue,rough-terrain,slow,45,35,373
+374,374,beldum,铁哑铃,generation-iii,第三世代,3,hoenn,丰缘,steel,钢,psychic,超能力,40,55,80,35,60,30,300,False,False,0.6,95.2,60,clear body,light metal,blue,rough-terrain,slow,3,35,374
+375,375,metang,金属怪,generation-iii,第三世代,3,hoenn,丰缘,steel,钢,psychic,超能力,60,75,100,55,80,50,420,False,False,1.2,202.5,147,clear body,light metal,blue,rough-terrain,slow,3,35,375
+376,376,metagross,巨金怪,generation-iii,第三世代,3,hoenn,丰缘,steel,钢,psychic,超能力,80,135,130,95,90,70,600,False,False,1.6,550.0,270,clear body,light metal,blue,rough-terrain,slow,3,35,376
+377,377,regirock,雷吉洛克,generation-iii,第三世代,3,hoenn,丰缘,rock,岩石,,,80,100,200,50,100,50,580,True,False,1.7,230.0,261,clear body,sturdy,brown,cave,slow,3,35,377
+378,378,regice,雷吉艾斯,generation-iii,第三世代,3,hoenn,丰缘,ice,冰,,,80,50,100,100,200,50,580,True,False,1.8,175.0,261,clear body,ice body,blue,cave,slow,3,35,378
+379,379,registeel,雷吉斯奇鲁,generation-iii,第三世代,3,hoenn,丰缘,steel,钢,,,80,75,150,75,150,50,580,True,False,1.9,205.0,261,clear body,light metal,gray,cave,slow,3,35,379
+380,380,latias,拉帝亚斯,generation-iii,第三世代,3,hoenn,丰缘,dragon,龙,psychic,超能力,80,80,90,110,130,110,600,True,False,1.4,40.0,270,levitate,,red,waters-edge,slow,3,90,380
+381,381,latios,拉帝欧斯,generation-iii,第三世代,3,hoenn,丰缘,dragon,龙,psychic,超能力,80,90,80,130,110,110,600,True,False,2.0,60.0,270,levitate,,blue,waters-edge,slow,3,90,381
+382,382,kyogre,盖欧卡,generation-iii,第三世代,3,hoenn,丰缘,water,水,,,100,100,90,150,140,90,670,True,False,4.5,352.0,302,drizzle,,blue,sea,slow,3,0,382
+383,383,groudon,固拉多,generation-iii,第三世代,3,hoenn,丰缘,ground,地面,,,100,150,140,100,90,90,670,True,False,3.5,950.0,302,drought,,red,rough-terrain,slow,3,0,383
+384,384,rayquaza,烈空坐,generation-iii,第三世代,3,hoenn,丰缘,dragon,龙,flying,飞行,105,150,90,150,90,95,680,True,False,7.0,206.5,306,air lock,,green,rare,slow,45,0,384
+385,385,jirachi,基拉祈,generation-iii,第三世代,3,hoenn,丰缘,steel,钢,psychic,超能力,100,100,100,100,100,100,600,False,True,0.3,1.1,270,serene grace,,yellow,mountain,slow,3,100,385
+386,386,deoxys,代欧奇希斯,generation-iii,第三世代,3,hoenn,丰缘,psychic,超能力,,,50,150,50,150,50,150,600,False,True,1.7,60.8,270,pressure,,red,rare,slow,3,0,386
+387,387,turtwig,草苗龟,generation-iv,第四世代,4,sinnoh,神奥,grass,草,,,55,68,64,45,55,31,318,False,False,0.4,10.2,64,overgrow,shell armor,green,,medium-slow,45,70,387
+388,388,grotle,树林龟,generation-iv,第四世代,4,sinnoh,神奥,grass,草,,,75,89,85,55,65,36,405,False,False,1.1,97.0,142,overgrow,shell armor,green,,medium-slow,45,70,388
+389,389,torterra,土台龟,generation-iv,第四世代,4,sinnoh,神奥,grass,草,ground,地面,95,109,105,75,85,56,525,False,False,2.2,310.0,236,overgrow,shell armor,green,,medium-slow,45,70,389
+390,390,chimchar,小火焰猴,generation-iv,第四世代,4,sinnoh,神奥,fire,火,,,44,58,44,58,44,61,309,False,False,0.5,6.2,62,blaze,iron fist,brown,,medium-slow,45,70,390
+391,391,monferno,猛火猴,generation-iv,第四世代,4,sinnoh,神奥,fire,火,fighting,格斗,64,78,52,78,52,81,405,False,False,0.9,22.0,142,blaze,iron fist,brown,,medium-slow,45,70,391
+392,392,infernape,烈焰猴,generation-iv,第四世代,4,sinnoh,神奥,fire,火,fighting,格斗,76,104,71,104,71,108,534,False,False,1.2,55.0,240,blaze,iron fist,brown,,medium-slow,45,70,392
+393,393,piplup,波加曼,generation-iv,第四世代,4,sinnoh,神奥,water,水,,,53,51,53,61,56,40,314,False,False,0.4,5.2,63,torrent,competitive,blue,,medium-slow,45,70,393
+394,394,prinplup,波皇子,generation-iv,第四世代,4,sinnoh,神奥,water,水,,,64,66,68,81,76,50,405,False,False,0.8,23.0,142,torrent,competitive,blue,,medium-slow,45,70,394
+395,395,empoleon,帝王拿波,generation-iv,第四世代,4,sinnoh,神奥,water,水,steel,钢,84,86,88,111,101,60,530,False,False,1.7,84.5,239,torrent,competitive,blue,,medium-slow,45,70,395
+396,396,starly,姆克儿,generation-iv,第四世代,4,sinnoh,神奥,normal,一般,flying,飞行,40,55,30,30,30,60,245,False,False,0.3,2.0,49,keen eye,reckless,brown,,medium-slow,255,70,396
+397,397,staravia,姆克鸟,generation-iv,第四世代,4,sinnoh,神奥,normal,一般,flying,飞行,55,75,50,40,40,80,340,False,False,0.6,15.5,119,intimidate,reckless,brown,,medium-slow,120,70,397
+398,398,staraptor,姆克鹰,generation-iv,第四世代,4,sinnoh,神奥,normal,一般,flying,飞行,85,120,70,50,60,100,485,False,False,1.2,24.9,218,intimidate,reckless,brown,,medium-slow,45,70,398
+399,399,bidoof,大牙狸,generation-iv,第四世代,4,sinnoh,神奥,normal,一般,,,59,45,40,35,40,31,250,False,False,0.5,20.0,50,simple; unaware,moody,brown,,medium,255,70,399
+400,400,bibarel,大尾狸,generation-iv,第四世代,4,sinnoh,神奥,normal,一般,water,水,79,85,60,55,60,71,410,False,False,1.0,31.5,144,simple; unaware,moody,brown,,medium,127,70,400
+401,401,kricketot,圆法师,generation-iv,第四世代,4,sinnoh,神奥,bug,虫,,,37,25,41,25,41,25,194,False,False,0.3,2.2,39,shed skin,run away,red,,medium-slow,255,70,401
+402,402,kricketune,音箱蟀,generation-iv,第四世代,4,sinnoh,神奥,bug,虫,,,77,85,51,55,51,65,384,False,False,1.0,25.5,134,swarm,technician,red,,medium-slow,45,70,402
+403,403,shinx,小猫怪,generation-iv,第四世代,4,sinnoh,神奥,electric,电,,,45,65,34,40,34,45,263,False,False,0.5,9.5,53,rivalry; intimidate,guts,blue,,medium-slow,235,70,403
+404,404,luxio,勒克猫,generation-iv,第四世代,4,sinnoh,神奥,electric,电,,,60,85,49,60,49,60,363,False,False,0.9,30.5,127,rivalry; intimidate,guts,blue,,medium-slow,120,100,404
+405,405,luxray,伦琴猫,generation-iv,第四世代,4,sinnoh,神奥,electric,电,,,80,120,79,95,79,70,523,False,False,1.4,42.0,235,rivalry; intimidate,guts,blue,,medium-slow,45,70,405
+406,406,budew,含羞苞,generation-iv,第四世代,4,sinnoh,神奥,grass,草,poison,毒,40,30,35,50,70,55,280,False,False,0.2,1.2,56,natural cure; poison point,leaf guard,green,,medium-slow,255,70,406
+407,407,roserade,罗丝雷朵,generation-iv,第四世代,4,sinnoh,神奥,grass,草,poison,毒,60,70,65,125,105,90,515,False,False,0.9,14.5,232,natural cure; poison point,technician,green,,medium-slow,75,70,407
+408,408,cranidos,头盖龙,generation-iv,第四世代,4,sinnoh,神奥,rock,岩石,,,67,125,40,30,30,58,350,False,False,0.9,31.5,70,mold breaker,sheer force,blue,,slow-then-very-fast,45,70,408
+409,409,rampardos,战槌龙,generation-iv,第四世代,4,sinnoh,神奥,rock,岩石,,,97,165,60,65,50,58,495,False,False,1.6,102.5,173,mold breaker,sheer force,blue,,slow-then-very-fast,45,70,409
+410,410,shieldon,盾甲龙,generation-iv,第四世代,4,sinnoh,神奥,rock,岩石,steel,钢,30,42,118,42,88,30,350,False,False,0.5,57.0,70,sturdy,soundproof,gray,,slow-then-very-fast,45,70,410
+411,411,bastiodon,护城龙,generation-iv,第四世代,4,sinnoh,神奥,rock,岩石,steel,钢,60,52,168,47,138,30,495,False,False,1.3,149.5,173,sturdy,soundproof,gray,,slow-then-very-fast,45,70,411
+412,412,burmy,结草儿,generation-iv,第四世代,4,sinnoh,神奥,bug,虫,,,40,29,45,29,45,36,224,False,False,0.2,3.4,45,shed skin,overcoat,green,,medium,120,70,412
+413,413,wormadam,结草贵妇,generation-iv,第四世代,4,sinnoh,神奥,bug,虫,grass,草,60,59,85,79,105,36,424,False,False,0.5,6.5,148,anticipation,overcoat,green,,medium,45,70,413
+414,414,mothim,绅士蛾,generation-iv,第四世代,4,sinnoh,神奥,bug,虫,flying,飞行,70,94,50,94,50,66,424,False,False,0.9,23.3,148,swarm,tinted lens,yellow,,medium,45,70,414
+415,415,combee,三蜜蜂,generation-iv,第四世代,4,sinnoh,神奥,bug,虫,flying,飞行,30,30,42,30,42,70,244,False,False,0.3,5.5,49,honey gather,hustle,yellow,,medium-slow,120,70,415
+416,416,vespiquen,蜂女王,generation-iv,第四世代,4,sinnoh,神奥,bug,虫,flying,飞行,70,80,102,80,102,40,474,False,False,1.2,38.5,166,pressure,unnerve,yellow,,medium-slow,45,70,416
+417,417,pachirisu,帕奇利兹,generation-iv,第四世代,4,sinnoh,神奥,electric,电,,,60,45,70,45,90,95,405,False,False,0.4,3.9,142,run away; pickup,volt absorb,white,,medium,200,100,417
+418,418,buizel,泳圈鼬,generation-iv,第四世代,4,sinnoh,神奥,water,水,,,55,65,35,60,30,85,330,False,False,0.7,29.5,66,swift swim,water veil,brown,,medium,190,70,418
+419,419,floatzel,浮潜鼬,generation-iv,第四世代,4,sinnoh,神奥,water,水,,,85,105,55,85,50,115,495,False,False,1.1,33.5,173,swift swim,water veil,brown,,medium,75,70,419
+420,420,cherubi,樱花宝,generation-iv,第四世代,4,sinnoh,神奥,grass,草,,,45,35,45,62,53,35,275,False,False,0.4,3.3,55,chlorophyll,,pink,,medium,190,70,420
+421,421,cherrim,樱花儿,generation-iv,第四世代,4,sinnoh,神奥,grass,草,,,70,60,70,87,78,85,450,False,False,0.5,9.3,158,flower gift,,purple,,medium,75,70,421
+422,422,shellos,无壳海兔,generation-iv,第四世代,4,sinnoh,神奥,water,水,,,76,48,48,57,62,34,325,False,False,0.3,6.3,65,sticky hold; storm drain,sand force,purple,,medium,190,70,422
+423,423,gastrodon,海兔兽,generation-iv,第四世代,4,sinnoh,神奥,water,水,ground,地面,111,83,68,92,82,39,475,False,False,0.9,29.9,166,sticky hold; storm drain,sand force,purple,,medium,75,70,423
+424,424,ambipom,双尾怪手,generation-iv,第四世代,4,sinnoh,神奥,normal,一般,,,75,100,66,60,66,115,482,False,False,1.2,20.3,169,technician; pickup,skill link,purple,,fast,45,100,424
+425,425,drifloon,飘飘球,generation-iv,第四世代,4,sinnoh,神奥,ghost,幽灵,flying,飞行,90,50,34,60,44,70,348,False,False,0.4,1.2,70,aftermath; unburden,flare boost,purple,,fast-then-very-slow,125,70,425
+426,426,drifblim,随风球,generation-iv,第四世代,4,sinnoh,神奥,ghost,幽灵,flying,飞行,150,80,44,90,54,80,498,False,False,1.2,15.0,174,aftermath; unburden,flare boost,purple,,fast-then-very-slow,60,70,426
+427,427,buneary,卷卷耳,generation-iv,第四世代,4,sinnoh,神奥,normal,一般,,,55,66,44,44,56,85,350,False,False,0.4,5.5,70,run away; klutz,limber,brown,,medium,190,0,427
+428,428,lopunny,长耳兔,generation-iv,第四世代,4,sinnoh,神奥,normal,一般,,,65,76,84,54,96,105,480,False,False,1.2,33.3,168,cute charm; klutz,limber,brown,,medium,60,140,428
+429,429,mismagius,梦妖魔,generation-iv,第四世代,4,sinnoh,神奥,ghost,幽灵,,,60,60,60,105,105,105,495,False,False,0.9,4.4,173,levitate,,purple,,fast,45,35,429
+430,430,honchkrow,乌鸦头头,generation-iv,第四世代,4,sinnoh,神奥,dark,恶,flying,飞行,100,125,52,105,52,71,505,False,False,0.9,27.3,177,insomnia; super luck,moxie,black,,medium-slow,30,35,430
+431,431,glameow,魅力喵,generation-iv,第四世代,4,sinnoh,神奥,normal,一般,,,49,55,42,42,37,85,310,False,False,0.5,3.9,62,limber; own tempo,keen eye,gray,,fast,190,70,431
+432,432,purugly,东施喵,generation-iv,第四世代,4,sinnoh,神奥,normal,一般,,,71,82,64,64,59,112,452,False,False,1.0,43.8,158,thick fat; own tempo,defiant,gray,,fast,75,70,432
+433,433,chingling,铃铛响,generation-iv,第四世代,4,sinnoh,神奥,psychic,超能力,,,45,30,50,65,50,45,285,False,False,0.2,0.6,57,levitate,,yellow,,fast,120,70,433
+434,434,stunky,臭鼬噗,generation-iv,第四世代,4,sinnoh,神奥,poison,毒,dark,恶,63,63,47,41,41,74,329,False,False,0.4,19.2,66,stench; aftermath,keen eye,purple,,medium,225,70,434
+435,435,skuntank,坦克臭鼬,generation-iv,第四世代,4,sinnoh,神奥,poison,毒,dark,恶,103,93,67,71,61,84,479,False,False,1.0,38.0,168,stench; aftermath,keen eye,purple,,medium,60,70,435
+436,436,bronzor,铜镜怪,generation-iv,第四世代,4,sinnoh,神奥,steel,钢,psychic,超能力,57,24,86,24,86,23,300,False,False,0.5,60.5,60,levitate; heatproof,heavy metal,green,,medium,255,70,436
+437,437,bronzong,青铜钟,generation-iv,第四世代,4,sinnoh,神奥,steel,钢,psychic,超能力,67,89,116,79,116,33,500,False,False,1.3,187.0,175,levitate; heatproof,heavy metal,green,,medium,90,70,437
+438,438,bonsly,盆才怪,generation-iv,第四世代,4,sinnoh,神奥,rock,岩石,,,50,80,95,10,45,10,290,False,False,0.5,15.0,58,sturdy; rock head,rattled,brown,,medium,255,70,438
+439,439,mime-jr,魔尼尼,generation-iv,第四世代,4,sinnoh,神奥,psychic,超能力,fairy,妖精,20,25,45,70,90,60,310,False,False,0.6,13.0,62,soundproof; filter,technician,pink,,medium,145,70,439
+440,440,happiny,小福蛋,generation-iv,第四世代,4,sinnoh,神奥,normal,一般,,,100,5,5,15,65,30,220,False,False,0.6,24.4,110,natural cure; serene grace,friend guard,pink,,fast,130,140,440
+441,441,chatot,聒噪鸟,generation-iv,第四世代,4,sinnoh,神奥,normal,一般,flying,飞行,76,65,45,92,42,91,411,False,False,0.5,1.9,144,keen eye; tangled feet,big pecks,black,,medium-slow,30,35,441
+442,442,spiritomb,花岩怪,generation-iv,第四世代,4,sinnoh,神奥,ghost,幽灵,dark,恶,50,92,108,92,108,35,485,False,False,1.0,108.0,170,pressure,infiltrator,purple,,medium,100,70,442
+443,443,gible,圆陆鲨,generation-iv,第四世代,4,sinnoh,神奥,dragon,龙,ground,地面,58,70,45,40,45,42,300,False,False,0.7,20.5,60,sand veil,rough skin,blue,,slow,45,70,443
+444,444,gabite,尖牙陆鲨,generation-iv,第四世代,4,sinnoh,神奥,dragon,龙,ground,地面,68,90,65,50,55,82,410,False,False,1.4,56.0,144,sand veil,rough skin,blue,,slow,45,70,444
+445,445,garchomp,烈咬陆鲨,generation-iv,第四世代,4,sinnoh,神奥,dragon,龙,ground,地面,108,130,95,80,85,102,600,False,False,1.9,95.0,270,sand veil,rough skin,blue,,slow,45,70,445
+446,446,munchlax,小卡比兽,generation-iv,第四世代,4,sinnoh,神奥,normal,一般,,,135,85,40,40,85,5,390,False,False,0.6,105.0,78,pickup; thick fat,gluttony,black,,slow,50,70,446
+447,447,riolu,利欧路,generation-iv,第四世代,4,sinnoh,神奥,fighting,格斗,,,40,70,40,35,40,60,285,False,False,0.7,20.2,57,steadfast; inner focus,prankster,blue,,medium-slow,75,70,447
+448,448,lucario,路卡利欧,generation-iv,第四世代,4,sinnoh,神奥,fighting,格斗,steel,钢,70,110,70,115,70,90,525,False,False,1.2,54.0,184,steadfast; inner focus,justified,blue,,medium-slow,45,70,448
+449,449,hippopotas,沙河马,generation-iv,第四世代,4,sinnoh,神奥,ground,地面,,,68,72,78,38,42,32,330,False,False,0.8,49.5,66,sand stream,sand force,brown,,slow,140,70,449
+450,450,hippowdon,河马兽,generation-iv,第四世代,4,sinnoh,神奥,ground,地面,,,108,112,118,68,72,47,525,False,False,2.0,300.0,184,sand stream,sand force,brown,,slow,60,70,450
+451,451,skorupi,钳尾蝎,generation-iv,第四世代,4,sinnoh,神奥,poison,毒,bug,虫,40,50,90,30,55,65,330,False,False,0.8,12.0,66,battle armor; sniper,keen eye,purple,,slow,120,70,451
+452,452,drapion,龙王蝎,generation-iv,第四世代,4,sinnoh,神奥,poison,毒,dark,恶,70,90,110,60,75,95,500,False,False,1.3,61.5,175,battle armor; sniper,keen eye,purple,,slow,45,70,452
+453,453,croagunk,不良蛙,generation-iv,第四世代,4,sinnoh,神奥,poison,毒,fighting,格斗,48,61,40,61,40,50,300,False,False,0.7,23.0,60,anticipation; dry skin,poison touch,blue,,medium,140,100,453
+454,454,toxicroak,毒骷蛙,generation-iv,第四世代,4,sinnoh,神奥,poison,毒,fighting,格斗,83,106,65,86,65,85,490,False,False,1.3,44.4,172,anticipation; dry skin,poison touch,blue,,medium,75,70,454
+455,455,carnivine,尖牙笼,generation-iv,第四世代,4,sinnoh,神奥,grass,草,,,74,100,72,90,72,46,454,False,False,1.4,27.0,159,levitate,,green,,slow,200,70,455
+456,456,finneon,荧光鱼,generation-iv,第四世代,4,sinnoh,神奥,water,水,,,49,49,56,49,61,66,330,False,False,0.4,7.0,66,swift swim; storm drain,water veil,blue,,slow-then-very-fast,190,70,456
+457,457,lumineon,霓虹鱼,generation-iv,第四世代,4,sinnoh,神奥,water,水,,,69,69,76,69,86,91,460,False,False,1.2,24.0,161,swift swim; storm drain,water veil,blue,,slow-then-very-fast,75,70,457
+458,458,mantyke,小球飞鱼,generation-iv,第四世代,4,sinnoh,神奥,water,水,flying,飞行,45,20,50,60,120,50,345,False,False,1.0,65.0,69,swift swim; water absorb,water veil,blue,,slow,25,70,458
+459,459,snover,雪笠怪,generation-iv,第四世代,4,sinnoh,神奥,grass,草,ice,冰,60,62,50,62,60,40,334,False,False,1.0,50.5,67,snow warning,soundproof,white,,slow,120,70,459
+460,460,abomasnow,暴雪王,generation-iv,第四世代,4,sinnoh,神奥,grass,草,ice,冰,90,92,75,92,85,60,494,False,False,2.2,135.5,173,snow warning,soundproof,white,,slow,60,70,460
+461,461,weavile,玛狃拉,generation-iv,第四世代,4,sinnoh,神奥,dark,恶,ice,冰,70,120,65,45,85,125,510,False,False,1.1,34.0,179,pressure,pickpocket,black,,medium-slow,45,35,461
+462,462,magnezone,自爆磁怪,generation-iv,第四世代,4,sinnoh,神奥,electric,电,steel,钢,70,70,115,130,90,60,535,False,False,1.2,180.0,241,magnet pull; sturdy,analytic,gray,,medium,30,70,462
+463,463,lickilicky,大舌舔,generation-iv,第四世代,4,sinnoh,神奥,normal,一般,,,110,85,95,80,95,50,515,False,False,1.7,140.0,180,own tempo; oblivious,cloud nine,pink,,medium,30,70,463
+464,464,rhyperior,超甲狂犀,generation-iv,第四世代,4,sinnoh,神奥,ground,地面,rock,岩石,115,140,130,55,55,40,535,False,False,2.4,282.8,241,lightning rod; solid rock,reckless,gray,,slow,30,70,464
+465,465,tangrowth,巨蔓藤,generation-iv,第四世代,4,sinnoh,神奥,grass,草,,,100,100,125,110,50,50,535,False,False,2.0,128.6,187,chlorophyll; leaf guard,regenerator,blue,,medium,30,70,465
+466,466,electivire,电击魔兽,generation-iv,第四世代,4,sinnoh,神奥,electric,电,,,75,123,67,95,85,95,540,False,False,1.8,138.6,243,motor drive,vital spirit,yellow,,medium,30,70,466
+467,467,magmortar,鸭嘴炎兽,generation-iv,第四世代,4,sinnoh,神奥,fire,火,,,75,95,67,125,95,83,540,False,False,1.6,68.0,243,flame body,vital spirit,red,,medium,30,70,467
+468,468,togekiss,波克基斯,generation-iv,第四世代,4,sinnoh,神奥,fairy,妖精,flying,飞行,85,50,95,120,115,80,545,False,False,1.5,38.0,245,hustle; serene grace,super luck,white,,fast,30,70,468
+469,469,yanmega,远古巨蜓,generation-iv,第四世代,4,sinnoh,神奥,bug,虫,flying,飞行,86,76,86,116,56,95,515,False,False,1.9,51.5,180,speed boost; tinted lens,frisk,green,,medium,30,70,469
+470,470,leafeon,叶伊布,generation-iv,第四世代,4,sinnoh,神奥,grass,草,,,65,110,130,60,65,95,525,False,False,1.0,25.5,184,leaf guard,chlorophyll,green,,medium,45,35,470
+471,471,glaceon,冰伊布,generation-iv,第四世代,4,sinnoh,神奥,ice,冰,,,65,60,110,130,95,65,525,False,False,0.8,25.9,184,snow cloak,ice body,blue,,medium,45,35,471
+472,472,gliscor,天蝎王,generation-iv,第四世代,4,sinnoh,神奥,ground,地面,flying,飞行,75,95,125,45,75,95,510,False,False,2.0,42.5,179,hyper cutter; sand veil,poison heal,purple,,medium-slow,30,70,472
+473,473,mamoswine,象牙猪,generation-iv,第四世代,4,sinnoh,神奥,ice,冰,ground,地面,110,130,80,70,60,80,530,False,False,2.5,291.0,239,oblivious; snow cloak,thick fat,brown,,slow,50,70,473
+474,474,porygon-z,多边兽乙型,generation-iv,第四世代,4,sinnoh,神奥,normal,一般,,,85,80,70,135,75,90,535,False,False,0.9,34.0,241,adaptability; download,analytic,red,,medium,30,70,474
+475,475,gallade,艾路雷朵,generation-iv,第四世代,4,sinnoh,神奥,psychic,超能力,fighting,格斗,68,125,65,65,115,80,518,False,False,1.6,52.0,233,steadfast; sharpness,justified,white,,slow,45,35,475
+476,476,probopass,大朝北鼻,generation-iv,第四世代,4,sinnoh,神奥,rock,岩石,steel,钢,60,55,145,75,150,40,525,False,False,1.4,340.0,184,sturdy; magnet pull,sand force,gray,,medium,60,70,476
+477,477,dusknoir,黑夜魔灵,generation-iv,第四世代,4,sinnoh,神奥,ghost,幽灵,,,45,100,135,65,135,45,525,False,False,2.2,106.6,236,pressure,frisk,black,,fast,45,35,477
+478,478,froslass,雪妖女,generation-iv,第四世代,4,sinnoh,神奥,ice,冰,ghost,幽灵,70,80,70,80,70,110,480,False,False,1.3,26.6,168,snow cloak,cursed body,white,,medium,75,70,478
+479,479,rotom,洛托姆,generation-iv,第四世代,4,sinnoh,神奥,electric,电,ghost,幽灵,50,50,77,95,77,91,440,False,False,0.3,0.3,154,levitate,,red,,medium,45,70,479
+480,480,uxie,由克希,generation-iv,第四世代,4,sinnoh,神奥,psychic,超能力,,,75,75,130,75,130,95,580,True,False,0.3,0.3,261,levitate,,yellow,,slow,3,140,480
+481,481,mesprit,艾姆利多,generation-iv,第四世代,4,sinnoh,神奥,psychic,超能力,,,80,105,105,105,105,80,580,True,False,0.3,0.3,261,levitate,,pink,,slow,3,140,481
+482,482,azelf,亚克诺姆,generation-iv,第四世代,4,sinnoh,神奥,psychic,超能力,,,75,125,70,125,70,115,580,True,False,0.3,0.3,261,levitate,,blue,,slow,3,140,482
+483,483,dialga,帝牙卢卡,generation-iv,第四世代,4,sinnoh,神奥,steel,钢,dragon,龙,100,120,120,150,100,90,680,True,False,5.4,683.0,306,pressure,telepathy,white,,slow,3,0,483
+484,484,palkia,帕路奇亚,generation-iv,第四世代,4,sinnoh,神奥,water,水,dragon,龙,90,120,100,150,120,100,680,True,False,4.2,336.0,306,pressure,telepathy,purple,,slow,3,0,484
+485,485,heatran,席多蓝恩,generation-iv,第四世代,4,sinnoh,神奥,fire,火,steel,钢,91,90,106,130,106,77,600,True,False,1.7,430.0,270,flash fire,flame body,brown,,slow,3,100,485
+486,486,regigigas,雷吉奇卡斯,generation-iv,第四世代,4,sinnoh,神奥,normal,一般,,,110,160,110,80,110,100,670,True,False,3.7,420.0,302,slow start,,white,,slow,3,0,486
+487,487,giratina,骑拉帝纳,generation-iv,第四世代,4,sinnoh,神奥,ghost,幽灵,dragon,龙,150,100,120,100,120,90,680,True,False,4.5,750.0,306,pressure,telepathy,black,,slow,3,0,487
+488,488,cresselia,克雷色利亚,generation-iv,第四世代,4,sinnoh,神奥,psychic,超能力,,,120,70,110,75,120,85,580,True,False,1.5,85.6,270,levitate,,yellow,,slow,3,100,488
+489,489,phione,霏欧纳,generation-iv,第四世代,4,sinnoh,神奥,water,水,,,80,80,80,80,80,80,480,False,True,0.4,3.1,216,hydration,,blue,,slow,30,70,489
+490,490,manaphy,玛纳霏,generation-iv,第四世代,4,sinnoh,神奥,water,水,,,100,100,100,100,100,100,600,False,True,0.3,1.4,270,hydration,,blue,,slow,3,70,490
+491,491,darkrai,达克莱伊,generation-iv,第四世代,4,sinnoh,神奥,dark,恶,,,70,90,90,135,90,125,600,False,True,1.5,50.5,270,bad dreams,,black,,slow,3,0,491
+492,492,shaymin,谢米,generation-iv,第四世代,4,sinnoh,神奥,grass,草,,,100,100,100,100,100,100,600,False,True,0.2,2.1,270,natural cure,,green,,medium-slow,45,100,492
+493,493,arceus,阿尔宙斯,generation-iv,第四世代,4,sinnoh,神奥,normal,一般,,,120,120,120,120,120,120,720,False,True,3.2,320.0,324,multitype,,white,,slow,3,0,493
+494,494,victini,比克提尼,generation-v,第五世代,5,unova,合众,psychic,超能力,fire,火,100,100,100,100,100,100,600,False,True,0.4,4.0,270,victory star,,yellow,,slow,3,100,494
+495,495,snivy,藤藤蛇,generation-v,第五世代,5,unova,合众,grass,草,,,45,45,55,45,55,63,308,False,False,0.6,8.1,62,overgrow,contrary,green,,medium-slow,45,70,495
+496,496,servine,青藤蛇,generation-v,第五世代,5,unova,合众,grass,草,,,60,60,75,60,75,83,413,False,False,0.8,16.0,145,overgrow,contrary,green,,medium-slow,45,70,496
+497,497,serperior,君主蛇,generation-v,第五世代,5,unova,合众,grass,草,,,75,75,95,75,95,113,528,False,False,3.3,63.0,238,overgrow,contrary,green,,medium-slow,45,70,497
+498,498,tepig,暖暖猪,generation-v,第五世代,5,unova,合众,fire,火,,,65,63,45,45,45,45,308,False,False,0.5,9.9,62,blaze,thick fat,red,,medium-slow,45,70,498
+499,499,pignite,炒炒猪,generation-v,第五世代,5,unova,合众,fire,火,fighting,格斗,90,93,55,70,55,55,418,False,False,1.0,55.5,146,blaze,thick fat,red,,medium-slow,45,70,499
+500,500,emboar,炎武王,generation-v,第五世代,5,unova,合众,fire,火,fighting,格斗,110,123,65,100,65,65,528,False,False,1.6,150.0,238,blaze,reckless,red,,medium-slow,45,70,500
+501,501,oshawott,水水獭,generation-v,第五世代,5,unova,合众,water,水,,,55,55,45,63,45,45,308,False,False,0.5,5.9,62,torrent,shell armor,blue,,medium-slow,45,70,501
+502,502,dewott,双刃丸,generation-v,第五世代,5,unova,合众,water,水,,,75,75,60,83,60,60,413,False,False,0.8,24.5,145,torrent,shell armor,blue,,medium-slow,45,70,502
+503,503,samurott,大剑鬼,generation-v,第五世代,5,unova,合众,water,水,,,95,100,85,108,70,70,528,False,False,1.5,94.6,238,torrent,shell armor,blue,,medium-slow,45,70,503
+504,504,patrat,探探鼠,generation-v,第五世代,5,unova,合众,normal,一般,,,45,55,39,35,39,42,255,False,False,0.5,11.6,51,run away; keen eye,analytic,brown,,medium,255,70,504
+505,505,watchog,步哨鼠,generation-v,第五世代,5,unova,合众,normal,一般,,,60,85,69,60,69,77,420,False,False,1.1,27.0,147,illuminate; keen eye,analytic,brown,,medium,255,70,505
+506,506,lillipup,小约克,generation-v,第五世代,5,unova,合众,normal,一般,,,45,60,45,25,45,55,275,False,False,0.4,4.1,55,vital spirit; pickup,run away,brown,,medium-slow,255,70,506
+507,507,herdier,哈约克,generation-v,第五世代,5,unova,合众,normal,一般,,,65,80,65,35,65,60,370,False,False,0.9,14.7,130,intimidate; sand rush,scrappy,gray,,medium-slow,120,70,507
+508,508,stoutland,长毛狗,generation-v,第五世代,5,unova,合众,normal,一般,,,85,110,90,45,90,80,500,False,False,1.2,61.0,225,intimidate; sand rush,scrappy,gray,,medium-slow,45,70,508
+509,509,purrloin,扒手猫,generation-v,第五世代,5,unova,合众,dark,恶,,,41,50,37,50,37,66,281,False,False,0.4,10.1,56,limber; unburden,prankster,purple,,medium,255,70,509
+510,510,liepard,酷豹,generation-v,第五世代,5,unova,合众,dark,恶,,,64,88,50,88,50,106,446,False,False,1.1,37.5,156,limber; unburden,prankster,purple,,medium,90,70,510
+511,511,pansage,花椰猴,generation-v,第五世代,5,unova,合众,grass,草,,,50,53,48,53,48,64,316,False,False,0.6,10.5,63,gluttony,overgrow,green,,medium,190,70,511
+512,512,simisage,花椰猿,generation-v,第五世代,5,unova,合众,grass,草,,,75,98,63,98,63,101,498,False,False,1.1,30.5,174,gluttony,overgrow,green,,medium,75,70,512
+513,513,pansear,爆香猴,generation-v,第五世代,5,unova,合众,fire,火,,,50,53,48,53,48,64,316,False,False,0.6,11.0,63,gluttony,blaze,red,,medium,190,70,513
+514,514,simisear,爆香猿,generation-v,第五世代,5,unova,合众,fire,火,,,75,98,63,98,63,101,498,False,False,1.0,28.0,174,gluttony,blaze,red,,medium,75,70,514
+515,515,panpour,冷水猴,generation-v,第五世代,5,unova,合众,water,水,,,50,53,48,53,48,64,316,False,False,0.6,13.5,63,gluttony,torrent,blue,,medium,190,70,515
+516,516,simipour,冷水猿,generation-v,第五世代,5,unova,合众,water,水,,,75,98,63,98,63,101,498,False,False,1.0,29.0,174,gluttony,torrent,blue,,medium,75,70,516
+517,517,munna,食梦梦,generation-v,第五世代,5,unova,合众,psychic,超能力,,,76,25,45,67,55,24,292,False,False,0.6,23.3,58,forewarn; synchronize,telepathy,pink,,fast,190,70,517
+518,518,musharna,梦梦蚀,generation-v,第五世代,5,unova,合众,psychic,超能力,,,116,55,85,107,95,29,487,False,False,1.1,60.5,170,forewarn; synchronize,telepathy,pink,,fast,75,70,518
+519,519,pidove,豆豆鸽,generation-v,第五世代,5,unova,合众,normal,一般,flying,飞行,50,55,50,36,30,43,264,False,False,0.3,2.1,53,big pecks; super luck,rivalry,gray,,medium-slow,255,70,519
+520,520,tranquill,咕咕鸽,generation-v,第五世代,5,unova,合众,normal,一般,flying,飞行,62,77,62,50,42,65,358,False,False,0.6,15.0,125,big pecks; super luck,rivalry,gray,,medium-slow,120,70,520
+521,521,unfezant,高傲雉鸡,generation-v,第五世代,5,unova,合众,normal,一般,flying,飞行,80,115,80,65,55,93,488,False,False,1.2,29.0,220,big pecks; super luck,rivalry,gray,,medium-slow,45,70,521
+522,522,blitzle,斑斑马,generation-v,第五世代,5,unova,合众,electric,电,,,45,60,32,50,32,76,295,False,False,0.8,29.8,59,lightning rod; motor drive,sap sipper,black,,medium,190,70,522
+523,523,zebstrika,雷电斑马,generation-v,第五世代,5,unova,合众,electric,电,,,75,100,63,80,63,116,497,False,False,1.6,79.5,174,lightning rod; motor drive,sap sipper,black,,medium,75,70,523
+524,524,roggenrola,石丸子,generation-v,第五世代,5,unova,合众,rock,岩石,,,55,75,85,25,25,15,280,False,False,0.4,18.0,56,sturdy; weak armor,sand force,blue,,medium-slow,255,70,524
+525,525,boldore,地幔岩,generation-v,第五世代,5,unova,合众,rock,岩石,,,70,105,105,50,40,20,390,False,False,0.9,102.0,137,sturdy; weak armor,sand force,blue,,medium-slow,120,70,525
+526,526,gigalith,庞岩怪,generation-v,第五世代,5,unova,合众,rock,岩石,,,85,135,130,60,80,25,515,False,False,1.7,260.0,232,sturdy; sand stream,sand force,blue,,medium-slow,45,70,526
+527,527,woobat,滚滚蝙蝠,generation-v,第五世代,5,unova,合众,psychic,超能力,flying,飞行,65,45,43,55,43,72,323,False,False,0.4,2.1,65,unaware; klutz,simple,blue,,medium,190,70,527
+528,528,swoobat,心蝙蝠,generation-v,第五世代,5,unova,合众,psychic,超能力,flying,飞行,67,57,55,77,55,114,425,False,False,0.9,10.5,149,unaware; klutz,simple,blue,,medium,45,70,528
+529,529,drilbur,螺钉地鼠,generation-v,第五世代,5,unova,合众,ground,地面,,,60,85,40,30,45,68,328,False,False,0.3,8.5,66,sand rush; sand force,mold breaker,gray,,medium,120,70,529
+530,530,excadrill,龙头地鼠,generation-v,第五世代,5,unova,合众,ground,地面,steel,钢,110,135,60,50,65,88,508,False,False,0.7,40.4,178,sand rush; sand force,mold breaker,gray,,medium,60,70,530
+531,531,audino,差不多娃娃,generation-v,第五世代,5,unova,合众,normal,一般,,,103,60,86,60,86,50,445,False,False,1.1,31.0,390,healer; regenerator,klutz,pink,,fast,255,70,531
+532,532,timburr,搬运小匠,generation-v,第五世代,5,unova,合众,fighting,格斗,,,75,80,55,25,35,35,305,False,False,0.6,12.5,61,guts; sheer force,iron fist,gray,,medium-slow,180,70,532
+533,533,gurdurr,铁骨土人,generation-v,第五世代,5,unova,合众,fighting,格斗,,,85,105,85,40,50,40,405,False,False,1.2,40.0,142,guts; sheer force,iron fist,gray,,medium-slow,90,70,533
+534,534,conkeldurr,修建老匠,generation-v,第五世代,5,unova,合众,fighting,格斗,,,105,140,95,55,65,45,505,False,False,1.4,87.0,227,guts; sheer force,iron fist,brown,,medium-slow,45,70,534
+535,535,tympole,圆蝌蚪,generation-v,第五世代,5,unova,合众,water,水,,,50,50,40,50,40,64,294,False,False,0.5,4.5,59,swift swim; hydration,water absorb,blue,,medium-slow,255,70,535
+536,536,palpitoad,蓝蟾蜍,generation-v,第五世代,5,unova,合众,water,水,ground,地面,75,65,55,65,55,69,384,False,False,0.8,17.0,134,swift swim; hydration,water absorb,blue,,medium-slow,120,70,536
+537,537,seismitoad,蟾蜍王,generation-v,第五世代,5,unova,合众,water,水,ground,地面,105,95,75,85,75,74,509,False,False,1.5,62.0,229,swift swim; poison touch,water absorb,blue,,medium-slow,45,70,537
+538,538,throh,投摔鬼,generation-v,第五世代,5,unova,合众,fighting,格斗,,,120,100,85,30,85,45,465,False,False,1.3,55.5,163,guts; inner focus,mold breaker,red,,medium,45,70,538
+539,539,sawk,打击鬼,generation-v,第五世代,5,unova,合众,fighting,格斗,,,75,125,75,30,75,85,465,False,False,1.4,51.0,163,sturdy; inner focus,mold breaker,blue,,medium,45,70,539
+540,540,sewaddle,虫宝包,generation-v,第五世代,5,unova,合众,bug,虫,grass,草,45,53,70,40,60,42,310,False,False,0.3,2.5,62,swarm; chlorophyll,overcoat,yellow,,medium-slow,255,70,540
+541,541,swadloon,宝包茧,generation-v,第五世代,5,unova,合众,bug,虫,grass,草,55,63,90,50,80,42,380,False,False,0.5,7.3,133,leaf guard; chlorophyll,overcoat,green,,medium-slow,120,70,541
+542,542,leavanny,保姆虫,generation-v,第五世代,5,unova,合众,bug,虫,grass,草,75,103,80,70,80,92,500,False,False,1.2,20.5,225,swarm; chlorophyll,overcoat,yellow,,medium-slow,45,70,542
+543,543,venipede,百足蜈蚣,generation-v,第五世代,5,unova,合众,bug,虫,poison,毒,30,45,59,30,39,57,260,False,False,0.4,5.3,52,poison point; swarm,speed boost,red,,medium-slow,255,70,543
+544,544,whirlipede,车轮球,generation-v,第五世代,5,unova,合众,bug,虫,poison,毒,40,55,99,40,79,47,360,False,False,1.2,58.5,126,poison point; swarm,speed boost,gray,,medium-slow,120,70,544
+545,545,scolipede,蜈蚣王,generation-v,第五世代,5,unova,合众,bug,虫,poison,毒,60,100,89,55,69,112,485,False,False,2.5,200.5,218,poison point; swarm,speed boost,red,,medium-slow,45,70,545
+546,546,cottonee,木棉球,generation-v,第五世代,5,unova,合众,grass,草,fairy,妖精,40,27,60,37,50,66,280,False,False,0.3,0.6,56,prankster; infiltrator,chlorophyll,green,,medium,190,70,546
+547,547,whimsicott,风妖精,generation-v,第五世代,5,unova,合众,grass,草,fairy,妖精,60,67,85,77,75,116,480,False,False,0.7,6.6,168,prankster; infiltrator,chlorophyll,green,,medium,75,70,547
+548,548,petilil,百合根娃娃,generation-v,第五世代,5,unova,合众,grass,草,,,45,35,50,70,50,30,280,False,False,0.5,6.6,56,chlorophyll; own tempo,leaf guard,green,,medium,190,70,548
+549,549,lilligant,裙儿小姐,generation-v,第五世代,5,unova,合众,grass,草,,,70,60,75,110,75,90,480,False,False,1.1,16.3,168,chlorophyll; own tempo,leaf guard,green,,medium,75,70,549
+550,550,basculin,野蛮鲈鱼,generation-v,第五世代,5,unova,合众,water,水,,,70,92,65,80,55,98,460,False,False,1.0,18.0,161,reckless; adaptability,mold breaker,green,,medium,25,70,550
+551,551,sandile,黑眼鳄,generation-v,第五世代,5,unova,合众,ground,地面,dark,恶,50,72,35,35,35,65,292,False,False,0.7,15.2,58,intimidate; moxie,anger point,brown,,medium-slow,180,70,551
+552,552,krokorok,混混鳄,generation-v,第五世代,5,unova,合众,ground,地面,dark,恶,60,82,45,45,45,74,351,False,False,1.0,33.4,123,intimidate; moxie,anger point,brown,,medium-slow,90,70,552
+553,553,krookodile,流氓鳄,generation-v,第五世代,5,unova,合众,ground,地面,dark,恶,95,117,80,65,70,92,519,False,False,1.5,96.3,234,intimidate; moxie,anger point,red,,medium-slow,45,70,553
+554,554,darumaka,火红不倒翁,generation-v,第五世代,5,unova,合众,fire,火,,,70,90,45,15,45,50,315,False,False,0.6,37.5,63,hustle,inner focus,red,,medium-slow,120,70,554
+555,555,darmanitan,达摩狒狒,generation-v,第五世代,5,unova,合众,fire,火,,,105,140,55,30,55,95,480,False,False,1.3,92.9,168,sheer force,zen mode,red,,medium-slow,60,70,555
+556,556,maractus,沙铃仙人掌,generation-v,第五世代,5,unova,合众,grass,草,,,75,86,67,106,67,60,461,False,False,1.0,28.0,161,water absorb; chlorophyll,storm drain,green,,medium,255,70,556
+557,557,dwebble,石居蟹,generation-v,第五世代,5,unova,合众,bug,虫,rock,岩石,50,65,85,35,35,55,325,False,False,0.3,14.5,65,sturdy; shell armor,weak armor,red,,medium,190,70,557
+558,558,crustle,岩殿居蟹,generation-v,第五世代,5,unova,合众,bug,虫,rock,岩石,70,105,125,65,75,45,485,False,False,1.4,200.0,170,sturdy; shell armor,weak armor,red,,medium,75,70,558
+559,559,scraggy,滑滑小子,generation-v,第五世代,5,unova,合众,dark,恶,fighting,格斗,50,75,70,35,70,48,348,False,False,0.6,11.8,70,shed skin; moxie,intimidate,yellow,,medium,180,35,559
+560,560,scrafty,头巾混混,generation-v,第五世代,5,unova,合众,dark,恶,fighting,格斗,65,90,115,45,115,58,488,False,False,1.1,30.0,171,shed skin; moxie,intimidate,red,,medium,90,70,560
+561,561,sigilyph,象征鸟,generation-v,第五世代,5,unova,合众,psychic,超能力,flying,飞行,72,58,80,103,80,97,490,False,False,1.4,14.0,172,wonder skin; magic guard,tinted lens,black,,medium,45,70,561
+562,562,yamask,哭哭面具,generation-v,第五世代,5,unova,合众,ghost,幽灵,,,38,30,85,55,65,30,303,False,False,0.5,1.5,61,mummy,,black,,medium,190,70,562
+563,563,cofagrigus,迭失棺,generation-v,第五世代,5,unova,合众,ghost,幽灵,,,58,50,145,95,105,30,483,False,False,1.7,76.5,169,mummy,,yellow,,medium,90,70,563
+564,564,tirtouga,原盖海龟,generation-v,第五世代,5,unova,合众,water,水,rock,岩石,54,78,103,53,45,22,355,False,False,0.7,16.5,71,solid rock; sturdy,swift swim,blue,,medium,45,70,564
+565,565,carracosta,肋骨海龟,generation-v,第五世代,5,unova,合众,water,水,rock,岩石,74,108,133,83,65,32,495,False,False,1.2,81.0,173,solid rock; sturdy,swift swim,blue,,medium,45,70,565
+566,566,archen,始祖小鸟,generation-v,第五世代,5,unova,合众,rock,岩石,flying,飞行,55,112,45,74,45,70,401,False,False,0.5,9.5,71,defeatist,,yellow,,medium,45,70,566
+567,567,archeops,始祖大鸟,generation-v,第五世代,5,unova,合众,rock,岩石,flying,飞行,75,140,65,112,65,110,567,False,False,1.4,32.0,177,defeatist,,yellow,,medium,45,70,567
+568,568,trubbish,破破袋,generation-v,第五世代,5,unova,合众,poison,毒,,,50,50,62,40,62,65,329,False,False,0.6,31.0,66,stench; sticky hold,aftermath,green,,medium,190,70,568
+569,569,garbodor,灰尘山,generation-v,第五世代,5,unova,合众,poison,毒,,,80,95,82,60,82,75,474,False,False,1.9,107.3,166,stench; weak armor,aftermath,green,,medium,60,70,569
+570,570,zorua,索罗亚,generation-v,第五世代,5,unova,合众,dark,恶,,,40,65,40,80,40,65,330,False,False,0.7,12.5,66,illusion,,gray,,medium-slow,75,70,570
+571,571,zoroark,索罗亚克,generation-v,第五世代,5,unova,合众,dark,恶,,,60,105,60,120,60,105,510,False,False,1.6,81.1,179,illusion,,gray,,medium-slow,45,70,571
+572,572,minccino,泡沫栗鼠,generation-v,第五世代,5,unova,合众,normal,一般,,,55,50,40,40,40,75,300,False,False,0.4,5.8,60,cute charm; technician,skill link,gray,,fast,255,70,572
+573,573,cinccino,奇诺栗鼠,generation-v,第五世代,5,unova,合众,normal,一般,,,75,95,60,65,60,115,470,False,False,0.5,7.5,165,cute charm; technician,skill link,gray,,fast,60,70,573
+574,574,gothita,哥德宝宝,generation-v,第五世代,5,unova,合众,psychic,超能力,,,45,30,50,55,65,45,290,False,False,0.4,5.8,58,frisk; competitive,shadow tag,purple,,medium-slow,200,70,574
+575,575,gothorita,哥德小童,generation-v,第五世代,5,unova,合众,psychic,超能力,,,60,45,70,75,85,55,390,False,False,0.7,18.0,137,frisk; competitive,shadow tag,purple,,medium-slow,100,70,575
+576,576,gothitelle,哥德小姐,generation-v,第五世代,5,unova,合众,psychic,超能力,,,70,55,95,95,110,65,490,False,False,1.5,44.0,221,frisk; competitive,shadow tag,purple,,medium-slow,50,70,576
+577,577,solosis,单卵细胞球,generation-v,第五世代,5,unova,合众,psychic,超能力,,,45,30,40,105,50,20,290,False,False,0.3,1.0,58,overcoat; magic guard,regenerator,green,,medium-slow,200,70,577
+578,578,duosion,双卵细胞球,generation-v,第五世代,5,unova,合众,psychic,超能力,,,65,40,50,125,60,30,370,False,False,0.6,8.0,130,overcoat; magic guard,regenerator,green,,medium-slow,100,70,578
+579,579,reuniclus,人造细胞卵,generation-v,第五世代,5,unova,合众,psychic,超能力,,,110,65,75,125,85,30,490,False,False,1.0,20.1,221,overcoat; magic guard,regenerator,green,,medium-slow,50,70,579
+580,580,ducklett,鸭宝宝,generation-v,第五世代,5,unova,合众,water,水,flying,飞行,62,44,50,44,50,55,305,False,False,0.5,5.5,61,keen eye; big pecks,hydration,blue,,medium,190,70,580
+581,581,swanna,舞天鹅,generation-v,第五世代,5,unova,合众,water,水,flying,飞行,75,87,63,87,63,98,473,False,False,1.3,24.2,166,keen eye; big pecks,hydration,white,,medium,45,70,581
+582,582,vanillite,迷你冰,generation-v,第五世代,5,unova,合众,ice,冰,,,36,50,50,65,60,44,305,False,False,0.4,5.7,61,ice body; snow cloak,weak armor,white,,slow,255,70,582
+583,583,vanillish,多多冰,generation-v,第五世代,5,unova,合众,ice,冰,,,51,65,65,80,75,59,395,False,False,1.1,41.0,138,ice body; snow cloak,weak armor,white,,slow,120,70,583
+584,584,vanilluxe,双倍多多冰,generation-v,第五世代,5,unova,合众,ice,冰,,,71,95,85,110,95,79,535,False,False,1.3,57.5,241,ice body; snow warning,weak armor,white,,slow,45,70,584
+585,585,deerling,四季鹿,generation-v,第五世代,5,unova,合众,normal,一般,grass,草,60,60,50,40,50,75,335,False,False,0.6,19.5,67,chlorophyll; sap sipper,serene grace,pink,,medium,190,70,585
+586,586,sawsbuck,萌芽鹿,generation-v,第五世代,5,unova,合众,normal,一般,grass,草,80,100,70,60,70,95,475,False,False,1.9,92.5,166,chlorophyll; sap sipper,serene grace,brown,,medium,75,70,586
+587,587,emolga,电飞鼠,generation-v,第五世代,5,unova,合众,electric,电,flying,飞行,55,75,60,75,60,103,428,False,False,0.4,5.0,150,static,motor drive,white,,medium,200,70,587
+588,588,karrablast,盖盖虫,generation-v,第五世代,5,unova,合众,bug,虫,,,50,75,45,40,45,60,315,False,False,0.5,5.9,63,swarm; shed skin,no guard,blue,,medium,200,70,588
+589,589,escavalier,骑士蜗牛,generation-v,第五世代,5,unova,合众,bug,虫,steel,钢,70,135,105,60,105,20,495,False,False,1.0,33.0,173,swarm; shell armor,overcoat,gray,,medium,75,70,589
+590,590,foongus,哎呀球菇,generation-v,第五世代,5,unova,合众,grass,草,poison,毒,69,55,45,55,55,15,294,False,False,0.2,1.0,59,effect spore,regenerator,white,,medium,190,70,590
+591,591,amoonguss,败露球菇,generation-v,第五世代,5,unova,合众,grass,草,poison,毒,114,85,70,85,80,30,464,False,False,0.6,10.5,162,effect spore,regenerator,white,,medium,75,70,591
+592,592,frillish,轻飘飘,generation-v,第五世代,5,unova,合众,water,水,ghost,幽灵,55,40,50,65,85,40,335,False,False,1.2,33.0,67,water absorb; cursed body,damp,white,,medium,190,70,592
+593,593,jellicent,胖嘟嘟,generation-v,第五世代,5,unova,合众,water,水,ghost,幽灵,100,60,70,85,105,60,480,False,False,2.2,135.0,168,water absorb; cursed body,damp,white,,medium,60,70,593
+594,594,alomomola,保姆曼波,generation-v,第五世代,5,unova,合众,water,水,,,165,75,80,40,45,65,470,False,False,1.2,31.6,165,healer; hydration,regenerator,pink,,fast,75,70,594
+595,595,joltik,电电虫,generation-v,第五世代,5,unova,合众,bug,虫,electric,电,50,47,50,57,50,65,319,False,False,0.1,0.6,64,compound eyes; unnerve,swarm,yellow,,medium,190,70,595
+596,596,galvantula,电蜘蛛,generation-v,第五世代,5,unova,合众,bug,虫,electric,电,70,77,60,97,60,108,472,False,False,0.8,14.3,165,compound eyes; unnerve,swarm,yellow,,medium,75,70,596
+597,597,ferroseed,种子铁球,generation-v,第五世代,5,unova,合众,grass,草,steel,钢,44,50,91,24,86,10,305,False,False,0.6,18.8,61,iron barbs,,gray,,medium,255,70,597
+598,598,ferrothorn,坚果哑铃,generation-v,第五世代,5,unova,合众,grass,草,steel,钢,74,94,131,54,116,20,489,False,False,1.0,110.0,171,iron barbs,anticipation,gray,,medium,90,70,598
+599,599,klink,齿轮儿,generation-v,第五世代,5,unova,合众,steel,钢,,,40,55,70,45,60,30,300,False,False,0.3,21.0,60,plus; minus,clear body,gray,,medium-slow,130,70,599
+600,600,klang,齿轮组,generation-v,第五世代,5,unova,合众,steel,钢,,,60,80,95,70,85,50,440,False,False,0.6,51.0,154,plus; minus,clear body,gray,,medium-slow,60,70,600
+601,601,klinklang,齿轮怪,generation-v,第五世代,5,unova,合众,steel,钢,,,60,100,115,70,85,90,520,False,False,0.6,81.0,234,plus; minus,clear body,gray,,medium-slow,30,70,601
+602,602,tynamo,麻麻小鱼,generation-v,第五世代,5,unova,合众,electric,电,,,35,55,40,45,40,60,275,False,False,0.2,0.3,55,levitate,,white,,slow,190,70,602
+603,603,eelektrik,麻麻鳗,generation-v,第五世代,5,unova,合众,electric,电,,,65,85,70,75,70,40,405,False,False,1.2,22.0,142,levitate,,blue,,slow,60,70,603
+604,604,eelektross,麻麻鳗鱼王,generation-v,第五世代,5,unova,合众,electric,电,,,85,115,80,105,80,50,515,False,False,2.1,80.5,232,levitate,,blue,,slow,30,70,604
+605,605,elgyem,小灰怪,generation-v,第五世代,5,unova,合众,psychic,超能力,,,55,55,55,85,55,30,335,False,False,0.5,9.0,67,telepathy; synchronize,analytic,blue,,medium,255,70,605
+606,606,beheeyem,大宇怪,generation-v,第五世代,5,unova,合众,psychic,超能力,,,75,75,75,125,95,40,485,False,False,1.0,34.5,170,telepathy; synchronize,analytic,brown,,medium,90,70,606
+607,607,litwick,烛光灵,generation-v,第五世代,5,unova,合众,ghost,幽灵,fire,火,50,30,55,65,55,20,275,False,False,0.3,3.1,55,flash fire; flame body,infiltrator,white,,medium-slow,190,70,607
+608,608,lampent,灯火幽灵,generation-v,第五世代,5,unova,合众,ghost,幽灵,fire,火,60,40,60,95,60,55,370,False,False,0.6,13.0,130,flash fire; flame body,infiltrator,black,,medium-slow,90,70,608
+609,609,chandelure,水晶灯火灵,generation-v,第五世代,5,unova,合众,ghost,幽灵,fire,火,60,55,90,145,90,80,520,False,False,1.0,34.3,234,flash fire; flame body,infiltrator,black,,medium-slow,45,70,609
+610,610,axew,牙牙,generation-v,第五世代,5,unova,合众,dragon,龙,,,46,87,60,30,40,57,320,False,False,0.6,18.0,64,rivalry; mold breaker,unnerve,green,,slow,75,35,610
+611,611,fraxure,斧牙龙,generation-v,第五世代,5,unova,合众,dragon,龙,,,66,117,70,40,50,67,410,False,False,1.0,36.0,144,rivalry; mold breaker,unnerve,green,,slow,60,35,611
+612,612,haxorus,双斧战龙,generation-v,第五世代,5,unova,合众,dragon,龙,,,76,147,90,60,70,97,540,False,False,1.8,105.5,243,rivalry; mold breaker,unnerve,yellow,,slow,45,35,612
+613,613,cubchoo,喷嚏熊,generation-v,第五世代,5,unova,合众,ice,冰,,,55,70,40,60,40,40,305,False,False,0.5,8.5,61,snow cloak; slush rush,rattled,white,,medium,120,70,613
+614,614,beartic,冻原熊,generation-v,第五世代,5,unova,合众,ice,冰,,,95,130,80,70,80,50,505,False,False,2.6,260.0,177,snow cloak; slush rush,swift swim,white,,medium,60,70,614
+615,615,cryogonal,几何雪花,generation-v,第五世代,5,unova,合众,ice,冰,,,80,50,50,95,135,105,515,False,False,1.1,148.0,180,levitate,,blue,,medium,25,70,615
+616,616,shelmet,小嘴蜗,generation-v,第五世代,5,unova,合众,bug,虫,,,50,40,85,40,65,25,305,False,False,0.4,7.7,61,hydration; shell armor,overcoat,red,,medium,200,70,616
+617,617,accelgor,敏捷虫,generation-v,第五世代,5,unova,合众,bug,虫,,,80,70,40,100,60,145,495,False,False,0.8,25.3,173,hydration; sticky hold,unburden,red,,medium,75,70,617
+618,618,stunfisk,泥巴鱼,generation-v,第五世代,5,unova,合众,ground,地面,electric,电,109,66,84,81,99,32,471,False,False,0.7,11.0,165,static; limber,sand veil,brown,,medium,75,70,618
+619,619,mienfoo,功夫鼬,generation-v,第五世代,5,unova,合众,fighting,格斗,,,45,85,50,55,50,65,350,False,False,0.9,20.0,70,inner focus; regenerator,reckless,yellow,,medium-slow,180,70,619
+620,620,mienshao,师父鼬,generation-v,第五世代,5,unova,合众,fighting,格斗,,,65,125,60,95,60,105,510,False,False,1.4,35.5,179,inner focus; regenerator,reckless,purple,,medium-slow,45,70,620
+621,621,druddigon,赤面龙,generation-v,第五世代,5,unova,合众,dragon,龙,,,77,120,90,60,90,48,485,False,False,1.6,139.0,170,rough skin; sheer force,mold breaker,red,,medium,45,70,621
+622,622,golett,泥偶小人,generation-v,第五世代,5,unova,合众,ground,地面,ghost,幽灵,59,74,50,35,50,35,303,False,False,1.0,92.0,61,iron fist; klutz,no guard,green,,medium,190,70,622
+623,623,golurk,泥偶巨人,generation-v,第五世代,5,unova,合众,ground,地面,ghost,幽灵,89,124,80,55,80,55,483,False,False,2.8,330.0,169,iron fist; klutz,no guard,green,,medium,90,70,623
+624,624,pawniard,驹刀小兵,generation-v,第五世代,5,unova,合众,dark,恶,steel,钢,45,85,70,40,40,60,340,False,False,0.5,10.2,68,defiant; inner focus,pressure,red,,medium,120,35,624
+625,625,bisharp,劈斩司令,generation-v,第五世代,5,unova,合众,dark,恶,steel,钢,65,125,100,60,70,70,490,False,False,1.6,70.0,172,defiant; inner focus,pressure,red,,medium,45,35,625
+626,626,bouffalant,爆炸头水牛,generation-v,第五世代,5,unova,合众,normal,一般,,,95,110,95,40,95,55,490,False,False,1.6,94.6,172,reckless; sap sipper,soundproof,brown,,medium,45,70,626
+627,627,rufflet,毛头小鹰,generation-v,第五世代,5,unova,合众,normal,一般,flying,飞行,70,83,50,37,50,60,350,False,False,0.5,10.5,70,keen eye; sheer force,hustle,white,,slow,190,70,627
+628,628,braviary,勇士雄鹰,generation-v,第五世代,5,unova,合众,normal,一般,flying,飞行,100,123,75,57,75,80,510,False,False,1.5,41.0,179,keen eye; sheer force,defiant,red,,slow,60,70,628
+629,629,vullaby,秃鹰丫头,generation-v,第五世代,5,unova,合众,dark,恶,flying,飞行,70,55,75,45,65,60,370,False,False,0.5,9.0,74,big pecks; overcoat,weak armor,brown,,slow,190,35,629
+630,630,mandibuzz,秃鹰娜,generation-v,第五世代,5,unova,合众,dark,恶,flying,飞行,110,65,105,55,95,80,510,False,False,1.2,39.5,179,big pecks; overcoat,weak armor,brown,,slow,60,35,630
+631,631,heatmor,熔蚁兽,generation-v,第五世代,5,unova,合众,fire,火,,,85,97,66,105,66,65,484,False,False,1.4,58.0,169,gluttony; flash fire,white smoke,red,,medium,90,70,631
+632,632,durant,铁蚁,generation-v,第五世代,5,unova,合众,bug,虫,steel,钢,58,109,112,48,48,109,484,False,False,0.3,33.0,169,swarm; hustle,truant,gray,,medium,90,70,632
+633,633,deino,单首龙,generation-v,第五世代,5,unova,合众,dark,恶,dragon,龙,52,65,50,45,50,38,300,False,False,0.8,17.3,60,hustle,,blue,,slow,45,35,633
+634,634,zweilous,双首暴龙,generation-v,第五世代,5,unova,合众,dark,恶,dragon,龙,72,85,70,65,70,58,420,False,False,1.4,50.0,147,hustle,,blue,,slow,45,35,634
+635,635,hydreigon,三首恶龙,generation-v,第五世代,5,unova,合众,dark,恶,dragon,龙,92,105,90,125,90,98,600,False,False,1.8,160.0,270,levitate,,blue,,slow,45,35,635
+636,636,larvesta,燃烧虫,generation-v,第五世代,5,unova,合众,bug,虫,fire,火,55,85,55,50,55,60,360,False,False,1.1,28.8,72,flame body,swarm,white,,slow,45,70,636
+637,637,volcarona,火神蛾,generation-v,第五世代,5,unova,合众,bug,虫,fire,火,85,60,65,135,105,100,550,False,False,1.6,46.0,248,flame body,swarm,white,,slow,15,70,637
+638,638,cobalion,勾帕路翁,generation-v,第五世代,5,unova,合众,steel,钢,fighting,格斗,91,90,129,90,72,108,580,True,False,2.1,250.0,261,justified,,blue,,slow,3,35,638
+639,639,terrakion,代拉基翁,generation-v,第五世代,5,unova,合众,rock,岩石,fighting,格斗,91,129,90,72,90,108,580,True,False,1.9,260.0,261,justified,,gray,,slow,3,35,639
+640,640,virizion,毕力吉翁,generation-v,第五世代,5,unova,合众,grass,草,fighting,格斗,91,90,72,90,129,108,580,True,False,2.0,200.0,261,justified,,green,,slow,3,35,640
+641,641,tornadus,龙卷云,generation-v,第五世代,5,unova,合众,flying,飞行,,,79,115,70,125,80,111,580,True,False,1.5,63.0,261,prankster,defiant,green,,slow,3,90,641
+642,642,thundurus,雷电云,generation-v,第五世代,5,unova,合众,electric,电,flying,飞行,79,115,70,125,80,111,580,True,False,1.5,61.0,261,prankster,defiant,blue,,slow,3,90,642
+643,643,reshiram,莱希拉姆,generation-v,第五世代,5,unova,合众,dragon,龙,fire,火,100,120,100,150,120,90,680,True,False,3.2,330.0,306,turboblaze,,white,,slow,3,0,643
+644,644,zekrom,捷克罗姆,generation-v,第五世代,5,unova,合众,dragon,龙,electric,电,100,150,120,120,100,90,680,True,False,2.9,345.0,306,teravolt,,black,,slow,3,0,644
+645,645,landorus,土地云,generation-v,第五世代,5,unova,合众,ground,地面,flying,飞行,89,125,90,115,80,101,600,True,False,1.5,68.0,270,sand force,sheer force,brown,,slow,3,90,645
+646,646,kyurem,酋雷姆,generation-v,第五世代,5,unova,合众,dragon,龙,ice,冰,125,130,90,130,90,95,660,True,False,3.0,325.0,297,pressure,,gray,,slow,3,0,646
+647,647,keldeo,凯路迪欧,generation-v,第五世代,5,unova,合众,water,水,fighting,格斗,91,72,90,129,90,108,580,False,True,1.4,48.5,261,justified,,yellow,,slow,3,35,647
+648,648,meloetta,美洛耶塔,generation-v,第五世代,5,unova,合众,normal,一般,psychic,超能力,100,77,77,128,128,90,600,False,True,0.6,6.5,270,serene grace,,white,,slow,3,100,648
+649,649,genesect,盖诺赛克特,generation-v,第五世代,5,unova,合众,bug,虫,steel,钢,71,120,95,120,95,99,600,False,True,1.5,82.5,270,download,,purple,,slow,3,0,649
+650,650,chespin,哈力栗,generation-vi,第六世代,6,kalos,卡洛斯,grass,草,,,56,61,65,48,45,38,313,False,False,0.4,9.0,63,overgrow,bulletproof,green,,medium-slow,45,70,650
+651,651,quilladin,胖胖哈力,generation-vi,第六世代,6,kalos,卡洛斯,grass,草,,,61,78,95,56,58,57,405,False,False,0.7,29.0,142,overgrow,bulletproof,green,,medium-slow,45,70,651
+652,652,chesnaught,布里卡隆,generation-vi,第六世代,6,kalos,卡洛斯,grass,草,fighting,格斗,88,107,122,74,75,64,530,False,False,1.6,90.0,239,overgrow,bulletproof,green,,medium-slow,45,70,652
+653,653,fennekin,火狐狸,generation-vi,第六世代,6,kalos,卡洛斯,fire,火,,,40,45,40,62,60,60,307,False,False,0.4,9.4,61,blaze,magician,red,,medium-slow,45,70,653
+654,654,braixen,长尾火狐,generation-vi,第六世代,6,kalos,卡洛斯,fire,火,,,59,59,58,90,70,73,409,False,False,1.0,14.5,143,blaze,magician,red,,medium-slow,45,70,654
+655,655,delphox,妖火红狐,generation-vi,第六世代,6,kalos,卡洛斯,fire,火,psychic,超能力,75,69,72,114,100,104,534,False,False,1.5,39.0,240,blaze,magician,red,,medium-slow,45,70,655
+656,656,froakie,呱呱泡蛙,generation-vi,第六世代,6,kalos,卡洛斯,water,水,,,41,56,40,62,44,71,314,False,False,0.3,7.0,63,torrent,protean,blue,,medium-slow,45,70,656
+657,657,frogadier,呱头蛙,generation-vi,第六世代,6,kalos,卡洛斯,water,水,,,54,63,52,83,56,97,405,False,False,0.6,10.9,142,torrent,protean,blue,,medium-slow,45,70,657
+658,658,greninja,甲贺忍蛙,generation-vi,第六世代,6,kalos,卡洛斯,water,水,dark,恶,72,95,67,103,71,122,530,False,False,1.5,40.0,239,torrent,protean,blue,,medium-slow,45,70,658
+659,659,bunnelby,掘掘兔,generation-vi,第六世代,6,kalos,卡洛斯,normal,一般,,,38,36,38,32,36,57,237,False,False,0.4,5.0,47,pickup; cheek pouch,huge power,brown,,medium,255,70,659
+660,660,diggersby,掘地兔,generation-vi,第六世代,6,kalos,卡洛斯,normal,一般,ground,地面,85,56,77,50,77,78,423,False,False,1.0,42.4,148,pickup; cheek pouch,huge power,brown,,medium,127,70,660
+661,661,fletchling,小箭雀,generation-vi,第六世代,6,kalos,卡洛斯,normal,一般,flying,飞行,45,50,43,40,38,62,278,False,False,0.3,1.7,56,big pecks,gale wings,red,,medium-slow,255,70,661
+662,662,fletchinder,火箭雀,generation-vi,第六世代,6,kalos,卡洛斯,fire,火,flying,飞行,62,73,55,56,52,84,382,False,False,0.7,16.0,134,flame body,gale wings,red,,medium-slow,120,70,662
+663,663,talonflame,烈箭鹰,generation-vi,第六世代,6,kalos,卡洛斯,fire,火,flying,飞行,78,81,71,74,69,126,499,False,False,1.2,24.5,175,flame body,gale wings,red,,medium-slow,45,70,663
+664,664,scatterbug,粉蝶虫,generation-vi,第六世代,6,kalos,卡洛斯,bug,虫,,,38,35,40,27,25,35,200,False,False,0.3,2.5,40,shield dust; compound eyes,friend guard,black,,medium,255,70,664
+665,665,spewpa,粉蝶蛹,generation-vi,第六世代,6,kalos,卡洛斯,bug,虫,,,45,22,60,27,30,29,213,False,False,0.3,8.4,75,shed skin,friend guard,black,,medium,120,70,665
+666,666,vivillon,彩粉蝶,generation-vi,第六世代,6,kalos,卡洛斯,bug,虫,flying,飞行,80,52,50,90,50,89,411,False,False,1.2,17.0,185,shield dust; compound eyes,friend guard,white,,medium,45,70,666
+667,667,litleo,小狮狮,generation-vi,第六世代,6,kalos,卡洛斯,fire,火,normal,一般,62,50,58,73,54,72,369,False,False,0.6,13.5,74,rivalry; unnerve,moxie,brown,,medium-slow,220,70,667
+668,668,pyroar,火炎狮,generation-vi,第六世代,6,kalos,卡洛斯,fire,火,normal,一般,86,68,72,109,66,106,507,False,False,1.5,81.5,177,rivalry; unnerve,moxie,brown,,medium-slow,65,70,668
+669,669,flabebe,花蓓蓓,generation-vi,第六世代,6,kalos,卡洛斯,fairy,妖精,,,44,38,39,61,79,42,303,False,False,0.1,0.1,61,flower veil,symbiosis,white,,medium,225,70,669
+670,670,floette,花叶蒂,generation-vi,第六世代,6,kalos,卡洛斯,fairy,妖精,,,54,45,47,75,98,52,371,False,False,0.2,0.9,130,flower veil,symbiosis,white,,medium,120,70,670
+671,671,florges,花洁夫人,generation-vi,第六世代,6,kalos,卡洛斯,fairy,妖精,,,78,65,68,112,154,75,552,False,False,1.1,10.0,248,flower veil,symbiosis,white,,medium,45,70,671
+672,672,skiddo,坐骑小羊,generation-vi,第六世代,6,kalos,卡洛斯,grass,草,,,66,65,48,62,57,52,350,False,False,0.9,31.0,70,sap sipper,grass pelt,brown,,medium,200,70,672
+673,673,gogoat,坐骑山羊,generation-vi,第六世代,6,kalos,卡洛斯,grass,草,,,123,100,62,97,81,68,531,False,False,1.7,91.0,186,sap sipper,grass pelt,brown,,medium,45,70,673
+674,674,pancham,顽皮熊猫,generation-vi,第六世代,6,kalos,卡洛斯,fighting,格斗,,,67,82,62,46,48,43,348,False,False,0.6,8.0,70,iron fist; mold breaker,scrappy,white,,medium,220,70,674
+675,675,pangoro,霸道熊猫,generation-vi,第六世代,6,kalos,卡洛斯,fighting,格斗,dark,恶,95,124,78,69,71,58,495,False,False,2.1,136.0,173,iron fist; mold breaker,scrappy,white,,medium,65,70,675
+676,676,furfrou,多丽米亚,generation-vi,第六世代,6,kalos,卡洛斯,normal,一般,,,75,80,60,65,90,102,472,False,False,1.2,28.0,165,fur coat,,white,,medium,160,70,676
+677,677,espurr,妙喵,generation-vi,第六世代,6,kalos,卡洛斯,psychic,超能力,,,62,48,54,63,60,68,355,False,False,0.3,3.5,71,keen eye; infiltrator,own tempo,gray,,medium,190,70,677
+678,678,meowstic,超能妙喵,generation-vi,第六世代,6,kalos,卡洛斯,psychic,超能力,,,74,48,76,83,81,104,466,False,False,0.6,8.5,163,keen eye; infiltrator,prankster,blue,,medium,75,70,678
+679,679,honedge,独剑鞘,generation-vi,第六世代,6,kalos,卡洛斯,steel,钢,ghost,幽灵,45,80,100,35,37,28,325,False,False,0.8,2.0,65,no guard,,brown,,medium,180,70,679
+680,680,doublade,双剑鞘,generation-vi,第六世代,6,kalos,卡洛斯,steel,钢,ghost,幽灵,59,110,150,45,49,35,448,False,False,0.8,4.5,157,no guard,,brown,,medium,90,70,680
+681,681,aegislash,坚盾剑怪,generation-vi,第六世代,6,kalos,卡洛斯,steel,钢,ghost,幽灵,60,50,140,50,140,60,500,False,False,1.7,53.0,234,stance change,,brown,,medium,45,70,681
+682,682,spritzee,粉香香,generation-vi,第六世代,6,kalos,卡洛斯,fairy,妖精,,,78,52,60,63,65,23,341,False,False,0.2,0.5,68,healer,aroma veil,pink,,medium,200,70,682
+683,683,aromatisse,芳香精,generation-vi,第六世代,6,kalos,卡洛斯,fairy,妖精,,,101,72,72,99,89,29,462,False,False,0.8,15.5,162,healer,aroma veil,pink,,medium,140,70,683
+684,684,swirlix,绵绵泡芙,generation-vi,第六世代,6,kalos,卡洛斯,fairy,妖精,,,62,48,66,59,57,49,341,False,False,0.4,3.5,68,sweet veil,unburden,white,,medium,200,70,684
+685,685,slurpuff,胖甜妮,generation-vi,第六世代,6,kalos,卡洛斯,fairy,妖精,,,82,80,86,85,75,72,480,False,False,0.8,5.0,168,sweet veil,unburden,white,,medium,140,70,685
+686,686,inkay,好啦鱿,generation-vi,第六世代,6,kalos,卡洛斯,dark,恶,psychic,超能力,53,54,53,37,46,45,288,False,False,0.4,3.5,58,contrary; suction cups,infiltrator,blue,,medium,190,70,686
+687,687,malamar,乌贼王,generation-vi,第六世代,6,kalos,卡洛斯,dark,恶,psychic,超能力,86,92,88,68,75,73,482,False,False,1.5,47.0,169,contrary; suction cups,infiltrator,blue,,medium,80,70,687
+688,688,binacle,龟脚脚,generation-vi,第六世代,6,kalos,卡洛斯,rock,岩石,water,水,42,52,67,39,56,50,306,False,False,0.5,31.0,61,tough claws; sniper,pickpocket,brown,,medium,120,70,688
+689,689,barbaracle,龟足巨铠,generation-vi,第六世代,6,kalos,卡洛斯,rock,岩石,water,水,72,105,115,54,86,68,500,False,False,1.3,96.0,175,tough claws; sniper,pickpocket,brown,,medium,45,70,689
+690,690,skrelp,垃垃藻,generation-vi,第六世代,6,kalos,卡洛斯,poison,毒,water,水,50,60,60,60,60,30,320,False,False,0.5,7.3,64,poison point; poison touch,adaptability,brown,,medium,225,70,690
+691,691,dragalge,毒藻龙,generation-vi,第六世代,6,kalos,卡洛斯,poison,毒,dragon,龙,65,75,90,97,123,44,494,False,False,1.8,81.5,173,poison point; poison touch,adaptability,brown,,medium,55,70,691
+692,692,clauncher,铁臂枪虾,generation-vi,第六世代,6,kalos,卡洛斯,water,水,,,50,53,62,58,63,44,330,False,False,0.5,8.3,66,mega launcher,,blue,,slow,225,70,692
+693,693,clawitzer,钢炮臂虾,generation-vi,第六世代,6,kalos,卡洛斯,water,水,,,71,73,88,120,89,59,500,False,False,1.3,35.3,100,mega launcher,,blue,,slow,55,70,693
+694,694,helioptile,伞电蜥,generation-vi,第六世代,6,kalos,卡洛斯,electric,电,normal,一般,44,38,33,61,43,70,289,False,False,0.5,6.0,58,dry skin; sand veil,solar power,yellow,,medium,190,70,694
+695,695,heliolisk,光电伞蜥,generation-vi,第六世代,6,kalos,卡洛斯,electric,电,normal,一般,62,55,52,109,94,109,481,False,False,1.0,21.0,168,dry skin; sand veil,solar power,yellow,,medium,75,70,695
+696,696,tyrunt,宝宝暴龙,generation-vi,第六世代,6,kalos,卡洛斯,rock,岩石,dragon,龙,58,89,77,45,45,48,362,False,False,0.8,26.0,72,strong jaw,sturdy,brown,,medium,45,70,696
+697,697,tyrantrum,怪颚龙,generation-vi,第六世代,6,kalos,卡洛斯,rock,岩石,dragon,龙,82,121,119,69,59,71,521,False,False,2.5,270.0,182,strong jaw,rock head,red,,medium,45,70,697
+698,698,amaura,冰雪龙,generation-vi,第六世代,6,kalos,卡洛斯,rock,岩石,ice,冰,77,59,50,67,63,46,362,False,False,1.3,25.2,72,refrigerate,snow warning,blue,,medium,45,70,698
+699,699,aurorus,冰雪巨龙,generation-vi,第六世代,6,kalos,卡洛斯,rock,岩石,ice,冰,123,77,72,99,92,58,521,False,False,2.7,225.0,104,refrigerate,snow warning,blue,,medium,45,70,699
+700,700,sylveon,仙子伊布,generation-vi,第六世代,6,kalos,卡洛斯,fairy,妖精,,,95,65,65,110,130,60,525,False,False,1.0,23.5,184,cute charm,pixilate,pink,,medium,45,70,700
+701,701,hawlucha,摔角鹰人,generation-vi,第六世代,6,kalos,卡洛斯,fighting,格斗,flying,飞行,78,92,75,74,63,118,500,False,False,0.8,21.5,175,limber; unburden,mold breaker,green,,medium,100,70,701
+702,702,dedenne,咚咚鼠,generation-vi,第六世代,6,kalos,卡洛斯,electric,电,fairy,妖精,67,58,57,81,67,101,431,False,False,0.2,2.2,151,cheek pouch; pickup,plus,yellow,,medium,180,70,702
+703,703,carbink,小碎钻,generation-vi,第六世代,6,kalos,卡洛斯,rock,岩石,fairy,妖精,50,50,150,50,150,50,500,False,False,0.3,5.7,100,clear body,sturdy,gray,,slow,60,70,703
+704,704,goomy,黏黏宝,generation-vi,第六世代,6,kalos,卡洛斯,dragon,龙,,,45,50,35,55,75,40,300,False,False,0.3,2.8,60,sap sipper; hydration,gooey,purple,,slow,45,35,704
+705,705,sliggoo,黏美儿,generation-vi,第六世代,6,kalos,卡洛斯,dragon,龙,,,68,75,53,83,113,60,452,False,False,0.8,17.5,158,sap sipper; hydration,gooey,purple,,slow,45,35,705
+706,706,goodra,黏美龙,generation-vi,第六世代,6,kalos,卡洛斯,dragon,龙,,,90,100,70,110,150,80,600,False,False,2.0,150.5,270,sap sipper; hydration,gooey,purple,,slow,45,35,706
+707,707,klefki,钥圈儿,generation-vi,第六世代,6,kalos,卡洛斯,steel,钢,fairy,妖精,57,80,91,80,87,75,470,False,False,0.2,3.0,165,prankster,magician,gray,,fast,75,70,707
+708,708,phantump,小木灵,generation-vi,第六世代,6,kalos,卡洛斯,ghost,幽灵,grass,草,43,70,48,50,60,38,309,False,False,0.4,7.0,62,natural cure; frisk,harvest,brown,,medium,120,70,708
+709,709,trevenant,朽木妖,generation-vi,第六世代,6,kalos,卡洛斯,ghost,幽灵,grass,草,85,110,76,65,82,56,474,False,False,1.5,71.0,166,natural cure; frisk,harvest,brown,,medium,60,70,709
+710,710,pumpkaboo,南瓜精,generation-vi,第六世代,6,kalos,卡洛斯,ghost,幽灵,grass,草,49,66,70,44,55,51,335,False,False,0.4,5.0,67,pickup; frisk,insomnia,brown,,medium,120,70,710
+711,711,gourgeist,南瓜怪人,generation-vi,第六世代,6,kalos,卡洛斯,ghost,幽灵,grass,草,65,90,122,58,75,84,494,False,False,0.9,12.5,173,pickup; frisk,insomnia,brown,,medium,60,70,711
+712,712,bergmite,冰宝,generation-vi,第六世代,6,kalos,卡洛斯,ice,冰,,,55,69,85,32,35,28,304,False,False,1.0,99.5,61,own tempo; ice body,sturdy,blue,,medium,190,70,712
+713,713,avalugg,冰岩怪,generation-vi,第六世代,6,kalos,卡洛斯,ice,冰,,,95,117,184,44,46,28,514,False,False,2.0,505.0,180,own tempo; ice body,sturdy,blue,,medium,55,70,713
+714,714,noibat,嗡蝠,generation-vi,第六世代,6,kalos,卡洛斯,flying,飞行,dragon,龙,40,30,35,45,40,55,245,False,False,0.5,8.0,49,frisk; infiltrator,telepathy,purple,,medium,190,70,714
+715,715,noivern,音波龙,generation-vi,第六世代,6,kalos,卡洛斯,flying,飞行,dragon,龙,85,70,80,97,80,123,535,False,False,1.5,85.0,187,frisk; infiltrator,telepathy,purple,,medium,45,70,715
+716,716,xerneas,哲尔尼亚斯,generation-vi,第六世代,6,kalos,卡洛斯,fairy,妖精,,,126,131,95,131,98,99,680,True,False,3.0,215.0,306,fairy aura,,blue,,slow,45,0,716
+717,717,yveltal,伊裴尔塔尔,generation-vi,第六世代,6,kalos,卡洛斯,dark,恶,flying,飞行,126,131,95,131,98,99,680,True,False,5.8,203.0,306,dark aura,,red,,slow,45,0,717
+718,718,zygarde,基格尔德,generation-vi,第六世代,6,kalos,卡洛斯,dragon,龙,ground,地面,108,100,121,81,95,95,600,True,False,5.0,305.0,270,aura break,,green,,slow,3,0,718
+719,719,diancie,蒂安希,generation-vi,第六世代,6,kalos,卡洛斯,rock,岩石,fairy,妖精,50,100,150,100,150,50,600,False,True,0.7,8.8,270,clear body,,pink,,slow,3,70,719
+720,720,hoopa,胡帕,generation-vi,第六世代,6,kalos,卡洛斯,psychic,超能力,ghost,幽灵,80,110,60,150,130,70,600,False,True,0.5,9.0,270,magician,,purple,,slow,3,100,720
+721,721,volcanion,波尔凯尼恩,generation-vi,第六世代,6,kalos,卡洛斯,fire,火,water,水,80,110,120,130,90,70,600,False,True,1.7,195.0,270,water absorb,,brown,,slow,3,100,721
+722,722,rowlet,木木枭,generation-vii,第七世代,7,alola,阿罗拉,grass,草,flying,飞行,68,55,55,50,50,42,320,False,False,0.3,1.5,64,overgrow,long reach,brown,,medium-slow,45,70,722
+723,723,dartrix,投羽枭,generation-vii,第七世代,7,alola,阿罗拉,grass,草,flying,飞行,78,75,75,70,70,52,420,False,False,0.7,16.0,147,overgrow,long reach,brown,,medium-slow,45,70,723
+724,724,decidueye,狙射树枭,generation-vii,第七世代,7,alola,阿罗拉,grass,草,ghost,幽灵,78,107,75,100,100,70,530,False,False,1.6,36.6,239,overgrow,long reach,brown,,medium-slow,45,70,724
+725,725,litten,火斑喵,generation-vii,第七世代,7,alola,阿罗拉,fire,火,,,45,65,40,60,40,70,320,False,False,0.4,4.3,64,blaze,intimidate,red,,medium-slow,45,70,725
+726,726,torracat,炎热喵,generation-vii,第七世代,7,alola,阿罗拉,fire,火,,,65,85,50,80,50,90,420,False,False,0.7,25.0,147,blaze,intimidate,red,,medium-slow,45,70,726
+727,727,incineroar,炽焰咆哮虎,generation-vii,第七世代,7,alola,阿罗拉,fire,火,dark,恶,95,115,90,80,90,60,530,False,False,1.8,83.0,239,blaze,intimidate,red,,medium-slow,45,70,727
+728,728,popplio,球球海狮,generation-vii,第七世代,7,alola,阿罗拉,water,水,,,50,54,54,66,56,40,320,False,False,0.4,7.5,64,torrent,liquid voice,blue,,medium-slow,45,70,728
+729,729,brionne,花漾海狮,generation-vii,第七世代,7,alola,阿罗拉,water,水,,,60,69,69,91,81,50,420,False,False,0.6,17.5,147,torrent,liquid voice,blue,,medium-slow,45,70,729
+730,730,primarina,西狮海壬,generation-vii,第七世代,7,alola,阿罗拉,water,水,fairy,妖精,80,74,74,126,116,60,530,False,False,1.8,44.0,239,torrent,liquid voice,blue,,medium-slow,45,70,730
+731,731,pikipek,小笃儿,generation-vii,第七世代,7,alola,阿罗拉,normal,一般,flying,飞行,35,75,30,30,30,65,265,False,False,0.3,1.2,53,keen eye; skill link,pickup,black,,medium,255,70,731
+732,732,trumbeak,喇叭啄鸟,generation-vii,第七世代,7,alola,阿罗拉,normal,一般,flying,飞行,55,85,50,40,50,75,355,False,False,0.6,14.8,124,keen eye; skill link,pickup,black,,medium,120,70,732
+733,733,toucannon,铳嘴大鸟,generation-vii,第七世代,7,alola,阿罗拉,normal,一般,flying,飞行,80,120,75,75,75,60,485,False,False,1.1,26.0,218,keen eye; skill link,sheer force,black,,medium,45,70,733
+734,734,yungoos,猫鼬少,generation-vii,第七世代,7,alola,阿罗拉,normal,一般,,,48,70,30,30,30,45,253,False,False,0.4,6.0,51,stakeout; strong jaw,adaptability,brown,,medium,255,70,734
+735,735,gumshoos,猫鼬探长,generation-vii,第七世代,7,alola,阿罗拉,normal,一般,,,88,110,60,55,60,45,418,False,False,0.7,14.2,146,stakeout; strong jaw,adaptability,brown,,medium,127,70,735
+736,736,grubbin,强颚鸡母虫,generation-vii,第七世代,7,alola,阿罗拉,bug,虫,,,47,62,45,55,45,46,300,False,False,0.4,4.4,60,swarm,,gray,,medium,255,70,736
+737,737,charjabug,虫电宝,generation-vii,第七世代,7,alola,阿罗拉,bug,虫,electric,电,57,82,95,55,75,36,400,False,False,0.5,10.5,140,battery,,green,,medium,120,70,737
+738,738,vikavolt,锹农炮虫,generation-vii,第七世代,7,alola,阿罗拉,bug,虫,electric,电,77,70,90,145,75,43,500,False,False,1.5,45.0,225,levitate,,blue,,medium,45,70,738
+739,739,crabrawler,好胜蟹,generation-vii,第七世代,7,alola,阿罗拉,fighting,格斗,,,47,82,57,42,47,63,338,False,False,0.6,7.0,68,hyper cutter; iron fist,anger point,purple,,medium,225,70,739
+740,740,crabominable,好胜毛蟹,generation-vii,第七世代,7,alola,阿罗拉,fighting,格斗,ice,冰,97,132,77,62,67,43,478,False,False,1.7,180.0,167,hyper cutter; iron fist,anger point,white,,medium,60,70,740
+741,741,oricorio,花舞鸟,generation-vii,第七世代,7,alola,阿罗拉,fire,火,flying,飞行,75,70,70,98,70,93,476,False,False,0.6,3.4,167,dancer,,red,,medium,45,70,741
+742,742,cutiefly,萌虻,generation-vii,第七世代,7,alola,阿罗拉,bug,虫,fairy,妖精,40,45,40,55,40,84,304,False,False,0.1,0.2,61,honey gather; shield dust,sweet veil,yellow,,medium,190,70,742
+743,743,ribombee,蝶结萌虻,generation-vii,第七世代,7,alola,阿罗拉,bug,虫,fairy,妖精,60,55,60,95,70,124,464,False,False,0.2,0.5,162,honey gather; shield dust,sweet veil,yellow,,medium,75,70,743
+744,744,rockruff,岩狗狗,generation-vii,第七世代,7,alola,阿罗拉,rock,岩石,,,45,65,40,30,40,60,280,False,False,0.5,9.2,56,keen eye; vital spirit,steadfast,brown,,medium,190,70,744
+745,745,lycanroc,鬃岩狼人,generation-vii,第七世代,7,alola,阿罗拉,rock,岩石,,,75,115,65,55,65,112,487,False,False,0.8,25.0,170,keen eye; sand rush,steadfast,brown,,medium,90,70,745
+746,746,wishiwashi,弱丁鱼,generation-vii,第七世代,7,alola,阿罗拉,water,水,,,45,20,20,25,25,40,175,False,False,0.2,0.3,61,schooling,,blue,,fast,60,70,746
+747,747,mareanie,好坏星,generation-vii,第七世代,7,alola,阿罗拉,poison,毒,water,水,50,53,62,43,52,45,305,False,False,0.4,8.0,61,merciless; limber,regenerator,blue,,medium,190,70,747
+748,748,toxapex,超坏星,generation-vii,第七世代,7,alola,阿罗拉,poison,毒,water,水,50,63,152,53,142,35,495,False,False,0.7,14.5,173,merciless; limber,regenerator,blue,,medium,75,70,748
+749,749,mudbray,泥驴仔,generation-vii,第七世代,7,alola,阿罗拉,ground,地面,,,70,100,70,45,55,45,385,False,False,1.0,110.0,77,own tempo; stamina,inner focus,brown,,medium,190,70,749
+750,750,mudsdale,重泥挽马,generation-vii,第七世代,7,alola,阿罗拉,ground,地面,,,100,125,100,55,85,35,500,False,False,2.5,920.0,175,own tempo; stamina,inner focus,brown,,medium,60,70,750
+751,751,dewpider,滴蛛,generation-vii,第七世代,7,alola,阿罗拉,water,水,bug,虫,38,40,52,40,72,27,269,False,False,0.3,4.0,54,water bubble,water absorb,green,,medium,200,70,751
+752,752,araquanid,滴蛛霸,generation-vii,第七世代,7,alola,阿罗拉,water,水,bug,虫,68,70,92,50,132,42,454,False,False,1.8,82.0,159,water bubble,water absorb,green,,medium,100,70,752
+753,753,fomantis,伪螳草,generation-vii,第七世代,7,alola,阿罗拉,grass,草,,,40,55,35,50,35,35,250,False,False,0.3,1.5,50,leaf guard,contrary,pink,,medium,190,70,753
+754,754,lurantis,兰螳花,generation-vii,第七世代,7,alola,阿罗拉,grass,草,,,70,105,90,80,90,45,480,False,False,0.9,18.5,168,leaf guard,contrary,pink,,medium,75,70,754
+755,755,morelull,睡睡菇,generation-vii,第七世代,7,alola,阿罗拉,grass,草,fairy,妖精,40,35,55,65,75,15,285,False,False,0.2,1.5,57,illuminate; effect spore,rain dish,purple,,medium,190,70,755
+756,756,shiinotic,灯罩夜菇,generation-vii,第七世代,7,alola,阿罗拉,grass,草,fairy,妖精,60,45,80,90,100,30,405,False,False,1.0,11.5,142,illuminate; effect spore,rain dish,purple,,medium,75,70,756
+757,757,salandit,夜盗火蜥,generation-vii,第七世代,7,alola,阿罗拉,poison,毒,fire,火,48,44,40,71,40,77,320,False,False,0.6,4.8,64,corrosion,oblivious,black,,medium,120,70,757
+758,758,salazzle,焰后蜥,generation-vii,第七世代,7,alola,阿罗拉,poison,毒,fire,火,68,64,60,111,60,117,480,False,False,1.2,22.2,168,corrosion,oblivious,black,,medium,45,70,758
+759,759,stufful,童偶熊,generation-vii,第七世代,7,alola,阿罗拉,normal,一般,fighting,格斗,70,75,50,45,50,50,340,False,False,0.5,6.8,68,fluffy; klutz,cute charm,pink,,medium,140,70,759
+760,760,bewear,穿着熊,generation-vii,第七世代,7,alola,阿罗拉,normal,一般,fighting,格斗,120,125,80,55,60,60,500,False,False,2.1,135.0,175,fluffy; klutz,unnerve,pink,,medium,70,70,760
+761,761,bounsweet,甜竹竹,generation-vii,第七世代,7,alola,阿罗拉,grass,草,,,42,30,38,30,38,32,210,False,False,0.3,3.2,42,leaf guard; oblivious,sweet veil,purple,,medium-slow,235,70,761
+762,762,steenee,甜舞妮,generation-vii,第七世代,7,alola,阿罗拉,grass,草,,,52,40,48,40,48,62,290,False,False,0.7,8.2,102,leaf guard; oblivious,sweet veil,purple,,medium-slow,120,70,762
+763,763,tsareena,甜冷美后,generation-vii,第七世代,7,alola,阿罗拉,grass,草,,,72,120,98,50,98,72,510,False,False,1.2,21.4,230,leaf guard; queenly majesty,sweet veil,purple,,medium-slow,45,70,763
+764,764,comfey,花疗环环,generation-vii,第七世代,7,alola,阿罗拉,fairy,妖精,,,51,52,90,82,110,100,485,False,False,0.1,0.3,170,flower veil; triage,natural cure,green,,fast,60,70,764
+765,765,oranguru,智挥猩,generation-vii,第七世代,7,alola,阿罗拉,normal,一般,psychic,超能力,90,60,80,90,110,60,490,False,False,1.5,76.0,172,inner focus; telepathy,symbiosis,white,,slow,45,70,765
+766,766,passimian,投掷猴,generation-vii,第七世代,7,alola,阿罗拉,fighting,格斗,,,100,120,90,40,60,80,490,False,False,2.0,82.8,172,receiver,defiant,white,,slow,45,70,766
+767,767,wimpod,胆小虫,generation-vii,第七世代,7,alola,阿罗拉,bug,虫,water,水,25,35,40,20,30,80,230,False,False,0.5,12.0,46,wimp out,,gray,,medium,90,70,767
+768,768,golisopod,具甲武者,generation-vii,第七世代,7,alola,阿罗拉,bug,虫,water,水,75,125,140,60,90,40,530,False,False,2.0,108.0,186,emergency exit,,gray,,medium,45,70,768
+769,769,sandygast,沙丘娃,generation-vii,第七世代,7,alola,阿罗拉,ghost,幽灵,ground,地面,55,55,80,70,45,15,320,False,False,0.5,70.0,64,water compaction,sand veil,brown,,medium,140,70,769
+770,770,palossand,噬沙堡爷,generation-vii,第七世代,7,alola,阿罗拉,ghost,幽灵,ground,地面,85,75,110,100,75,35,480,False,False,1.3,250.0,168,water compaction,sand veil,brown,,medium,60,70,770
+771,771,pyukumuku,拳海参,generation-vii,第七世代,7,alola,阿罗拉,water,水,,,55,60,130,30,130,5,410,False,False,0.3,1.2,144,innards out,unaware,black,,fast,60,70,771
+772,772,type-null,属性：空,generation-vii,第七世代,7,alola,阿罗拉,normal,一般,,,95,95,95,95,95,59,534,True,False,1.9,120.5,107,battle armor,,gray,,slow,3,0,772
+773,773,silvally,银伴战兽,generation-vii,第七世代,7,alola,阿罗拉,normal,一般,,,95,95,95,95,95,95,570,True,False,2.3,100.5,257,rks system,,gray,,slow,3,0,773
+774,774,minior,小陨星,generation-vii,第七世代,7,alola,阿罗拉,rock,岩石,flying,飞行,60,60,100,60,100,60,440,False,False,0.3,40.0,154,shields down,,brown,,medium-slow,30,70,774
+775,775,komala,树枕尾熊,generation-vii,第七世代,7,alola,阿罗拉,normal,一般,,,65,115,65,75,95,65,480,False,False,0.4,19.9,168,comatose,,blue,,slow,45,70,775
+776,776,turtonator,爆焰龟兽,generation-vii,第七世代,7,alola,阿罗拉,fire,火,dragon,龙,60,78,135,91,85,36,485,False,False,2.0,212.0,170,shell armor,,red,,medium,70,70,776
+777,777,togedemaru,托戈德玛尔,generation-vii,第七世代,7,alola,阿罗拉,electric,电,steel,钢,65,98,63,40,73,96,435,False,False,0.3,3.3,152,iron barbs; lightning rod,sturdy,gray,,medium,180,70,777
+778,778,mimikyu,谜拟丘,generation-vii,第七世代,7,alola,阿罗拉,ghost,幽灵,fairy,妖精,55,90,80,50,105,96,476,False,False,0.2,0.7,167,disguise,,yellow,,medium,45,70,778
+779,779,bruxish,磨牙彩皮鱼,generation-vii,第七世代,7,alola,阿罗拉,water,水,psychic,超能力,68,105,70,70,70,92,475,False,False,0.9,19.0,166,dazzling; strong jaw,wonder skin,pink,,medium,80,70,779
+780,780,drampa,老翁龙,generation-vii,第七世代,7,alola,阿罗拉,normal,一般,dragon,龙,78,60,85,135,91,36,485,False,False,3.0,185.0,170,berserk; sap sipper,cloud nine,white,,medium,70,70,780
+781,781,dhelmise,破破舵轮,generation-vii,第七世代,7,alola,阿罗拉,ghost,幽灵,grass,草,70,131,100,86,90,40,517,False,False,3.9,210.0,181,steelworker,,green,,medium,25,70,781
+782,782,jangmo-o,心鳞宝,generation-vii,第七世代,7,alola,阿罗拉,dragon,龙,,,45,55,65,45,45,45,300,False,False,0.6,29.7,60,bulletproof; soundproof,overcoat,gray,,slow,45,70,782
+783,783,hakamo-o,鳞甲龙,generation-vii,第七世代,7,alola,阿罗拉,dragon,龙,fighting,格斗,55,75,90,65,70,65,420,False,False,1.2,47.0,147,bulletproof; soundproof,overcoat,gray,,slow,45,70,783
+784,784,kommo-o,杖尾鳞甲龙,generation-vii,第七世代,7,alola,阿罗拉,dragon,龙,fighting,格斗,75,110,125,100,105,85,600,False,False,1.6,78.2,270,bulletproof; soundproof,overcoat,gray,,slow,45,70,784
+785,785,tapu-koko,卡璞・鸣鸣,generation-vii,第七世代,7,alola,阿罗拉,electric,电,fairy,妖精,70,115,85,95,75,130,570,True,False,1.8,20.5,257,electric surge,telepathy,yellow,,slow,3,70,785
+786,786,tapu-lele,卡璞・蝶蝶,generation-vii,第七世代,7,alola,阿罗拉,psychic,超能力,fairy,妖精,70,85,75,130,115,95,570,True,False,1.2,18.6,257,psychic surge,telepathy,pink,,slow,3,70,786
+787,787,tapu-bulu,卡璞・哞哞,generation-vii,第七世代,7,alola,阿罗拉,grass,草,fairy,妖精,70,130,115,85,95,75,570,True,False,1.9,45.5,257,grassy surge,telepathy,red,,slow,3,70,787
+788,788,tapu-fini,卡璞・鳍鳍,generation-vii,第七世代,7,alola,阿罗拉,water,水,fairy,妖精,70,75,115,95,130,85,570,True,False,1.3,21.2,257,misty surge,telepathy,purple,,slow,3,70,788
+789,789,cosmog,科斯莫古,generation-vii,第七世代,7,alola,阿罗拉,psychic,超能力,,,43,29,31,29,31,37,200,True,False,0.2,0.1,40,unaware,,blue,,slow,45,0,789
+790,790,cosmoem,科斯莫姆,generation-vii,第七世代,7,alola,阿罗拉,psychic,超能力,,,43,29,131,29,131,37,400,True,False,0.1,999.9,140,sturdy,,blue,,slow,45,0,790
+791,791,solgaleo,索尔迦雷欧,generation-vii,第七世代,7,alola,阿罗拉,psychic,超能力,steel,钢,137,137,107,113,89,97,680,True,False,3.4,230.0,306,full metal body,,white,,slow,45,0,791
+792,792,lunala,露奈雅拉,generation-vii,第七世代,7,alola,阿罗拉,psychic,超能力,ghost,幽灵,137,113,89,137,107,97,680,True,False,4.0,120.0,306,shadow shield,,purple,,slow,45,0,792
+793,793,nihilego,虚吾伊德,generation-vii,第七世代,7,alola,阿罗拉,rock,岩石,poison,毒,109,53,47,127,131,103,570,False,False,1.2,55.5,257,beast boost,,white,,slow,45,0,793
+794,794,buzzwole,爆肌蚊,generation-vii,第七世代,7,alola,阿罗拉,bug,虫,fighting,格斗,107,139,139,53,53,79,570,False,False,2.4,333.6,257,beast boost,,red,,slow,45,0,794
+795,795,pheromosa,费洛美螂,generation-vii,第七世代,7,alola,阿罗拉,bug,虫,fighting,格斗,71,137,37,137,37,151,570,False,False,1.8,25.0,257,beast boost,,white,,slow,45,0,795
+796,796,xurkitree,电束木,generation-vii,第七世代,7,alola,阿罗拉,electric,电,,,83,89,71,173,71,83,570,False,False,3.8,100.0,257,beast boost,,black,,slow,45,0,796
+797,797,celesteela,铁火辉夜,generation-vii,第七世代,7,alola,阿罗拉,steel,钢,flying,飞行,97,101,103,107,101,61,570,False,False,9.2,999.9,257,beast boost,,green,,slow,45,0,797
+798,798,kartana,纸御剑,generation-vii,第七世代,7,alola,阿罗拉,grass,草,steel,钢,59,181,131,59,31,109,570,False,False,0.3,0.1,257,beast boost,,white,,slow,45,0,798
+799,799,guzzlord,恶食大王,generation-vii,第七世代,7,alola,阿罗拉,dark,恶,dragon,龙,223,101,53,97,53,43,570,False,False,5.5,888.0,257,beast boost,,black,,slow,45,0,799
+800,800,necrozma,奈克洛兹玛,generation-vii,第七世代,7,alola,阿罗拉,psychic,超能力,,,97,107,101,127,89,79,600,True,False,2.4,230.0,270,prism armor,,black,,slow,255,0,800
+801,801,magearna,玛机雅娜,generation-vii,第七世代,7,alola,阿罗拉,steel,钢,fairy,妖精,80,95,115,130,115,65,600,False,True,1.0,80.5,270,soul heart,,gray,,slow,3,0,801
+802,802,marshadow,玛夏多,generation-vii,第七世代,7,alola,阿罗拉,fighting,格斗,ghost,幽灵,90,125,80,90,90,125,600,False,True,0.7,22.2,270,technician,,gray,,slow,3,0,802
+803,803,poipole,毒贝比,generation-vii,第七世代,7,alola,阿罗拉,poison,毒,,,67,73,67,73,67,73,420,False,False,0.6,1.8,189,beast boost,,purple,,slow,45,0,803
+804,804,naganadel,四颚针龙,generation-vii,第七世代,7,alola,阿罗拉,poison,毒,dragon,龙,73,73,73,127,73,121,540,False,False,3.6,150.0,243,beast boost,,purple,,slow,45,0,804
+805,805,stakataka,垒磊石,generation-vii,第七世代,7,alola,阿罗拉,rock,岩石,steel,钢,61,131,211,53,101,13,570,False,False,5.5,820.0,257,beast boost,,gray,,slow,30,0,805
+806,806,blacephalon,砰头小丑,generation-vii,第七世代,7,alola,阿罗拉,fire,火,ghost,幽灵,53,127,53,151,79,107,570,False,False,1.8,13.0,257,beast boost,,white,,slow,30,0,806
+807,807,zeraora,捷拉奥拉,generation-vii,第七世代,7,alola,阿罗拉,electric,电,,,88,112,75,102,80,143,600,False,True,1.5,44.5,270,volt absorb,,yellow,,slow,3,0,807
+808,808,meltan,美录坦,generation-vii,第七世代,7,alola,阿罗拉,steel,钢,,,46,65,65,55,35,34,300,False,True,0.2,8.0,135,magnet pull,,gray,,slow,3,0,808
+809,809,melmetal,美录梅塔,generation-vii,第七世代,7,alola,阿罗拉,steel,钢,,,135,143,143,80,65,34,600,False,True,2.5,800.0,270,iron fist,,gray,,slow,3,0,809
+810,810,grookey,敲音猴,generation-viii,第八世代,8,galar,伽勒尔,grass,草,,,50,65,50,40,40,65,310,False,False,0.3,5.0,62,overgrow,grassy surge,green,,medium-slow,45,50,810
+811,811,thwackey,啪咚猴,generation-viii,第八世代,8,galar,伽勒尔,grass,草,,,70,85,70,55,60,80,420,False,False,0.7,14.0,147,overgrow,grassy surge,green,,medium-slow,45,50,811
+812,812,rillaboom,轰擂金刚猩,generation-viii,第八世代,8,galar,伽勒尔,grass,草,,,100,125,90,60,70,85,530,False,False,2.1,90.0,265,overgrow,grassy surge,green,,medium-slow,45,50,812
+813,813,scorbunny,炎兔儿,generation-viii,第八世代,8,galar,伽勒尔,fire,火,,,50,71,40,40,40,69,310,False,False,0.3,4.5,62,blaze,libero,white,,medium-slow,45,50,813
+814,814,raboot,腾蹴小将,generation-viii,第八世代,8,galar,伽勒尔,fire,火,,,65,86,60,55,60,94,420,False,False,0.6,9.0,147,blaze,libero,gray,,medium-slow,45,50,814
+815,815,cinderace,闪焰王牌,generation-viii,第八世代,8,galar,伽勒尔,fire,火,,,80,116,75,65,75,119,530,False,False,1.4,33.0,265,blaze,libero,white,,medium-slow,45,50,815
+816,816,sobble,泪眼蜥,generation-viii,第八世代,8,galar,伽勒尔,water,水,,,50,40,40,70,40,70,310,False,False,0.3,4.0,62,torrent,sniper,blue,,medium-slow,45,50,816
+817,817,drizzile,变涩蜥,generation-viii,第八世代,8,galar,伽勒尔,water,水,,,65,60,55,95,55,90,420,False,False,0.7,11.5,147,torrent,sniper,blue,,medium-slow,45,50,817
+818,818,inteleon,千面避役,generation-viii,第八世代,8,galar,伽勒尔,water,水,,,70,85,65,125,65,120,530,False,False,1.9,45.2,265,torrent,sniper,blue,,medium-slow,45,50,818
+819,819,skwovet,贪心栗鼠,generation-viii,第八世代,8,galar,伽勒尔,normal,一般,,,70,55,55,35,35,25,275,False,False,0.3,2.5,55,cheek pouch,gluttony,brown,,medium,255,50,819
+820,820,greedent,藏饱栗鼠,generation-viii,第八世代,8,galar,伽勒尔,normal,一般,,,120,95,95,55,75,20,460,False,False,0.6,6.0,161,cheek pouch,gluttony,brown,,medium,90,50,820
+821,821,rookidee,稚山雀,generation-viii,第八世代,8,galar,伽勒尔,flying,飞行,,,38,47,35,33,35,57,245,False,False,0.2,1.8,49,keen eye; unnerve,big pecks,blue,,medium-slow,255,50,821
+822,822,corvisquire,蓝鸦,generation-viii,第八世代,8,galar,伽勒尔,flying,飞行,,,68,67,55,43,55,77,365,False,False,0.8,16.0,128,keen eye; unnerve,big pecks,blue,,medium-slow,120,50,822
+823,823,corviknight,钢铠鸦,generation-viii,第八世代,8,galar,伽勒尔,flying,飞行,steel,钢,98,87,105,53,85,67,495,False,False,2.2,75.0,248,pressure; unnerve,mirror armor,purple,,medium-slow,45,50,823
+824,824,blipbug,索侦虫,generation-viii,第八世代,8,galar,伽勒尔,bug,虫,,,25,20,20,25,45,45,180,False,False,0.4,8.0,36,swarm; compound eyes,telepathy,blue,,medium,255,50,824
+825,825,dottler,天罩虫,generation-viii,第八世代,8,galar,伽勒尔,bug,虫,psychic,超能力,50,35,80,50,90,30,335,False,False,0.4,19.5,117,swarm; compound eyes,telepathy,yellow,,medium,120,50,825
+826,826,orbeetle,以欧路普,generation-viii,第八世代,8,galar,伽勒尔,bug,虫,psychic,超能力,60,45,110,80,120,90,505,False,False,0.4,40.8,253,swarm; frisk,telepathy,red,,medium,45,50,826
+827,827,nickit,狡小狐,generation-viii,第八世代,8,galar,伽勒尔,dark,恶,,,40,28,28,47,52,50,245,False,False,0.6,8.9,49,run away; unburden,stakeout,brown,,fast,255,50,827
+828,828,thievul,猾大狐,generation-viii,第八世代,8,galar,伽勒尔,dark,恶,,,70,58,58,87,92,90,455,False,False,1.2,19.9,159,run away; unburden,stakeout,brown,,fast,127,50,828
+829,829,gossifleur,幼棉棉,generation-viii,第八世代,8,galar,伽勒尔,grass,草,,,40,40,60,40,60,10,250,False,False,0.4,2.2,50,cotton down; regenerator,effect spore,green,,medium,190,50,829
+830,830,eldegoss,白蓬蓬,generation-viii,第八世代,8,galar,伽勒尔,grass,草,,,60,50,90,80,120,60,460,False,False,0.5,2.5,161,cotton down; regenerator,effect spore,green,,medium,75,50,830
+831,831,wooloo,毛辫羊,generation-viii,第八世代,8,galar,伽勒尔,normal,一般,,,42,40,55,40,45,48,270,False,False,0.6,6.0,122,fluffy; run away,bulletproof,white,,medium,255,50,831
+832,832,dubwool,毛毛角羊,generation-viii,第八世代,8,galar,伽勒尔,normal,一般,,,72,80,100,60,90,88,490,False,False,1.3,43.0,172,fluffy; steadfast,bulletproof,white,,medium,127,50,832
+833,833,chewtle,咬咬龟,generation-viii,第八世代,8,galar,伽勒尔,water,水,,,50,64,50,38,38,44,284,False,False,0.3,8.5,57,strong jaw; shell armor,swift swim,green,,medium,255,50,833
+834,834,drednaw,暴噬龟,generation-viii,第八世代,8,galar,伽勒尔,water,水,rock,岩石,90,115,90,48,68,74,485,False,False,1.0,115.5,170,strong jaw; shell armor,swift swim,green,,medium,75,50,834
+835,835,yamper,来电汪,generation-viii,第八世代,8,galar,伽勒尔,electric,电,,,59,45,50,40,50,26,270,False,False,0.3,13.5,54,ball fetch,rattled,yellow,,fast,255,50,835
+836,836,boltund,逐电犬,generation-viii,第八世代,8,galar,伽勒尔,electric,电,,,69,90,60,90,60,121,490,False,False,1.0,34.0,172,strong jaw,competitive,yellow,,fast,45,50,836
+837,837,rolycoly,小炭仔,generation-viii,第八世代,8,galar,伽勒尔,rock,岩石,,,30,40,50,40,50,30,240,False,False,0.3,12.0,48,steam engine; heatproof,flash fire,black,,medium-slow,255,50,837
+838,838,carkol,大炭车,generation-viii,第八世代,8,galar,伽勒尔,rock,岩石,fire,火,80,60,90,60,70,50,410,False,False,1.1,78.0,144,steam engine; flame body,flash fire,black,,medium-slow,120,50,838
+839,839,coalossal,巨炭山,generation-viii,第八世代,8,galar,伽勒尔,rock,岩石,fire,火,110,80,120,80,90,30,510,False,False,2.8,310.5,255,steam engine; flame body,flash fire,black,,medium-slow,45,50,839
+840,840,applin,啃果虫,generation-viii,第八世代,8,galar,伽勒尔,grass,草,dragon,龙,40,40,80,40,40,20,260,False,False,0.2,0.5,52,ripen; gluttony,bulletproof,green,,slow-then-very-fast,255,50,840
+841,841,flapple,苹裹龙,generation-viii,第八世代,8,galar,伽勒尔,grass,草,dragon,龙,70,110,80,95,60,70,485,False,False,0.3,1.0,170,ripen; gluttony,hustle,green,,slow-then-very-fast,45,50,841
+842,842,appletun,丰蜜龙,generation-viii,第八世代,8,galar,伽勒尔,grass,草,dragon,龙,110,85,80,100,80,30,485,False,False,0.4,13.0,170,ripen; gluttony,thick fat,green,,slow-then-very-fast,45,50,842
+843,843,silicobra,沙包蛇,generation-viii,第八世代,8,galar,伽勒尔,ground,地面,,,52,57,75,35,50,46,315,False,False,2.2,7.6,63,sand spit; shed skin,sand veil,green,,medium,255,50,843
+844,844,sandaconda,沙螺蟒,generation-viii,第八世代,8,galar,伽勒尔,ground,地面,,,72,107,125,65,70,71,510,False,False,3.8,65.5,179,sand spit; shed skin,sand veil,green,,medium,120,50,844
+845,845,cramorant,古月鸟,generation-viii,第八世代,8,galar,伽勒尔,flying,飞行,water,水,70,85,55,85,95,85,475,False,False,0.8,18.0,166,gulp missile,,blue,,medium,45,50,845
+846,846,arrokuda,刺梭鱼,generation-viii,第八世代,8,galar,伽勒尔,water,水,,,41,63,40,40,30,66,280,False,False,0.5,1.0,56,swift swim,propeller tail,brown,,slow,255,50,846
+847,847,barraskewda,戽斗尖梭,generation-viii,第八世代,8,galar,伽勒尔,water,水,,,61,123,60,60,50,136,490,False,False,1.3,30.0,172,swift swim,propeller tail,brown,,slow,60,50,847
+848,848,toxel,电音婴,generation-viii,第八世代,8,galar,伽勒尔,electric,电,poison,毒,40,38,35,54,35,40,242,False,False,0.4,11.0,48,rattled; static,klutz,purple,,medium-slow,75,50,848
+849,849,toxtricity,颤弦蝾螈,generation-viii,第八世代,8,galar,伽勒尔,electric,电,poison,毒,75,98,70,114,70,75,502,False,False,1.6,40.0,176,punk rock; plus,technician,purple,,medium-slow,45,50,849
+850,850,sizzlipede,烧火蚣,generation-viii,第八世代,8,galar,伽勒尔,fire,火,bug,虫,50,65,45,50,50,45,305,False,False,0.7,1.0,61,flash fire; white smoke,flame body,red,,medium,190,50,850
+851,851,centiskorch,焚焰蚣,generation-viii,第八世代,8,galar,伽勒尔,fire,火,bug,虫,100,115,65,90,90,65,525,False,False,3.0,120.0,184,flash fire; white smoke,flame body,red,,medium,75,50,851
+852,852,clobbopus,拳拳蛸,generation-viii,第八世代,8,galar,伽勒尔,fighting,格斗,,,50,68,60,50,50,32,310,False,False,0.6,4.0,62,limber,technician,brown,,medium-slow,180,50,852
+853,853,grapploct,八爪武师,generation-viii,第八世代,8,galar,伽勒尔,fighting,格斗,,,80,118,90,70,80,42,480,False,False,1.6,39.0,168,limber,technician,blue,,medium-slow,45,50,853
+854,854,sinistea,来悲茶,generation-viii,第八世代,8,galar,伽勒尔,ghost,幽灵,,,40,45,45,74,54,50,308,False,False,0.1,0.2,62,weak armor,cursed body,purple,,medium,120,50,854
+855,855,polteageist,怖思壶,generation-viii,第八世代,8,galar,伽勒尔,ghost,幽灵,,,60,65,65,134,114,70,508,False,False,0.2,0.4,178,weak armor,cursed body,purple,,medium,60,50,855
+856,856,hatenna,迷布莉姆,generation-viii,第八世代,8,galar,伽勒尔,psychic,超能力,,,42,30,45,56,53,39,265,False,False,0.4,3.4,53,healer; anticipation,magic bounce,pink,,slow,235,50,856
+857,857,hattrem,提布莉姆,generation-viii,第八世代,8,galar,伽勒尔,psychic,超能力,,,57,40,65,86,73,49,370,False,False,0.6,4.8,130,healer; anticipation,magic bounce,pink,,slow,120,50,857
+858,858,hatterene,布莉姆温,generation-viii,第八世代,8,galar,伽勒尔,psychic,超能力,fairy,妖精,57,90,95,136,103,29,510,False,False,2.1,5.1,255,healer; anticipation,magic bounce,pink,,slow,45,50,858
+859,859,impidimp,捣蛋小妖,generation-viii,第八世代,8,galar,伽勒尔,dark,恶,fairy,妖精,45,45,30,55,40,50,265,False,False,0.4,5.5,53,prankster; frisk,pickpocket,pink,,medium,255,50,859
+860,860,morgrem,诈唬魔,generation-viii,第八世代,8,galar,伽勒尔,dark,恶,fairy,妖精,65,60,45,75,55,70,370,False,False,0.8,12.5,130,prankster; frisk,pickpocket,pink,,medium,120,50,860
+861,861,grimmsnarl,长毛巨魔,generation-viii,第八世代,8,galar,伽勒尔,dark,恶,fairy,妖精,95,120,65,95,75,60,510,False,False,1.5,61.0,255,prankster; frisk,pickpocket,purple,,medium,45,50,861
+862,862,obstagoon,堵拦熊,generation-viii,第八世代,8,galar,伽勒尔,dark,恶,normal,一般,93,90,101,60,81,95,520,False,False,1.6,46.0,260,reckless; guts,defiant,gray,,medium,45,50,862
+863,863,perrserker,喵头目,generation-viii,第八世代,8,galar,伽勒尔,steel,钢,,,70,110,100,50,60,50,440,False,False,0.8,28.0,154,battle armor; tough claws,steely spirit,brown,,medium,90,50,863
+864,864,cursola,魔灵珊瑚,generation-viii,第八世代,8,galar,伽勒尔,ghost,幽灵,,,60,95,50,145,130,30,510,False,False,1.0,0.4,179,weak armor,perish body,white,,fast,30,50,864
+865,865,sirfetchd,葱游兵,generation-viii,第八世代,8,galar,伽勒尔,fighting,格斗,,,62,135,95,68,82,65,507,False,False,0.8,117.0,177,steadfast,scrappy,white,,medium,45,50,865
+866,866,mr-rime,踏冰人偶,generation-viii,第八世代,8,galar,伽勒尔,ice,冰,psychic,超能力,80,85,75,110,100,70,520,False,False,1.5,58.2,182,tangled feet; screen cleaner,ice body,purple,,medium,45,50,866
+867,867,runerigus,迭失板,generation-viii,第八世代,8,galar,伽勒尔,ground,地面,ghost,幽灵,58,95,145,50,105,30,483,False,False,1.6,66.6,169,wandering spirit,,gray,,medium,90,50,867
+868,868,milcery,小仙奶,generation-viii,第八世代,8,galar,伽勒尔,fairy,妖精,,,45,40,40,50,61,34,270,False,False,0.2,0.3,54,sweet veil,aroma veil,white,,medium,200,50,868
+869,869,alcremie,霜奶仙,generation-viii,第八世代,8,galar,伽勒尔,fairy,妖精,,,65,60,75,110,121,64,495,False,False,0.3,0.5,173,sweet veil,aroma veil,white,,medium,100,50,869
+870,870,falinks,列阵兵,generation-viii,第八世代,8,galar,伽勒尔,fighting,格斗,,,65,100,100,70,60,75,470,False,False,3.0,62.0,165,battle armor,defiant,yellow,,medium,45,50,870
+871,871,pincurchin,啪嚓海胆,generation-viii,第八世代,8,galar,伽勒尔,electric,电,,,48,101,95,91,85,15,435,False,False,0.3,1.0,152,lightning rod,electric surge,purple,,medium,75,50,871
+872,872,snom,雪吞虫,generation-viii,第八世代,8,galar,伽勒尔,ice,冰,bug,虫,30,25,35,45,30,20,185,False,False,0.3,3.8,37,shield dust,ice scales,white,,medium,190,50,872
+873,873,frosmoth,雪绒蛾,generation-viii,第八世代,8,galar,伽勒尔,ice,冰,bug,虫,70,65,60,125,90,65,475,False,False,1.3,42.0,166,shield dust,ice scales,white,,medium,75,50,873
+874,874,stonjourner,巨石丁,generation-viii,第八世代,8,galar,伽勒尔,rock,岩石,,,100,125,135,20,20,70,470,False,False,2.5,520.0,165,power spot,,gray,,slow,60,50,874
+875,875,eiscue,冰砌鹅,generation-viii,第八世代,8,galar,伽勒尔,ice,冰,,,75,80,110,65,90,50,470,False,False,1.4,89.0,165,ice face,,blue,,slow,60,50,875
+876,876,indeedee,爱管侍,generation-viii,第八世代,8,galar,伽勒尔,psychic,超能力,normal,一般,60,65,55,105,95,95,475,False,False,0.9,28.0,166,inner focus; synchronize,psychic surge,purple,,fast,30,140,876
+877,877,morpeko,莫鲁贝可,generation-viii,第八世代,8,galar,伽勒尔,electric,电,dark,恶,58,95,58,70,58,97,436,False,False,0.3,3.0,153,hunger switch,,yellow,,medium,180,50,877
+878,878,cufant,铜象,generation-viii,第八世代,8,galar,伽勒尔,steel,钢,,,72,80,49,40,49,40,330,False,False,1.2,100.0,66,sheer force,heavy metal,yellow,,medium,190,50,878
+879,879,copperajah,大王铜象,generation-viii,第八世代,8,galar,伽勒尔,steel,钢,,,122,130,69,80,69,30,500,False,False,3.0,650.0,175,sheer force,heavy metal,green,,medium,90,50,879
+880,880,dracozolt,雷鸟龙,generation-viii,第八世代,8,galar,伽勒尔,electric,电,dragon,龙,90,100,90,80,70,75,505,False,False,1.8,190.0,177,volt absorb; hustle,sand rush,green,,slow,45,50,880
+881,881,arctozolt,雷鸟海兽,generation-viii,第八世代,8,galar,伽勒尔,electric,电,ice,冰,90,100,90,90,80,55,505,False,False,2.3,150.0,177,volt absorb; static,slush rush,blue,,slow,45,50,881
+882,882,dracovish,鳃鱼龙,generation-viii,第八世代,8,galar,伽勒尔,water,水,dragon,龙,90,90,100,70,80,75,505,False,False,2.3,215.0,177,water absorb; strong jaw,sand rush,green,,slow,45,50,882
+883,883,arctovish,鳃鱼海兽,generation-viii,第八世代,8,galar,伽勒尔,water,水,ice,冰,90,90,100,80,90,55,505,False,False,2.0,175.0,177,water absorb; ice body,slush rush,blue,,slow,45,50,883
+884,884,duraludon,铝钢龙,generation-viii,第八世代,8,galar,伽勒尔,steel,钢,dragon,龙,70,95,115,120,50,85,535,False,False,1.8,40.0,187,light metal; heavy metal,stalwart,white,,medium,45,50,884
+885,885,dreepy,多龙梅西亚,generation-viii,第八世代,8,galar,伽勒尔,dragon,龙,ghost,幽灵,28,60,30,40,30,82,270,False,False,0.5,2.0,54,clear body; infiltrator,cursed body,green,,slow,45,50,885
+886,886,drakloak,多龙奇,generation-viii,第八世代,8,galar,伽勒尔,dragon,龙,ghost,幽灵,68,80,50,60,50,102,410,False,False,1.4,11.0,144,clear body; infiltrator,cursed body,green,,slow,45,50,886
+887,887,dragapult,多龙巴鲁托,generation-viii,第八世代,8,galar,伽勒尔,dragon,龙,ghost,幽灵,88,120,75,100,75,142,600,False,False,3.0,50.0,300,clear body; infiltrator,cursed body,green,,slow,45,50,887
+888,888,zacian,苍响,generation-viii,第八世代,8,galar,伽勒尔,fairy,妖精,,,92,120,115,80,115,138,660,True,False,2.8,110.0,335,intrepid sword,,blue,,slow,10,0,888
+889,889,zamazenta,藏玛然特,generation-viii,第八世代,8,galar,伽勒尔,fighting,格斗,,,92,120,115,80,115,138,660,True,False,2.9,210.0,335,dauntless shield,,red,,slow,10,0,889
+890,890,eternatus,无极汰那,generation-viii,第八世代,8,galar,伽勒尔,poison,毒,dragon,龙,140,85,95,145,95,130,690,True,False,20.0,950.0,345,pressure,,purple,,slow,255,0,890
+891,891,kubfu,熊徒弟,generation-viii,第八世代,8,galar,伽勒尔,fighting,格斗,,,60,90,60,53,50,72,385,True,False,0.6,12.0,77,inner focus,,gray,,slow,3,50,891
+892,892,urshifu,武道熊师,generation-viii,第八世代,8,galar,伽勒尔,fighting,格斗,dark,恶,100,130,100,63,60,97,550,True,False,1.9,105.0,275,unseen fist,,gray,,slow,3,50,892
+893,893,zarude,萨戮德,generation-viii,第八世代,8,galar,伽勒尔,dark,恶,grass,草,105,120,105,70,95,105,600,False,True,1.8,70.0,300,leaf guard,,green,,slow,3,0,893
+894,894,regieleki,雷吉艾勒奇,generation-viii,第八世代,8,galar,伽勒尔,electric,电,,,80,100,50,100,50,200,580,True,False,1.2,145.0,290,transistor,,yellow,,slow,3,35,894
+895,895,regidrago,雷吉铎拉戈,generation-viii,第八世代,8,galar,伽勒尔,dragon,龙,,,200,100,50,100,50,80,580,True,False,2.1,200.0,290,dragons maw,,green,,slow,3,35,895
+896,896,glastrier,雪暴马,generation-viii,第八世代,8,galar,伽勒尔,ice,冰,,,100,145,130,65,110,30,580,True,False,2.2,800.0,290,chilling neigh,,white,,slow,3,35,896
+897,897,spectrier,灵幽马,generation-viii,第八世代,8,galar,伽勒尔,ghost,幽灵,,,100,65,60,145,80,130,580,True,False,2.0,44.5,290,grim neigh,,black,,slow,3,35,897
+898,898,calyrex,蕾冠王,generation-viii,第八世代,8,galar,伽勒尔,psychic,超能力,grass,草,100,80,80,80,80,80,500,True,False,1.1,7.7,250,unnerve,,green,,slow,3,100,898
+899,899,wyrdeer,诡角鹿,generation-viii,第八世代,8,galar,伽勒尔,normal,一般,psychic,超能力,103,105,72,105,75,65,525,False,False,1.8,95.1,263,intimidate; frisk,sap sipper,gray,,slow,135,50,899
+900,900,kleavor,劈斧螳螂,generation-viii,第八世代,8,galar,伽勒尔,bug,虫,rock,岩石,70,135,95,45,70,85,500,False,False,1.8,89.0,175,swarm; sheer force,sharpness,brown,,medium,115,50,900
+901,901,ursaluna,月月熊,generation-viii,第八世代,8,galar,伽勒尔,ground,地面,normal,一般,130,140,105,45,80,50,550,False,False,2.4,290.0,275,guts; bulletproof,unnerve,brown,,medium,75,50,901
+902,902,basculegion,幽尾玄鱼,generation-viii,第八世代,8,galar,伽勒尔,water,水,ghost,幽灵,120,112,65,80,75,78,530,False,False,3.0,110.0,265,swift swim; adaptability,mold breaker,green,,medium,135,50,902
+903,903,sneasler,大狃拉,generation-viii,第八世代,8,galar,伽勒尔,fighting,格斗,poison,毒,80,130,60,40,80,120,510,False,False,1.3,43.0,102,pressure; unburden,poison touch,gray,,medium-slow,135,50,903
+904,904,overqwil,万针鱼,generation-viii,第八世代,8,galar,伽勒尔,dark,恶,poison,毒,85,115,95,65,65,85,510,False,False,2.5,60.5,179,poison point; swift swim,intimidate,black,,medium,135,50,904
+905,905,enamorus,眷恋云,generation-viii,第八世代,8,galar,伽勒尔,fairy,妖精,flying,飞行,74,115,70,135,80,106,580,True,False,1.6,48.0,116,cute charm,contrary,pink,,slow,3,50,905
+906,906,sprigatito,新叶喵,generation-ix,第九世代,9,paldea,帕底亚,grass,草,,,40,61,54,45,45,65,310,False,False,0.4,4.1,62,overgrow,protean,green,,medium-slow,45,50,906
+907,907,floragato,蒂蕾喵,generation-ix,第九世代,9,paldea,帕底亚,grass,草,,,61,80,63,60,63,83,410,False,False,0.9,12.2,144,overgrow,protean,green,,medium-slow,45,50,907
+908,908,meowscarada,魔幻假面喵,generation-ix,第九世代,9,paldea,帕底亚,grass,草,dark,恶,76,110,70,81,70,123,530,False,False,1.5,31.2,265,overgrow,protean,green,,medium-slow,45,50,908
+909,909,fuecoco,呆火鳄,generation-ix,第九世代,9,paldea,帕底亚,fire,火,,,67,45,59,63,40,36,310,False,False,0.4,9.8,62,blaze,unaware,red,,medium-slow,45,50,909
+910,910,crocalor,炙烫鳄,generation-ix,第九世代,9,paldea,帕底亚,fire,火,,,81,55,78,90,58,49,411,False,False,1.0,30.7,144,blaze,unaware,red,,medium-slow,45,50,910
+911,911,skeledirge,骨纹巨声鳄,generation-ix,第九世代,9,paldea,帕底亚,fire,火,ghost,幽灵,104,75,100,110,75,66,530,False,False,1.6,326.5,265,blaze,unaware,red,,medium-slow,45,50,911
+912,912,quaxly,润水鸭,generation-ix,第九世代,9,paldea,帕底亚,water,水,,,55,65,45,50,45,50,310,False,False,0.5,6.1,62,torrent,moxie,white,,medium-slow,45,50,912
+913,913,quaxwell,涌跃鸭,generation-ix,第九世代,9,paldea,帕底亚,water,水,,,70,85,65,65,60,65,410,False,False,1.2,21.5,144,torrent,moxie,blue,,medium-slow,45,50,913
+914,914,quaquaval,狂欢浪舞鸭,generation-ix,第九世代,9,paldea,帕底亚,water,水,fighting,格斗,85,120,80,85,75,85,530,False,False,1.8,61.9,265,torrent,moxie,blue,,medium-slow,45,50,914
+915,915,lechonk,爱吃豚,generation-ix,第九世代,9,paldea,帕底亚,normal,一般,,,54,45,40,35,45,35,254,False,False,0.5,10.2,51,aroma veil; gluttony,thick fat,gray,,medium,255,50,915
+916,916,oinkologne,飘香豚,generation-ix,第九世代,9,paldea,帕底亚,normal,一般,,,110,100,75,59,80,65,489,False,False,1.0,120.0,171,lingering aroma; gluttony,thick fat,gray,,medium,100,50,916
+917,917,tarountula,团珠蛛,generation-ix,第九世代,9,paldea,帕底亚,bug,虫,,,35,41,45,29,40,20,210,False,False,0.3,4.0,42,insomnia,stakeout,white,,slow-then-very-fast,255,50,917
+918,918,spidops,操陷蛛,generation-ix,第九世代,9,paldea,帕底亚,bug,虫,,,60,79,92,52,86,35,404,False,False,1.0,16.5,141,insomnia,stakeout,green,,slow-then-very-fast,120,50,918
+919,919,nymble,豆蟋蟀,generation-ix,第九世代,9,paldea,帕底亚,bug,虫,,,33,46,40,21,25,45,210,False,False,0.2,1.0,42,swarm,tinted lens,gray,,medium,190,20,919
+920,920,lokix,烈腿蝗,generation-ix,第九世代,9,paldea,帕底亚,bug,虫,dark,恶,71,102,78,52,55,92,450,False,False,1.0,17.5,158,swarm,tinted lens,gray,,medium,30,0,920
+921,921,pawmi,布拨,generation-ix,第九世代,9,paldea,帕底亚,electric,电,,,45,50,20,40,25,60,240,False,False,0.3,2.5,48,static; natural cure,iron fist,yellow,,medium,190,50,921
+922,922,pawmo,布土拨,generation-ix,第九世代,9,paldea,帕底亚,electric,电,fighting,格斗,60,75,40,50,40,85,350,False,False,0.4,6.5,123,volt absorb; natural cure,iron fist,yellow,,medium,80,50,922
+923,923,pawmot,巴布土拨,generation-ix,第九世代,9,paldea,帕底亚,electric,电,fighting,格斗,70,115,70,70,60,105,490,False,False,0.9,41.0,245,volt absorb; natural cure,iron fist,yellow,,medium,45,50,923
+924,924,tandemaus,一对鼠,generation-ix,第九世代,9,paldea,帕底亚,normal,一般,,,50,50,45,40,45,75,305,False,False,0.3,1.8,61,run away; pickup,own tempo,white,,fast,150,50,924
+925,925,maushold,一家鼠,generation-ix,第九世代,9,paldea,帕底亚,normal,一般,,,74,75,70,65,75,111,470,False,False,0.3,2.8,165,friend guard; cheek pouch,technician,white,,fast,75,50,925
+926,926,fidough,狗仔包,generation-ix,第九世代,9,paldea,帕底亚,fairy,妖精,,,37,55,70,30,55,65,312,False,False,0.3,10.9,62,own tempo,klutz,yellow,,medium-slow,190,50,926
+927,927,dachsbun,麻花犬,generation-ix,第九世代,9,paldea,帕底亚,fairy,妖精,,,57,80,115,50,80,95,477,False,False,0.5,14.9,167,well baked body,aroma veil,brown,,medium-slow,90,50,927
+928,928,smoliv,迷你芙,generation-ix,第九世代,9,paldea,帕底亚,grass,草,normal,一般,41,35,45,58,51,30,260,False,False,0.3,6.5,52,early bird,harvest,green,,medium-slow,255,50,928
+929,929,dolliv,奥利纽,generation-ix,第九世代,9,paldea,帕底亚,grass,草,normal,一般,52,53,60,78,78,33,354,False,False,0.6,11.9,124,early bird,harvest,green,,medium-slow,120,50,929
+930,930,arboliva,奥利瓦,generation-ix,第九世代,9,paldea,帕底亚,grass,草,normal,一般,78,69,90,125,109,39,510,False,False,1.4,48.2,255,seed sower,harvest,green,,medium-slow,45,50,930
+931,931,squawkabilly,怒鹦哥,generation-ix,第九世代,9,paldea,帕底亚,normal,一般,flying,飞行,82,96,51,45,51,92,417,False,False,0.6,2.4,146,intimidate; hustle,guts,green,,slow-then-very-fast,190,50,931
+932,932,nacli,盐石宝,generation-ix,第九世代,9,paldea,帕底亚,rock,岩石,,,55,55,75,35,35,25,280,False,False,0.4,16.0,56,purifying salt; sturdy,clear body,brown,,medium-slow,255,50,932
+933,933,naclstack,盐石垒,generation-ix,第九世代,9,paldea,帕底亚,rock,岩石,,,60,60,100,35,65,35,355,False,False,0.6,105.0,124,purifying salt; sturdy,clear body,brown,,medium-slow,120,50,933
+934,934,garganacl,盐石巨灵,generation-ix,第九世代,9,paldea,帕底亚,rock,岩石,,,100,100,130,45,90,35,500,False,False,2.3,240.0,250,purifying salt; sturdy,clear body,brown,,medium-slow,45,50,934
+935,935,charcadet,炭小侍,generation-ix,第九世代,9,paldea,帕底亚,fire,火,,,40,50,40,50,40,35,255,False,False,0.6,10.5,51,flash fire,flame body,red,,slow,90,50,935
+936,936,armarouge,红莲铠骑,generation-ix,第九世代,9,paldea,帕底亚,fire,火,psychic,超能力,85,60,100,125,80,75,525,False,False,1.5,85.0,263,flash fire,weak armor,red,,slow,25,20,936
+937,937,ceruledge,苍炎刃鬼,generation-ix,第九世代,9,paldea,帕底亚,fire,火,ghost,幽灵,75,125,80,60,100,85,525,False,False,1.6,62.0,263,flash fire,weak armor,blue,,slow,25,20,937
+938,938,tadbulb,光蚪仔,generation-ix,第九世代,9,paldea,帕底亚,electric,电,,,61,31,41,59,35,45,272,False,False,0.3,0.4,54,own tempo; static,damp,yellow,,medium,190,50,938
+939,939,bellibolt,电肚蛙,generation-ix,第九世代,9,paldea,帕底亚,electric,电,,,109,64,91,103,83,45,495,False,False,1.2,113.0,173,electromorphosis; static,damp,green,,medium,50,50,939
+940,940,wattrel,电海燕,generation-ix,第九世代,9,paldea,帕底亚,electric,电,flying,飞行,40,40,35,55,40,70,280,False,False,0.4,3.6,56,wind power; volt absorb,competitive,black,,medium-slow,180,50,940
+941,941,kilowattrel,大电海燕,generation-ix,第九世代,9,paldea,帕底亚,electric,电,flying,飞行,70,70,60,105,60,125,490,False,False,1.4,38.6,172,wind power; volt absorb,competitive,yellow,,medium-slow,90,50,941
+942,942,maschiff,偶叫獒,generation-ix,第九世代,9,paldea,帕底亚,dark,恶,,,60,78,60,40,51,51,340,False,False,0.5,16.0,68,intimidate; run away,stakeout,brown,,medium-slow,150,50,942
+943,943,mabosstiff,獒教父,generation-ix,第九世代,9,paldea,帕底亚,dark,恶,,,80,120,90,60,70,85,505,False,False,1.1,61.0,177,intimidate; guard dog,stakeout,gray,,medium-slow,75,50,943
+944,944,shroodle,滋汁鼹,generation-ix,第九世代,9,paldea,帕底亚,poison,毒,normal,一般,40,65,35,40,35,75,290,False,False,0.2,0.7,58,unburden; pickpocket,prankster,gray,,medium-slow,190,50,944
+945,945,grafaiai,涂标客,generation-ix,第九世代,9,paldea,帕底亚,poison,毒,normal,一般,63,95,65,80,72,110,485,False,False,0.7,27.2,170,unburden; poison touch,prankster,gray,,medium-slow,90,50,945
+946,946,bramblin,纳噬草,generation-ix,第九世代,9,paldea,帕底亚,grass,草,ghost,幽灵,40,65,30,45,35,60,275,False,False,0.6,0.6,55,wind rider,infiltrator,brown,,medium,190,50,946
+947,947,brambleghast,怖纳噬草,generation-ix,第九世代,9,paldea,帕底亚,grass,草,ghost,幽灵,55,115,70,80,70,90,480,False,False,1.2,6.0,168,wind rider,infiltrator,brown,,medium,45,50,947
+948,948,toedscool,原野水母,generation-ix,第九世代,9,paldea,帕底亚,ground,地面,grass,草,40,40,35,50,100,70,335,False,False,0.9,33.0,67,mycelium might,,yellow,,medium-slow,190,50,948
+949,949,toedscruel,陆地水母,generation-ix,第九世代,9,paldea,帕底亚,ground,地面,grass,草,80,70,65,80,120,100,515,False,False,1.9,58.0,180,mycelium might,,black,,medium-slow,90,50,949
+950,950,klawf,毛崖蟹,generation-ix,第九世代,9,paldea,帕底亚,rock,岩石,,,70,100,115,35,55,75,450,False,False,1.3,79.0,158,anger shell; shell armor,regenerator,red,,medium,120,50,950
+951,951,capsakid,热辣娃,generation-ix,第九世代,9,paldea,帕底亚,grass,草,,,50,62,40,62,40,50,304,False,False,0.3,3.0,61,chlorophyll; insomnia,klutz,green,,medium,190,50,951
+952,952,scovillain,狠辣椒,generation-ix,第九世代,9,paldea,帕底亚,grass,草,fire,火,65,108,65,108,65,75,486,False,False,0.9,15.0,170,chlorophyll; insomnia,moody,green,,medium,75,50,952
+953,953,rellor,虫滚泥,generation-ix,第九世代,9,paldea,帕底亚,bug,虫,,,41,50,60,31,58,30,270,False,False,0.2,1.0,54,compound eyes,shed skin,brown,,fast,190,50,953
+954,954,rabsca,虫甲圣,generation-ix,第九世代,9,paldea,帕底亚,bug,虫,psychic,超能力,75,50,85,115,100,45,470,False,False,0.3,3.5,165,synchronize,telepathy,green,,fast,45,50,954
+955,955,flittle,飘飘雏,generation-ix,第九世代,9,paldea,帕底亚,psychic,超能力,,,30,35,30,55,30,75,255,False,False,0.2,1.5,51,anticipation; frisk,speed boost,yellow,,medium-slow,120,50,955
+956,956,espathra,超能艳鸵,generation-ix,第九世代,9,paldea,帕底亚,psychic,超能力,,,95,60,60,101,60,105,481,False,False,1.9,90.0,168,opportunist; frisk,speed boost,yellow,,medium-slow,60,50,956
+957,957,tinkatink,小锻匠,generation-ix,第九世代,9,paldea,帕底亚,fairy,妖精,steel,钢,50,45,45,35,64,58,297,False,False,0.4,8.9,59,mold breaker; own tempo,pickpocket,pink,,medium-slow,190,50,957
+958,958,tinkatuff,巧锻匠,generation-ix,第九世代,9,paldea,帕底亚,fairy,妖精,steel,钢,65,55,55,45,82,78,380,False,False,0.7,59.1,133,mold breaker; own tempo,pickpocket,pink,,medium-slow,90,50,958
+959,959,tinkaton,巨锻匠,generation-ix,第九世代,9,paldea,帕底亚,fairy,妖精,steel,钢,85,75,77,70,105,94,506,False,False,0.7,112.8,253,mold breaker; own tempo,pickpocket,pink,,medium-slow,45,50,959
+960,960,wiglett,海地鼠,generation-ix,第九世代,9,paldea,帕底亚,water,水,,,10,55,25,35,25,95,245,False,False,1.2,1.8,49,gooey; rattled,sand veil,white,,medium,255,50,960
+961,961,wugtrio,三海地鼠,generation-ix,第九世代,9,paldea,帕底亚,water,水,,,35,100,50,50,70,120,425,False,False,1.2,5.4,149,gooey; rattled,sand veil,red,,medium,50,50,961
+962,962,bombirdier,下石鸟,generation-ix,第九世代,9,paldea,帕底亚,flying,飞行,dark,恶,70,103,85,60,85,82,485,False,False,1.5,42.9,243,big pecks; keen eye,rocky payload,white,,slow,25,50,962
+963,963,finizen,波普海豚,generation-ix,第九世代,9,paldea,帕底亚,water,水,,,70,45,40,45,40,75,315,False,False,1.3,60.2,63,water veil,,blue,,slow,200,50,963
+964,964,palafin,海豚侠,generation-ix,第九世代,9,paldea,帕底亚,water,水,,,100,70,72,53,62,100,457,False,False,1.3,60.2,160,zero to hero,,blue,,slow,45,50,964
+965,965,varoom,噗隆隆,generation-ix,第九世代,9,paldea,帕底亚,steel,钢,poison,毒,45,70,63,30,45,47,300,False,False,1.0,35.0,60,overcoat,slow start,gray,,medium,190,50,965
+966,966,revavroom,普隆隆姆,generation-ix,第九世代,9,paldea,帕底亚,steel,钢,poison,毒,80,119,90,54,67,90,500,False,False,1.8,120.0,175,overcoat,filter,gray,,medium,75,50,966
+967,967,cyclizar,摩托蜥,generation-ix,第九世代,9,paldea,帕底亚,dragon,龙,normal,一般,70,95,65,85,65,121,501,False,False,1.6,63.0,175,shed skin,regenerator,green,,medium-slow,190,50,967
+968,968,orthworm,拖拖蚓,generation-ix,第九世代,9,paldea,帕底亚,steel,钢,,,70,85,145,60,55,65,480,False,False,2.5,310.0,240,earth eater,sand veil,pink,,slow,25,50,968
+969,969,glimmet,晶光芽,generation-ix,第九世代,9,paldea,帕底亚,rock,岩石,poison,毒,48,35,42,105,60,60,350,False,False,0.7,8.0,70,toxic debris,corrosion,blue,,medium-slow,70,50,969
+970,970,glimmora,晶光花,generation-ix,第九世代,9,paldea,帕底亚,rock,岩石,poison,毒,83,55,90,130,81,86,525,False,False,1.5,45.0,184,toxic debris,corrosion,blue,,medium-slow,25,50,970
+971,971,greavard,墓仔狗,generation-ix,第九世代,9,paldea,帕底亚,ghost,幽灵,,,50,61,60,30,55,34,290,False,False,0.6,35.0,58,pickup,fluffy,white,,medium-slow,120,50,971
+972,972,houndstone,墓扬犬,generation-ix,第九世代,9,paldea,帕底亚,ghost,幽灵,,,72,101,100,50,97,68,488,False,False,2.0,15.0,171,sand rush,fluffy,white,,medium-slow,60,50,972
+973,973,flamigo,纏红鹤,generation-ix,第九世代,9,paldea,帕底亚,flying,飞行,fighting,格斗,82,115,74,75,64,90,500,False,False,1.6,37.0,175,scrappy; tangled feet,costar,pink,,medium-slow,100,50,973
+974,974,cetoddle,走鲸,generation-ix,第九世代,9,paldea,帕底亚,ice,冰,,,108,68,45,30,40,43,334,False,False,1.2,45.0,67,thick fat; snow cloak,sheer force,white,,medium-slow,150,50,974
+975,975,cetitan,浩大鲸,generation-ix,第九世代,9,paldea,帕底亚,ice,冰,,,170,113,65,45,55,73,521,False,False,4.5,700.0,182,thick fat; slush rush,sheer force,white,,medium-slow,50,50,975
+976,976,veluza,轻身鳕,generation-ix,第九世代,9,paldea,帕底亚,water,水,psychic,超能力,90,102,73,78,65,70,478,False,False,2.5,90.0,167,mold breaker,sharpness,gray,,fast,100,50,976
+977,977,dondozo,吃吼霸,generation-ix,第九世代,9,paldea,帕底亚,water,水,,,150,100,115,65,65,35,530,False,False,12.0,220.0,265,unaware; oblivious,water veil,blue,,slow,25,50,977
+978,978,tatsugiri,米立龙,generation-ix,第九世代,9,paldea,帕底亚,dragon,龙,water,水,68,50,60,120,95,82,475,False,False,0.3,8.0,166,commander,storm drain,pink,,medium-slow,100,50,978
+979,979,annihilape,弃世猴,generation-ix,第九世代,9,paldea,帕底亚,fighting,格斗,ghost,幽灵,110,115,80,50,90,90,535,False,False,1.2,56.0,268,vital spirit; inner focus,defiant,gray,,medium,45,50,979
+980,980,clodsire,土王,generation-ix,第九世代,9,paldea,帕底亚,poison,毒,ground,地面,130,75,60,45,100,20,430,False,False,1.8,223.0,151,poison point; water absorb,unaware,brown,,medium,90,50,980
+981,981,farigiraf,奇麒麟,generation-ix,第九世代,9,paldea,帕底亚,normal,一般,psychic,超能力,120,90,70,110,70,60,520,False,False,3.2,160.0,260,cud chew; armor tail,sap sipper,brown,,medium,45,50,981
+982,982,dudunsparce,土龙节节,generation-ix,第九世代,9,paldea,帕底亚,normal,一般,,,125,100,80,85,75,55,520,False,False,3.6,39.2,182,serene grace; run away,rattled,yellow,,medium,45,50,982
+983,983,kingambit,仆刀将军,generation-ix,第九世代,9,paldea,帕底亚,dark,恶,steel,钢,100,135,120,60,85,50,550,False,False,2.0,120.0,275,defiant; supreme overlord,pressure,black,,medium,25,50,983
+984,984,great-tusk,雄伟牙,generation-ix,第九世代,9,paldea,帕底亚,ground,地面,fighting,格斗,115,131,131,53,53,87,570,False,False,2.2,320.0,285,protosynthesis,,purple,,slow,30,0,984
+985,985,scream-tail,吼叫尾,generation-ix,第九世代,9,paldea,帕底亚,fairy,妖精,psychic,超能力,115,65,99,65,115,111,570,False,False,1.2,8.0,285,protosynthesis,,pink,,slow,50,0,985
+986,986,brute-bonnet,猛恶菇,generation-ix,第九世代,9,paldea,帕底亚,grass,草,dark,恶,111,127,99,79,99,55,570,False,False,1.2,21.0,285,protosynthesis,,gray,,slow,50,0,986
+987,987,flutter-mane,振翼发,generation-ix,第九世代,9,paldea,帕底亚,ghost,幽灵,fairy,妖精,55,55,55,135,135,135,570,False,False,1.4,4.0,285,protosynthesis,,gray,,slow,30,0,987
+988,988,slither-wing,爬地翅,generation-ix,第九世代,9,paldea,帕底亚,bug,虫,fighting,格斗,85,135,79,85,105,81,570,False,False,3.2,92.0,285,protosynthesis,,red,,slow,30,0,988
+989,989,sandy-shocks,沙铁皮,generation-ix,第九世代,9,paldea,帕底亚,electric,电,ground,地面,85,81,97,121,85,101,570,False,False,2.3,60.0,285,protosynthesis,,gray,,slow,30,0,989
+990,990,iron-treads,铁轍迹,generation-ix,第九世代,9,paldea,帕底亚,ground,地面,steel,钢,90,112,120,72,70,106,570,False,False,0.9,240.0,285,quark drive,,gray,,slow,30,0,990
+991,991,iron-bundle,铁包袱,generation-ix,第九世代,9,paldea,帕底亚,ice,冰,water,水,56,80,114,124,60,136,570,False,False,0.6,11.0,285,quark drive,,red,,slow,50,0,991
+992,992,iron-hands,铁臂膀,generation-ix,第九世代,9,paldea,帕底亚,fighting,格斗,electric,电,154,140,108,50,68,50,570,False,False,1.8,380.7,285,quark drive,,gray,,slow,50,0,992
+993,993,iron-jugulis,铁脖颈,generation-ix,第九世代,9,paldea,帕底亚,dark,恶,flying,飞行,94,80,86,122,80,108,570,False,False,1.3,111.0,285,quark drive,,blue,,slow,30,0,993
+994,994,iron-moth,铁毒蛾,generation-ix,第九世代,9,paldea,帕底亚,fire,火,poison,毒,80,70,60,140,110,110,570,False,False,1.2,36.0,285,quark drive,,yellow,,slow,30,0,994
+995,995,iron-thorns,铁荆棘,generation-ix,第九世代,9,paldea,帕底亚,rock,岩石,electric,电,100,134,110,70,84,72,570,False,False,1.6,303.0,285,quark drive,,green,,slow,30,0,995
+996,996,frigibax,凉脊龙,generation-ix,第九世代,9,paldea,帕底亚,dragon,龙,ice,冰,65,75,45,35,45,55,320,False,False,0.5,17.0,64,thermal exchange,ice body,gray,,slow,45,50,996
+997,997,arctibax,冻脊龙,generation-ix,第九世代,9,paldea,帕底亚,dragon,龙,ice,冰,90,95,66,45,65,62,423,False,False,0.8,30.0,148,thermal exchange,ice body,gray,,slow,25,50,997
+998,998,baxcalibur,戟脊龙,generation-ix,第九世代,9,paldea,帕底亚,dragon,龙,ice,冰,115,145,92,75,86,87,600,False,False,2.1,210.0,300,thermal exchange,ice body,gray,,slow,10,50,998
+999,999,gimmighoul,索财灵,generation-ix,第九世代,9,paldea,帕底亚,ghost,幽灵,,,45,30,70,75,70,10,300,False,False,0.3,5.0,60,rattled,,brown,,slow,45,50,999
+1000,1000,gholdengo,赛富豪,generation-ix,第九世代,9,paldea,帕底亚,steel,钢,ghost,幽灵,87,60,95,133,91,84,550,False,False,1.2,30.0,275,good as gold,,yellow,,slow,45,50,1000
+1001,1001,wo-chien,古简蜗,generation-ix,第九世代,9,paldea,帕底亚,dark,恶,grass,草,85,85,100,95,135,70,570,True,False,1.5,74.2,285,tablets of ruin,,brown,,slow,6,0,1001
+1002,1002,chien-pao,古剑豹,generation-ix,第九世代,9,paldea,帕底亚,dark,恶,ice,冰,80,120,80,90,65,135,570,True,False,1.9,152.2,285,sword of ruin,,white,,slow,6,0,1002
+1003,1003,ting-lu,古鼎鹿,generation-ix,第九世代,9,paldea,帕底亚,dark,恶,ground,地面,155,110,125,55,80,45,570,True,False,2.7,699.7,285,vessel of ruin,,brown,,slow,6,0,1003
+1004,1004,chi-yu,古玉鱼,generation-ix,第九世代,9,paldea,帕底亚,dark,恶,fire,火,55,80,80,135,120,100,570,True,False,0.4,4.9,285,beads of ruin,,red,,slow,6,0,1004
+1005,1005,roaring-moon,轰鸣月,generation-ix,第九世代,9,paldea,帕底亚,dragon,龙,dark,恶,105,139,71,55,101,119,590,False,False,2.0,380.0,295,protosynthesis,,green,,slow,10,0,1005
+1006,1006,iron-valiant,铁武者,generation-ix,第九世代,9,paldea,帕底亚,fairy,妖精,fighting,格斗,74,130,90,120,60,116,590,False,False,1.4,35.0,295,quark drive,,white,,slow,10,0,1006
+1007,1007,koraidon,故勒顿,generation-ix,第九世代,9,paldea,帕底亚,fighting,格斗,dragon,龙,100,135,115,85,100,135,670,True,False,2.5,303.0,335,orichalcum pulse,,red,,slow,3,0,1007
+1008,1008,miraidon,密勒顿,generation-ix,第九世代,9,paldea,帕底亚,electric,电,dragon,龙,100,85,100,135,115,135,670,True,False,3.5,240.0,335,hadron engine,,blue,,slow,3,0,1008
+1009,1009,walking-wake,波荡水,generation-ix,第九世代,9,paldea,帕底亚,water,水,dragon,龙,99,83,91,125,83,109,590,False,False,3.5,280.0,295,protosynthesis,,blue,,slow,5,0,1009
+1010,1010,iron-leaves,铁斑叶,generation-ix,第九世代,9,paldea,帕底亚,grass,草,psychic,超能力,90,130,88,70,108,104,590,False,False,1.5,125.0,295,quark drive,,green,,slow,5,0,1010
+1011,1011,dipplin,裹蜜虫,generation-ix,第九世代,9,paldea,帕底亚,grass,草,dragon,龙,80,80,110,95,80,40,485,False,False,0.4,9.7,170,supersweet syrup; gluttony,sticky hold,green,,slow,45,50,1011
+1012,1012,poltchageist,斯魔茶,generation-ix,第九世代,9,paldea,帕底亚,grass,草,ghost,幽灵,40,45,45,74,54,50,308,False,False,0.1,1.1,62,hospitality,heatproof,green,,slow,120,50,1012
+1013,1013,sinistcha,来悲粗茶,generation-ix,第九世代,9,paldea,帕底亚,grass,草,ghost,幽灵,71,60,106,121,80,70,508,False,False,0.2,2.2,178,hospitality,heatproof,green,,slow,60,50,1013
+1014,1014,okidogi,够赞狗,generation-ix,第九世代,9,paldea,帕底亚,poison,毒,fighting,格斗,88,128,115,58,86,80,555,True,False,1.8,92.2,278,toxic chain,guard dog,black,,slow,3,0,1014
+1015,1015,munkidori,愿增猿,generation-ix,第九世代,9,paldea,帕底亚,poison,毒,psychic,超能力,88,75,66,130,90,106,555,True,False,1.0,12.2,278,toxic chain,frisk,black,,slow,3,0,1015
+1016,1016,fezandipiti,吉雉鸡,generation-ix,第九世代,9,paldea,帕底亚,poison,毒,fairy,妖精,88,91,82,70,125,99,555,True,False,1.4,30.1,278,toxic chain,technician,black,,slow,3,0,1016
+1017,1017,ogerpon,厄诡椪,generation-ix,第九世代,9,paldea,帕底亚,grass,草,,,80,120,84,60,96,110,550,True,False,1.2,39.8,275,defiant,,green,,slow,5,50,1017
+1018,1018,archaludon,铝钢桥龙,generation-ix,第九世代,9,paldea,帕底亚,steel,钢,dragon,龙,90,105,130,125,65,85,600,False,False,2.0,60.0,300,stamina; sturdy,stalwart,white,,medium,10,50,1018
+1019,1019,hydrapple,蜜集大蛇,generation-ix,第九世代,9,paldea,帕底亚,grass,草,dragon,龙,106,80,110,120,80,44,540,False,False,1.8,93.0,270,supersweet syrup; regenerator,sticky hold,green,,slow-then-very-fast,10,50,1019
+1020,1020,gouging-fire,破空焰,generation-ix,第九世代,9,paldea,帕底亚,fire,火,dragon,龙,105,115,121,65,93,91,590,False,False,3.5,590.0,295,protosynthesis,,brown,,slow,10,0,1020
+1021,1021,raging-bolt,猛雷鼓,generation-ix,第九世代,9,paldea,帕底亚,electric,电,dragon,龙,125,73,91,137,89,75,590,False,False,5.2,480.0,295,protosynthesis,,yellow,,slow,10,0,1021
+1022,1022,iron-boulder,铁磐岩,generation-ix,第九世代,9,paldea,帕底亚,rock,岩石,psychic,超能力,90,120,80,68,108,124,590,False,False,1.5,162.5,295,quark drive,,gray,,slow,10,0,1022
+1023,1023,iron-crown,铁头壳,generation-ix,第九世代,9,paldea,帕底亚,steel,钢,psychic,超能力,90,72,100,122,108,98,590,False,False,1.6,156.0,295,quark drive,,blue,,slow,10,0,1023
+1024,1024,terapagos,太乐巴戈斯,generation-ix,第九世代,9,paldea,帕底亚,normal,一般,,,90,65,85,65,85,60,450,True,False,0.2,6.5,90,tera shift,,blue,,slow,255,50,1024
+1025,1025,pecharunt,桃歹郎,generation-ix,第九世代,9,paldea,帕底亚,poison,毒,ghost,幽灵,88,88,160,88,88,88,600,False,True,0.3,0.3,300,poison puppeteer,,purple,,slow,3,0,1025
