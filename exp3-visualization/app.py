@@ -10,7 +10,7 @@ import streamlit as st
 
 
 BASE_DIR = Path(__file__).resolve().parent
-DATA_DIR = BASE_DIR / "data"
+DATA_DIR = BASE_DIR.parent / "exp2-data-collection" / "data"
 
 REGION_ORDER = ["关都", "城都", "丰缘", "神奥", "合众", "卡洛斯", "阿罗拉", "伽勒尔", "帕底亚"]
 TYPE_ORDER = [

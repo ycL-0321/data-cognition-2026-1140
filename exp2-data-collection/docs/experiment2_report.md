@@ -96,9 +96,9 @@ data/validation_report.json
 ## 八、可复现命令
 
 ```powershell
-cd C:\Users\ASUS\Documents\Codex\2026-10-20\ren\pokemon_project
-.\.venv\Scripts\python.exe .\collect.py
-.\.venv\Scripts\python.exe .\validate_data.py
+cd C:\Users\ASUS\Documents\Codex\2026-10-20\ren\pokemon_project\exp2-data-collection
+..\.venv\Scripts\python.exe .\collect.py
+..\.venv\Scripts\python.exe .\validate_data.py
 ```
 
 ## 九、实验二结论
