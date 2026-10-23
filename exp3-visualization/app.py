@@ -94,7 +94,7 @@ FORM_REGION_ORDER = ["阿罗拉", "伽勒尔", "洗翠", "帕底亚"]
 
 
 st.set_page_config(
-    page_title="九地区生物图鉴数据分析",
+    page_title="宝可梦图鉴数据分析",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -339,7 +339,7 @@ def check_required_files() -> None:
 check_required_files()
 species_df, forms_df, quality = load_data()
 
-st.markdown('<div class="app-title">九地区生物图鉴数据分析</div>', unsafe_allow_html=True)
+st.markdown('<div class="app-title">宝可梦图鉴数据分析</div>', unsafe_allow_html=True)
 st.markdown(
     '<div class="app-subtitle">基于公开图鉴 API 的物种结构、属性分布与能力差异</div>',
     unsafe_allow_html=True,
