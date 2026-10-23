@@ -429,7 +429,7 @@ st.sidebar.download_button(
     data=download_csv,
     file_name="filtered_pokedex.csv",
     mime="text/csv",
-    use_container_width=True,
+    width="stretch",
 )
 
 tab_region, tab_types, tab_detail, tab_data = st.tabs(
@@ -457,9 +457,10 @@ with tab_region:
     )
     count_fig.update_traces(textposition="outside", cliponaxis=False)
     count_fig.update_layout(showlegend=False)
+    count_fig.update_yaxes(dtick=1)
     left.plotly_chart(
         style_figure(count_fig, 430),
-        use_container_width=True,
+        width="stretch",
         config={"displayModeBar": False},
     )
 
@@ -495,7 +496,7 @@ with tab_region:
     )
     right.plotly_chart(
         style_figure(radar_fig, 430),
-        use_container_width=True,
+        width="stretch",
         config={"displayModeBar": False},
     )
 
@@ -512,7 +513,7 @@ with tab_region:
     box_fig.update_layout(showlegend=False)
     st.plotly_chart(
         style_figure(box_fig, 420),
-        use_container_width=True,
+        width="stretch",
         config={"displayModeBar": False},
     )
 
@@ -555,7 +556,7 @@ with tab_types:
     )
     st.plotly_chart(
         style_figure(heatmap_fig, 440),
-        use_container_width=True,
+        width="stretch",
         config={"displayModeBar": False},
     )
 
@@ -585,9 +586,12 @@ with tab_types:
         yaxis_title="",
         showlegend=False,
     )
+    type_fig.update_xaxes(
+        range=[0, float(type_counts["count"].max()) * 1.15],
+    )
     left.plotly_chart(
         style_figure(type_fig, 460),
-        use_container_width=True,
+        width="stretch",
         config={"displayModeBar": False},
     )
 
@@ -622,7 +626,7 @@ with tab_types:
     )
     right.plotly_chart(
         style_figure(scatter_fig, 460),
-        use_container_width=True,
+        width="stretch",
         config={"displayModeBar": False},
     )
 
@@ -732,7 +736,7 @@ with tab_detail:
             "is_mythical": "幻之",
         }
     )
-    st.dataframe(table, hide_index=True, use_container_width=True, height=420)
+    st.dataframe(table, hide_index=True, width="stretch", height=420)
 
 with tab_data:
     kpi_row(
@@ -761,7 +765,7 @@ with tab_data:
             list(quality.get("missing_counts", {}).items()),
             columns=["字段", "缺失数量"],
         )
-        st.dataframe(missing_table, hide_index=True, use_container_width=True, height=260)
+        st.dataframe(missing_table, hide_index=True, width="stretch", height=260)
 
     with data_right:
         st.markdown("#### 地区形态数量")
@@ -788,7 +792,7 @@ with tab_data:
         forms_fig.update_layout(showlegend=False)
         st.plotly_chart(
             style_figure(forms_fig, 320),
-            use_container_width=True,
+            width="stretch",
             config={"displayModeBar": False},
         )
 
@@ -818,7 +822,7 @@ with tab_data:
             "is_mythical": "幻之",
         }
     )
-    st.dataframe(sample, hide_index=True, use_container_width=True)
+    st.dataframe(sample, hide_index=True, width="stretch")
 
 st.divider()
 st.caption(

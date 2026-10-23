@@ -40,6 +40,13 @@ The interactive page contains four views:
 5. Demonstrate filters and open one catalog entry.
 6. Close with three findings and one limitation.
 
+## Saved screenshots
+
+- `docs/images/overview.png`
+- `docs/images/type_structure.png`
+- `docs/images/catalog_detail.png`
+- `docs/images/data_quality.png`
+
 ## Limitation
 
 Region is assigned by the generation in which a base species first appeared.
