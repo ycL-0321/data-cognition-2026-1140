@@ -71,6 +71,16 @@ cd exp3-visualization
 页面包含地区总览、属性结构、图鉴明细和数据质量四个视图。演示阶段不需要联网，
 采集后的 CSV 已保存在本地仓库中。
 
+### 页面截图
+
+| 地区总览 | 属性结构 |
+|---|---|
+| <img src="exp3-visualization/docs/images/overview.png" alt="地区总览" width="100%"> | <img src="exp3-visualization/docs/images/type_structure.png" alt="属性结构" width="100%"> |
+
+| 图鉴明细 | 数据质量 |
+|---|---|
+| <img src="exp3-visualization/docs/images/catalog_detail.png" alt="图鉴明细" width="100%"> | <img src="exp3-visualization/docs/images/data_quality.png" alt="数据质量" width="100%"> |
+
 ### 文档
 
 - `exp2-data-collection/docs/data_dictionary.md`
